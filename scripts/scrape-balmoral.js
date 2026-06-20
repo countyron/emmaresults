@@ -84,30 +84,97 @@ function parseCalendar(html){
 }
 function parseSeriesResults(html, calendarDistances, seriesShort){
   const table = findBestResultsTable(extractTables(html));
-  if(!table.length) return { swimmerRaces: {}, warnings: [`No results table found for ${seriesShort}`] };
 
-  let headerIdx = table.findIndex(r => r.some(c => /^Name$/i.test(c)) && r.some(c => /Races/i.test(c)));
+  if(!table.length) {
+    return {
+      swimmerRaces: {},
+      warnings: [`No results table found for ${seriesShort}`]
+    };
+  }
+
+  let headerIdx = table.findIndex(r =>
+    r.some(c => /^Name$/i.test(c)) &&
+    r.some(c => /Races/i.test(c))
+  );
+
   if(headerIdx < 0) {
     // Fallback: choose the row with the most parseable date headings.
-    headerIdx = table.map((r,i)=>({i,count:r.map(toIsoFromHeader).filter(Boolean).length})).sort((a,b)=>b.count-a.count)[0]?.i ?? 0;
+    headerIdx = table
+      .map((r, i) => ({
+        i,
+        count: r.map(toIsoFromHeader).filter(Boolean).length
+      }))
+      .sort((a, b) => b.count - a.count)[0]?.i ?? 0;
   }
+
   const header = table[headerIdx];
-  const dateCols = header.map((h,i)=>({i, date: toIsoFromHeader(h), heading:h})).filter(x=>x.date);
-  const swimmerRaces = {}; const warnings = [];
+
+  const dateCols = header
+    .map((h, i) => ({
+      i,
+      date: toIsoFromHeader(h),
+      heading: h
+    }))
+    .filter(x => x.date);
+
+  const swimmerRaces = {};
+  const warnings = [];
+
   console.log(`${seriesShort}: found ${dateCols.length} date columns`);
-  if(!dateCols.length) warnings.push(`${seriesShort}: no date columns detected in results table`);
+
+  if(!dateCols.length) {
+    warnings.push(`${seriesShort}: no date columns detected in results table`);
+  }
 
   for(const swimmer of SWIMMERS){
     const target = normaliseName(swimmer);
-    const row = table.find((r, idx) => idx !== headerIdx && normaliseName(r.join(' ')).includes(target));
-    if(!row){ warnings.push(`${swimmer} row not found for ${seriesShort}`); swimmerRaces[swimmer] = []; continue; }
-    swimmerRaces[swimmer] = dateCols.map(col => {
-      const raw = row[col.i] || ''; const seconds = parsePaceSeconds(raw);
-      if(seconds == null) return null;
-      return { date: col.date, day: new Date(col.date+'T00:00:00Z').toLocaleDateString('en-AU',{weekday:'long', timeZone:'UTC'}), series: seriesShort, distance_m: calendarDistances[col.date] || null, pace_raw: raw, pace_seconds_per_100m: seconds };
-    }).filter(Boolean);
-    console.log(`${seriesShort}: ${swimmer} ${swimmerRaces[swimmer].length} race entries`);
+
+    const row = table.find((r, idx) =>
+      idx !== headerIdx &&
+      normaliseName(r.join(' ')).includes(target)
+    );
+
+    if(!row){
+      warnings.push(`${swimmer} row not found for ${seriesShort}`);
+      swimmerRaces[swimmer] = [];
+      continue;
+    }
+
+    const races = [];
+
+    for(let d = 0; d < dateCols.length; d++){
+      const currentCol = dateCols[d].i;
+      const nextCol = dateCols[d + 1]?.i ?? row.length;
+
+      // Search every cell between this date heading and the next date heading.
+      // This avoids accidentally selecting points/place columns.
+      const candidateCells = row.slice(currentCol, nextCol);
+
+      const paceCell = candidateCells.find(cell => parsePaceSeconds(cell) !== null);
+      const seconds = parsePaceSeconds(paceCell);
+
+      if(seconds === null) {
+        continue;
+      }
+
+      races.push({
+        date: dateCols[d].date,
+        day: new Date(dateCols[d].date + 'T00:00:00Z').toLocaleDateString('en-AU', {
+          weekday: 'long',
+          timeZone: 'UTC'
+        }),
+        series: seriesShort,
+        distance_m: calendarDistances[dateCols[d].date] || null,
+        pace_raw: paceCell,
+        pace_seconds_per_100m: seconds
+      });
+    }
+
+    swimmerRaces[swimmer] = races;
+
+    console.log(`${seriesShort}: ${swimmer} ${races.length} race entries`);
   }
+
   return { swimmerRaces, warnings };
 }
 
