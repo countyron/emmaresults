@@ -17,7 +17,7 @@
   </style>
 </head>
 <body>
-<header><h1>Balmoral Swim Pace Tracker</h1><div class="sub" id="updated">Loading race data…</div></header>
+<header><h1>Balmoral Swim Pace Tracker</h1><div class="sub" id="updated">Loading race data...</div></header>
 <main class="wrap">
   <div class="err" id="err"></div>
   <section class="panel">
@@ -31,36 +31,167 @@
     <div class="warnings" id="warnings"></div>
   </section>
   <section class="cards">
-    <div class="card"><div class="metric" id="swimmerCount">–</div><div class="label">Swimmers tracked</div></div>
-    <div class="card"><div class="metric" id="raceCount">–</div><div class="label">Visible race entries</div></div>
-    <div class="card"><div class="metric" id="latestPace">–</div><div class="label">Latest selected pace /100 m</div></div>
-    <div class="card"><div class="metric" id="bestPace">–</div><div class="label">Best selected pace /100 m</div></div>
+    <div class="card"><div class="metric" id="swimmerCount">-</div><div class="label">Swimmers tracked</div></div>
+    <div class="card"><div class="metric" id="raceCount">-</div><div class="label">Visible race entries</div></div>
+    <div class="card"><div class="metric" id="latestPace">-</div><div class="label">Latest selected pace /100 m</div></div>
+    <div class="card"><div class="metric" id="bestPace">-</div><div class="label">Best selected pace /100 m</div></div>
   </section>
   <section class="chartBox"><canvas id="paceChart"></canvas></section>
   <section class="tableWrap"><table><thead><tr><th>Date</th><th>Day</th><th>Series</th><th>Swimmer</th><th>Distance</th><th>Pace /100 m</th><th>Seconds /100 m</th></tr></thead><tbody id="rows"></tbody></table></section>
 </main>
 <script>
-let rawData=null, chart=null, mode='single';
-const colours=['#0077b6','#ef476f','#06d6a0','#ffb703','#8338ec','#fb5607','#3a86ff','#2a9d8f','#e76f51','#6d597a'];
-function fmtPace(seconds){ if(!Number.isFinite(seconds)) return '–'; const m=Math.floor(seconds/60); const s=Math.round(seconds%60).toString().padStart(2,'0'); return `${m}:${s}`; }
-function fmtDate(iso){ const d=new Date(iso+'T00:00:00'); return isNaN(d) ? iso : d.toLocaleDateString('en-AU',{weekday:'short',day:'2-digit',month:'short'}); }
-function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
-function getSwimmers(){ return rawData?.swimmers?.map(s=>s.name) || []; }
-function allRaces(){ return (rawData?.swimmers||[]).flatMap(s => (s.races||[]).map(r => ({...r, swimmer:s.name}))).filter(r=>Number.isFinite(r.pace_seconds_per_100m)); }
-function selectedCompareNames(){ return [...document.querySelectorAll('#compareChips input:checked')].map(i=>i.value); }
-function visibleRaces(){const filter=document.getElementById('seriesFilter').value;let races=allRaces().filter(r=>filter==='all'||r.series===filter).sort((a,b)=>a.date.localeCompare(b.date)); if(mode==='single') races=races.filter(r=>r.swimmer===document.getElementById('swimmerSelect').value); else races=races.filter(r=>selectedCompareNames().includes(r.swimmer)); return races;}
-function setMode(next){mode=next;document.getElementById('singleBtn').className=mode==='single'?'active':'secondary';document.getElementById('compareBtn').className=mode==='compare'?'active':'secondary';draw();}
-function draw(){
- const races=visibleRaces(); document.getElementById('swimmerCount').textContent=getSwimmers().length; document.getElementById('raceCount').textContent=races.length;
- const selectedSingle=allRaces().filter(r=>r.swimmer===document.getElementById('swimmerSelect').value).sort((a,b)=>a.date.localeCompare(b.date));
- document.getElementById('latestPace').textContent=selectedSingle.length?fmtPace(selectedSingle.at(-1).pace_seconds_per_100m):'–'; document.getElementById('bestPace').textContent=selectedSingle.length?fmtPace(Math.min(...selectedSingle.map(r=>r.pace_seconds_per_100m))):'–';
- document.getElementById('rows').innerHTML=races.map(r=>`<tr><td>${fmtDate(r.date)}</td><td>${esc(r.day||'')}</td><td><span class="pill ${String(r.series).toLowerCase()}">${esc(r.series)}</span></td><td>${esc(r.swimmer)}</td><td>${r.distance_m||''} m</td><td>${esc(r.pace_raw||fmtPace(r.pace_seconds_per_100m))}</td><td>${r.pace_seconds_per_100m.toFixed(1)}</td></tr>`).join('');
- const labels=[...new Set(races.map(r=>r.date))].sort(); const swimmers=mode==='single'?[document.getElementById('swimmerSelect').value]:selectedCompareNames();
- const datasets=swimmers.map((name,idx)=>({label:name,data:labels.map(d=>{const r=races.find(x=>x.swimmer===name&&x.date===d);return r?r.pace_seconds_per_100m:null;}),borderColor:colours[idx%colours.length],backgroundColor:colours[idx%colours.length],borderWidth:2,tension:.25,pointRadius:4,spanGaps:false}));
- if(chart) chart.destroy(); chart=new Chart(document.getElementById('paceChart'),{type:'line',data:{labels:labels.map(fmtDate),datasets},options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'nearest',intersect:false},scales:{y:{title:{display:true,text:'Seconds per 100 m'}},x:{ticks:{maxRotation:60,minRotation:30}}},plugins:{tooltip:{callbacks:{label:(ctx)=>`${ctx.dataset.label}: ${fmtPace(ctx.parsed.y)} /100 m`}}}});
-}
-async function load(){try{const res=await fetch('data/results.json?cache='+Date.now()); if(!res.ok) throw new Error('Could not load data/results.json'); rawData=await res.json(); document.getElementById('updated').textContent=`Last updated: ${rawData.last_updated || 'unknown'} · Source: Balmoral Beach Club`; const swimmers=getSwimmers(); document.getElementById('swimmerSelect').innerHTML=swimmers.map(n=>`<option>${esc(n)}</option>`).join(''); document.getElementById('compareChips').innerHTML=swimmers.map((n,i)=>`<label class="chip"><input type="checkbox" value="${esc(n)}" ${i<3?'checked':''}>${esc(n)}</label>`).join(''); const w=document.getElementById('warnings'); if(rawData.warnings?.length){w.style.display='block';w.innerHTML='<b>Scraper notes:</b><br>'+rawData.warnings.map(esc).join('<br>');} document.getElementById('singleBtn').onclick=()=>setMode('single'); document.getElementById('compareBtn').onclick=()=>setMode('compare'); document.getElementById('swimmerSelect').onchange=draw; document.getElementById('seriesFilter').onchange=draw; document.getElementById('compareChips').addEventListener('change',draw); draw();}catch(e){const el=document.getElementById('err');el.style.display='block';el.textContent=e.message;}}
-load();
+(function(){
+  var rawData = null;
+  var chart = null;
+  var mode = 'single';
+  var colours = ['#0077b6','#ef476f','#06d6a0','#ffb703','#8338ec','#fb5607','#3a86ff','#2a9d8f','#e76f51','#6d597a'];
+
+  function byId(id){ return document.getElementById(id); }
+  function escapeHtml(value){
+    return String(value == null ? '' : value)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+  function fmtPace(seconds){
+    if(!Number.isFinite(seconds)) return '-';
+    var m = Math.floor(seconds / 60);
+    var s = Math.round(seconds % 60).toString().padStart(2, '0');
+    return m + ':' + s;
+  }
+  function fmtDate(iso){
+    var d = new Date(iso + 'T00:00:00');
+    if(Number.isNaN(d.getTime())) return iso;
+    return d.toLocaleDateString('en-AU', { weekday:'short', day:'2-digit', month:'short' });
+  }
+  function getSwimmers(){
+    return rawData && Array.isArray(rawData.swimmers) ? rawData.swimmers.map(function(s){ return s.name; }) : [];
+  }
+  function allRaces(){
+    if(!rawData || !Array.isArray(rawData.swimmers)) return [];
+    var out = [];
+    rawData.swimmers.forEach(function(swimmer){
+      (swimmer.races || []).forEach(function(race){
+        if(Number.isFinite(race.pace_seconds_per_100m)){
+          var copy = Object.assign({}, race);
+          copy.swimmer = swimmer.name;
+          out.push(copy);
+        }
+      });
+    });
+    return out;
+  }
+  function selectedCompareNames(){
+    return Array.prototype.slice.call(document.querySelectorAll('#compareChips input:checked')).map(function(input){ return input.value; });
+  }
+  function visibleRaces(){
+    var filter = byId('seriesFilter').value;
+    var races = allRaces().filter(function(r){ return filter === 'all' || r.series === filter; }).sort(function(a,b){ return a.date.localeCompare(b.date); });
+    if(mode === 'single'){
+      var selected = byId('swimmerSelect').value;
+      return races.filter(function(r){ return r.swimmer === selected; });
+    }
+    var names = selectedCompareNames();
+    return races.filter(function(r){ return names.indexOf(r.swimmer) >= 0; });
+  }
+  function setMode(nextMode){
+    mode = nextMode;
+    byId('singleBtn').className = mode === 'single' ? 'active' : 'secondary';
+    byId('compareBtn').className = mode === 'compare' ? 'active' : 'secondary';
+    draw();
+  }
+  function draw(){
+    var races = visibleRaces();
+    var swimmers = getSwimmers();
+    byId('swimmerCount').textContent = swimmers.length;
+    byId('raceCount').textContent = races.length;
+
+    var selectedName = byId('swimmerSelect').value;
+    var selectedSingle = allRaces().filter(function(r){ return r.swimmer === selectedName; }).sort(function(a,b){ return a.date.localeCompare(b.date); });
+    byId('latestPace').textContent = selectedSingle.length ? fmtPace(selectedSingle[selectedSingle.length - 1].pace_seconds_per_100m) : '-';
+    byId('bestPace').textContent = selectedSingle.length ? fmtPace(Math.min.apply(null, selectedSingle.map(function(r){ return r.pace_seconds_per_100m; }))) : '-';
+
+    byId('rows').innerHTML = races.map(function(r){
+      return '<tr>' +
+        '<td>' + escapeHtml(fmtDate(r.date)) + '</td>' +
+        '<td>' + escapeHtml(r.day || '') + '</td>' +
+        '<td><span class="pill ' + escapeHtml(String(r.series || '').toLowerCase()) + '">' + escapeHtml(r.series || '') + '</span></td>' +
+        '<td>' + escapeHtml(r.swimmer || '') + '</td>' +
+        '<td>' + escapeHtml((r.distance_m || '') + ' m') + '</td>' +
+        '<td>' + escapeHtml(r.pace_raw || fmtPace(r.pace_seconds_per_100m)) + '</td>' +
+        '<td>' + escapeHtml(r.pace_seconds_per_100m.toFixed(1)) + '</td>' +
+        '</tr>';
+    }).join('');
+
+    renderChart(races);
+  }
+  function renderChart(races){
+    if(typeof Chart === 'undefined'){
+      byId('err').style.display = 'block';
+      byId('err').textContent = 'Chart.js did not load. The table below is still available.';
+      return;
+    }
+    var labels = Array.from(new Set(races.map(function(r){ return r.date; }))).sort();
+    var chartSwimmers = mode === 'single' ? [byId('swimmerSelect').value] : selectedCompareNames();
+    var datasets = chartSwimmers.map(function(name, idx){
+      return {
+        label: name,
+        data: labels.map(function(date){
+          var race = races.find(function(r){ return r.swimmer === name && r.date === date; });
+          return race ? race.pace_seconds_per_100m : null;
+        }),
+        borderColor: colours[idx % colours.length],
+        backgroundColor: colours[idx % colours.length],
+        borderWidth: 2,
+        tension: 0.25,
+        pointRadius: 4,
+        spanGaps: false
+      };
+    });
+    if(chart) chart.destroy();
+    chart = new Chart(byId('paceChart'), {
+      type: 'line',
+      data: { labels: labels.map(fmtDate), datasets: datasets },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: { mode: 'nearest', intersect: false },
+        scales: { y: { title: { display: true, text: 'Seconds per 100 m' } }, x: { ticks: { maxRotation: 60, minRotation: 30 } } },
+        plugins: { tooltip: { callbacks: { label: function(ctx){ return ctx.dataset.label + ': ' + fmtPace(ctx.parsed.y) + ' /100 m'; } } } }
+      }
+    });
+  }
+  async function load(){
+    try{
+      var res = await fetch('data/results.json?cache=' + Date.now());
+      if(!res.ok) throw new Error('Could not load data/results.json. HTTP ' + res.status);
+      rawData = await res.json();
+      byId('updated').textContent = 'Last updated: ' + (rawData.last_updated || 'unknown') + ' · Source: Balmoral Beach Club';
+      var swimmers = getSwimmers();
+      byId('swimmerSelect').innerHTML = swimmers.map(function(n){ return '<option>' + escapeHtml(n) + '</option>'; }).join('');
+      byId('compareChips').innerHTML = swimmers.map(function(n, i){ return '<label class="chip"><input type="checkbox" value="' + escapeHtml(n) + '" ' + (i < 3 ? 'checked' : '') + '>' + escapeHtml(n) + '</label>'; }).join('');
+      var warningBox = byId('warnings');
+      if(rawData.warnings && rawData.warnings.length){
+        warningBox.style.display = 'block';
+        warningBox.innerHTML = '<b>Scraper notes:</b><br>' + rawData.warnings.map(escapeHtml).join('<br>');
+      }
+      byId('singleBtn').onclick = function(){ setMode('single'); };
+      byId('compareBtn').onclick = function(){ setMode('compare'); };
+      byId('swimmerSelect').onchange = draw;
+      byId('seriesFilter').onchange = draw;
+      byId('compareChips').addEventListener('change', draw);
+      draw();
+    } catch(e){
+      byId('err').style.display = 'block';
+      byId('err').textContent = 'App load error: ' + (e && e.message ? e.message : e);
+      byId('updated').textContent = 'Could not load race data';
+      console.error(e);
+    }
+  }
+  load();
+})();
 </script>
 </body>
 </html>
