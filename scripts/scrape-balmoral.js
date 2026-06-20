@@ -39,11 +39,15 @@ function toIsoFromHeader(label){
 
 function parsePaceSeconds(value){
   const v = clean(value);
-  if(!v || /^[-–—]$/.test(v)) return null;
+
+  // ✅ Only accept proper time values (e.g. 1:35, 1:42)
   const m = v.match(/^(\d+):(\d{1,2})(?:\.(\d+))?$/);
-  if(m) return Number(m[1])*60 + Number(m[2]) + Number('0.'+(m[3]||'0'));
-  const n = Number(v);
-  return Number.isFinite(n) && n > 0 ? n : null;
+  if(m){
+    return Number(m[1]) * 60 + Number(m[2]) + Number('0.' + (m[3] || '0'));
+  }
+
+  // ❌ Reject simple numbers like "1", "2" (these are rankings/points)
+  return null;
 }
 
 async function fetchText(url){
