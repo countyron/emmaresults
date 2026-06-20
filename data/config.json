@@ -1,0 +1,19 @@
+{
+  "swimmers": [
+    "Bennett, Emma",
+    "Bennett, Shaun"
+  ],
+  "season": 2025,
+  "series": [
+    {
+      "name": "Saturday Winter 2025-26",
+      "short": "Sat",
+      "eventId": 249
+    },
+    {
+      "name": "Sunday Winter 2025-26",
+      "short": "Sun",
+      "eventId": 248
+    }
+  ]
+}

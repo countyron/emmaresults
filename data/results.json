@@ -1,0 +1,36 @@
+{
+  "last_updated": null,
+  "source": "Balmoral Beach Club",
+  "config": {
+    "swimmers": [
+      "Bennett, Emma",
+      "Bennett, Shaun"
+    ],
+    "season": 2025,
+    "series": [
+      {
+        "name": "Saturday Winter 2025-26",
+        "short": "Sat",
+        "eventId": 249
+      },
+      {
+        "name": "Sunday Winter 2025-26",
+        "short": "Sun",
+        "eventId": 248
+      }
+    ]
+  },
+  "swimmers": [
+    {
+      "name": "Bennett, Emma",
+      "races": []
+    },
+    {
+      "name": "Bennett, Shaun",
+      "races": []
+    }
+  ],
+  "warnings": [
+    "Initial placeholder. Run GitHub Action to populate live results."
+  ]
+}
