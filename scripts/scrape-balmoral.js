@@ -55,20 +55,45 @@ function findBestResultsTable(tables){
     .sort((a,b)=>(b.names*1000+b.cols)-(a.names*1000+a.cols))[0]?.rows || [];
 }
 function parseCalendar(html){
-  const tables = extractTables(html); const distances = {};
-  const months = {Jan:'01',Feb:'02',Mar:'03',Apr:'04',May:'05',Jun:'06',Jul:'07',Aug:'08',Sep:'09',Oct:'10',Nov:'11',Dec:'12'};
+  const tables = extractTables(html);
+  const calendar = [];
+
+  const months = {
+    Jan:'01', Feb:'02', Mar:'03', Apr:'04', May:'05', Jun:'06',
+    Jul:'07', Aug:'08', Sep:'09', Oct:'10', Nov:'11', Dec:'12'
+  };
+
   for(const table of tables){
     for(const row of table){
       const dateCell = row.find(c => /\d{1,2}-[A-Z][a-z]{2}-\d{4}/.test(c));
       if(!dateCell) continue;
+
       const dm = dateCell.match(/(\d{1,2})-([A-Z][a-z]{2})-(\d{4})/);
       if(!dm || !months[dm[2]]) continue;
+
       const iso = `${dm[3]}-${months[dm[2]]}-${String(dm[1]).padStart(2,'0')}`;
-      const dist = row.map(c => c.match(/^\d{3,4}$/)?.[0]).filter(Boolean).map(Number).find(n => n >= 500 && n <= 3000);
-      if(dist) distances[iso] = dist;
+
+      const dist = row
+        .map(c => c.match(/^\d{3,4}$/)?.[0])
+        .filter(Boolean)
+        .map(Number)
+        .find(n => n >= 500 && n <= 3000);
+
+      calendar.push({
+        date: iso,
+        distance_m: dist || null
+      });
     }
   }
-  return distances;
+
+  // Remove duplicate dates and keep calendar order
+  const seen = new Set();
+
+  return calendar.filter(r => {
+    if(seen.has(r.date)) return false;
+    seen.add(r.date);
+    return true;
+  });
 }
 function getNameFromRow(row){
   for(const cell of row.slice(0,4)){
