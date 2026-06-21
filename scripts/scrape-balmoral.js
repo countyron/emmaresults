@@ -6,13 +6,13 @@ const SEASON = CONFIG.season || 2025;
 const PRIMARY_SWIMMER = CONFIG.primarySwimmer || 'Bennett, Emma';
 let SWIMMERS = Array.isArray(CONFIG.swimmers) ? CONFIG.swimmers : [];
 const TRACK_ALL = CONFIG.trackAllSwimmers !== false;
-
 const EXCLUDED_DATES = new Set(CONFIG.excludedDates || ['2026-05-03','2026-05-10']);
 const MAX_PACE_SECONDS = CONFIG.maxPaceSeconds || 180;
 
 const SERIES = (CONFIG.series || []).map(s => ({
   ...s,
   lapYUrl: `https://www.balmoralbeachclub.org.au/BaseTemplate.cfm?FileName=SeriesResults.cfm&EventID=${s.eventId}&n=1&Season=${SEASON}&REQUESTTIMEOUT=500&P=BeachPublic&lap=Y`,
+  lapNUrl: `https://www.balmoralbeachclub.org.au/BaseTemplate.cfm?FileName=SeriesResults.cfm&EventID=${s.eventId}&n=1&Season=${SEASON}&REQUESTTIMEOUT=500&P=BeachPublic&lap=N`,
   calendarUrl: `https://www.balmoralbeachclub.org.au/BaseTemplate.cfm?FileName=CalendarRep1.cfm&EventID=${s.eventId}&Season=${SEASON}&P=BeachPublic`
 }));
 
@@ -50,43 +50,39 @@ function parseDurationSeconds(value){
   return null;
 }
 function parsePaceSeconds(value){
-  const seconds = parseDurationSeconds(value);
-  if(seconds === null || seconds <= 0 || seconds > MAX_PACE_SECONDS) return null;
-  return seconds;
+  const s = parseDurationSeconds(value);
+  if(s === null || s <= 0 || s > MAX_PACE_SECONDS) return null;
+  return s;
 }
-function parsePoints(value){
+function parseNumber(value){
   const v = clean(value);
   if(!v || !/^\d+(?:\.\d+)?$/.test(v)) return null;
   const n = Number(v);
-  if(!Number.isFinite(n) || n < 0 || n > 10000) return null;
-  return n;
+  return Number.isFinite(n) ? n : null;
 }
 
 async function fetchText(url){
-  const res = await fetch(url, { headers: { 'user-agent': 'Mozilla/5.0 BalmoralSwimTracker/1.8' }});
+  const res = await fetch(url, { headers: { 'user-agent': 'Mozilla/5.0 BalmoralSwimTracker/1.9' }});
   if(!res.ok) throw new Error(`Fetch failed ${res.status}: ${url}`);
   return await res.text();
 }
-
 function extractTables(html){
   const $ = cheerio.load(html);
   return $('table').toArray().map(table => {
-    const grid = [];
-    const spanMap = new Map();
-    $(table).find('tr').each((r,tr) => {
-      const row = [];
-      let c = 0;
-      while(spanMap.has(`${r},${c}`)){ row[c] = spanMap.get(`${r},${c}`); c++; }
-      $(tr).find('th,td').each((_,cell) => {
-        while(spanMap.has(`${r},${c}`)){ row[c] = spanMap.get(`${r},${c}`); c++; }
-        const text = clean($(cell).text());
-        const colspan = Math.max(1, parseInt($(cell).attr('colspan') || '1',10));
-        const rowspan = Math.max(1, parseInt($(cell).attr('rowspan') || '1',10));
+    const grid=[]; const spanMap=new Map();
+    $(table).find('tr').each((r,tr)=>{
+      const row=[]; let c=0;
+      while(spanMap.has(`${r},${c}`)){ row[c]=spanMap.get(`${r},${c}`); c++; }
+      $(tr).find('th,td').each((_,cell)=>{
+        while(spanMap.has(`${r},${c}`)){ row[c]=spanMap.get(`${r},${c}`); c++; }
+        const text=clean($(cell).text());
+        const colspan=Math.max(1,parseInt($(cell).attr('colspan')||'1',10));
+        const rowspan=Math.max(1,parseInt($(cell).attr('rowspan')||'1',10));
         for(let dc=0; dc<colspan; dc++){
-          row[c+dc] = text;
-          for(let dr=1; dr<rowspan; dr++) spanMap.set(`${r+dr},${c+dc}`, text);
+          row[c+dc]=text;
+          for(let dr=1; dr<rowspan; dr++) spanMap.set(`${r+dr},${c+dc}`,text);
         }
-        c += colspan;
+        c+=colspan;
       });
       grid.push(row);
     });
@@ -94,11 +90,11 @@ function extractTables(html){
   });
 }
 function findBestResultsTable(tables){
-  return tables.map(t => ({rows:t, cols:Math.max(0,...t.map(r=>r.length)), names:t.flat().filter(looksLikeName).length}))
+  return tables.map(t=>({rows:t, cols:Math.max(0,...t.map(r=>r.length)), names:t.flat().filter(looksLikeName).length}))
     .sort((a,b)=>(b.names*1000+b.cols)-(a.names*1000+a.cols))[0]?.rows || [];
 }
 function getNameFromRow(row){
-  for(const cell of row.slice(0,5)) if(looksLikeName(cell)) return clean(cell);
+  for(const cell of row.slice(0,6)) if(looksLikeName(cell)) return clean(cell);
   if(row.length>=2 && /^[A-Za-z][A-Za-z' -]+$/.test(clean(row[0])) && /^[A-Za-z][A-Za-z' -]+$/.test(clean(row[1]))) return `${clean(row[0])}, ${clean(row[1])}`;
   return null;
 }
@@ -111,34 +107,33 @@ function parseCalendar(html){
   const tables=extractTables(html); const distances={};
   const months={Jan:'01',Feb:'02',Mar:'03',Apr:'04',May:'05',Jun:'06',Jul:'07',Aug:'08',Sep:'09',Oct:'10',Nov:'11',Dec:'12'};
   for(const table of tables){
-    const header = table.find(r => r.some(c => /dist/i.test(c)) || r.some(c => /distance/i.test(c)));
-    const distIndex = header ? header.findIndex(c => /dist/i.test(c) || /distance/i.test(c)) : -1;
+    const header=table.find(r=>r.some(c=>/dist/i.test(c)) || r.some(c=>/distance/i.test(c)));
+    const distIndex=header ? header.findIndex(c=>/dist/i.test(c)||/distance/i.test(c)) : -1;
     for(const row of table){
-      const dateCell = row.find(c => /\d{1,2}-[A-Z][a-z]{2}-\d{4}/.test(c));
+      const dateCell=row.find(c=>/\d{1,2}-[A-Z][a-z]{2}-\d{4}/.test(c));
       if(!dateCell) continue;
-      const dm = dateCell.match(/(\d{1,2})-([A-Z][a-z]{2})-(\d{4})/);
+      const dm=dateCell.match(/(\d{1,2})-([A-Z][a-z]{2})-(\d{4})/);
       if(!dm || !months[dm[2]]) continue;
-      const iso = `${dm[3]}-${months[dm[2]]}-${String(dm[1]).padStart(2,'0')}`;
-      let dist = null;
-      if(distIndex >= 0){ const candidate=Number(row[distIndex]); if(Number.isFinite(candidate)&&candidate>=500&&candidate<=3000) dist=candidate; }
-      if(!dist) dist = row.map(c => c.match(/^\d{3,4}$/)?.[0]).filter(Boolean).map(Number).filter(n => ![700,730,800].includes(n)).find(n => n>=500 && n<=3000) || null;
-      distances[iso] = dist;
+      const iso=`${dm[3]}-${months[dm[2]]}-${String(dm[1]).padStart(2,'0')}`;
+      let dist=null;
+      if(distIndex>=0){ const n=Number(row[distIndex]); if(Number.isFinite(n)&&n>=500&&n<=3000) dist=n; }
+      if(!dist) dist=row.map(c=>c.match(/^\d{3,4}$/)?.[0]).filter(Boolean).map(Number).filter(n=>![700,730,800].includes(n)).find(n=>n>=500&&n<=3000)||null;
+      distances[iso]=dist;
     }
   }
   return distances;
 }
-function buildDateGroupsAndLabels(table){
-  const firstSwimmerRow = table.findIndex(row => getNameFromRow(row));
-  const headerRows = table.slice(0, firstSwimmerRow >= 0 ? firstSwimmerRow : Math.min(8,table.length));
-  const maxCols = Math.max(0,...table.map(r=>r.length));
-  const dateByCol = Array(maxCols).fill(null);
-  const labelByCol = Array(maxCols).fill('');
+function buildDateGroupsAndHeader(table){
+  const firstSwimmerRow=table.findIndex(row=>getNameFromRow(row));
+  const headerRows=table.slice(0, firstSwimmerRow>=0 ? firstSwimmerRow : Math.min(8,table.length));
+  const maxCols=Math.max(0,...table.map(r=>r.length));
+  const dateByCol=Array(maxCols).fill(null);
+  const labelByCol=Array(maxCols).fill('');
   for(const row of headerRows){
     for(let c=0;c<maxCols;c++){
-      const text = row[c] || '';
-      if(text) labelByCol[c] = (labelByCol[c] + ' ' + text).trim();
-      const iso=toIsoFromText(text);
-      if(iso) dateByCol[c]=iso;
+      const text=row[c]||'';
+      if(text) labelByCol[c]=(labelByCol[c]+' '+text).trim();
+      const iso=toIsoFromText(text); if(iso) dateByCol[c]=iso;
     }
   }
   let last=null;
@@ -150,48 +145,80 @@ function buildDateGroupsAndLabels(table){
     else groups.push({date,start:c,end:c});
   }
   const seen=new Set();
-  return { groups: groups.filter(g => { if(seen.has(g.date)) return false; seen.add(g.date); return true; }), labelByCol };
+  const uniqueGroups=groups.filter(g=>{ if(seen.has(g.date)) return false; seen.add(g.date); return true; });
+  const flattenedHeader=headerRows.map(r=>r.join(' ')).join(' | ');
+  return { groups:uniqueGroups, labelByCol, headerRows, flattenedHeader };
 }
 function rowsByName(table){ const out=new Map(); for(const row of table){ const n=getNameFromRow(row); if(n) out.set(normaliseName(n),row); } return out; }
-function findPointsInGroup(row, labelByCol, start, end, paceCell){
-  const pointColumns = [];
-  for(let c=start; c<=end; c++){
-    if(/\b(points?|pts?)\b/i.test(labelByCol[c] || '')) pointColumns.push(c);
+function findColumnByHeader(headerRows, regex){
+  const maxCols=Math.max(0,...headerRows.map(r=>r.length));
+  for(let c=0;c<maxCols;c++){
+    const label=headerRows.map(r=>r[c]||'').join(' ');
+    if(regex.test(label)) return c;
   }
-  for(const c of pointColumns){
-    const pts = parsePoints(row[c]);
-    if(pts !== null) return { raw: clean(row[c]), value: pts, source: 'website-points-column' };
-  }
-  // Fallback: choose a numeric cell in the group that is not the pace cell.
-  // This is only used if column headers do not contain Points/Pts.
-  const candidates = [];
-  for(let c=start; c<=end; c++){
-    if(clean(row[c]) === clean(paceCell)) continue;
-    const pts = parsePoints(row[c]);
-    if(pts !== null) candidates.push({ raw: clean(row[c]), value: pts, source: 'website-numeric-fallback' });
-  }
-  // Prefer larger values where points are likely high; avoid tiny place-like values if alternatives exist.
-  candidates.sort((a,b) => b.value - a.value);
-  return candidates[0] || { raw:null, value:null, source:null };
+  return -1;
 }
-function parseLapY(html, seriesShort, calendarDistances, swimmersToTrack){
-  const table = findBestResultsTable(extractTables(html));
-  const { groups, labelByCol } = buildDateGroupsAndLabels(table);
-  const rows = rowsByName(table);
-  const bySwimmer = {};
+function findSeriesTotalPoints(row, headerRows){
+  // This is the circled Pts column in the screenshot: left summary column after Races and before date columns.
+  let ptsCol=findColumnByHeader(headerRows, /^\s*pts\s*$/i);
+  if(ptsCol < 0) ptsCol=findColumnByHeader(headerRows, /\bpts\b|\bpoints\b/i);
+  if(ptsCol >= 0){
+    const pts=parseNumber(row[ptsCol]);
+    if(pts !== null) return { value:pts, raw:clean(row[ptsCol]), source:'series-pts-column', column:ptsCol };
+  }
+  return { value:null, raw:null, source:null, column:null };
+}
+function findEventPoints(row, labelByCol, start, end, paceCell){
+  // Date columns on the points table contain event points. Avoid lap-time cells such as 1:44.
+  const candidates=[];
+  for(let c=start;c<=end;c++){
+    const raw=clean(row[c]);
+    if(!raw || raw===clean(paceCell)) continue;
+    if(parsePaceSeconds(raw) !== null) continue;
+    const n=parseNumber(raw);
+    if(n !== null && n >= 0 && n <= 100) candidates.push({value:n, raw, column:c});
+  }
+  // Usually only one points figure exists in the date group on the point view.
+  candidates.sort((a,b)=>b.value-a.value);
+  return candidates[0] || {value:null, raw:null, column:null};
+}
+function parsePointsTable(html, swimmersToTrack){
+  const table=findBestResultsTable(extractTables(html));
+  const { groups, labelByCol, headerRows } = buildDateGroupsAndHeader(table);
+  const rows=rowsByName(table);
+  const bySwimmer={};
   for(const swimmer of swimmersToTrack){
-    const row = rows.get(normaliseName(swimmer));
-    bySwimmer[swimmer] = [];
+    bySwimmer[swimmer]={ total_points:null, total_points_raw:null, races:{} };
+    const row=rows.get(normaliseName(swimmer));
+    if(!row) continue;
+    const total=findSeriesTotalPoints(row, headerRows);
+    bySwimmer[swimmer].total_points=total.value;
+    bySwimmer[swimmer].total_points_raw=total.raw;
+    for(const g of groups){
+      if(EXCLUDED_DATES.has(g.date)) continue;
+      const p=findEventPoints(row, labelByCol, g.start, g.end, null);
+      if(p.value !== null) bySwimmer[swimmer].races[g.date]={ placing_points:p.value, placing_points_raw:p.raw, points_source:'website-date-column' };
+    }
+  }
+  return bySwimmer;
+}
+function parsePaceTable(html, seriesShort, calendarDistances, swimmersToTrack){
+  const table=findBestResultsTable(extractTables(html));
+  const { groups }=buildDateGroupsAndHeader(table);
+  const rows=rowsByName(table);
+  const bySwimmer={};
+  for(const swimmer of swimmersToTrack){
+    const row=rows.get(normaliseName(swimmer));
+    bySwimmer[swimmer]=[];
     if(!row) continue;
     for(const g of groups){
       if(EXCLUDED_DATES.has(g.date)) continue;
-      const cells = row.slice(g.start, g.end+1);
-      const paceCell = cells.find(c => parsePaceSeconds(c) !== null);
-      const pace = parsePaceSeconds(paceCell);
-      const distance = calendarDistances[g.date] || null;
-      if(pace === null || !distance) continue;
-      const elapsed = distance * pace / 100;
-      const points = findPointsInGroup(row, labelByCol, g.start, g.end, paceCell);
+      const cells=row.slice(g.start,g.end+1);
+      const paceCell=cells.find(c=>parsePaceSeconds(c)!==null);
+      const pace=parsePaceSeconds(paceCell);
+      const distance=calendarDistances[g.date] || null;
+      if(pace===null || !distance) continue;
+      const elapsed=distance*pace/100;
       bySwimmer[swimmer].push({
         date:g.date,
         day:new Date(g.date+'T00:00:00Z').toLocaleDateString('en-AU',{weekday:'long',timeZone:'UTC'}),
@@ -202,10 +229,7 @@ function parseLapY(html, seriesShort, calendarDistances, swimmersToTrack){
         pace_raw:paceCell,
         pace_seconds_per_100m:pace,
         elapsed_time_seconds:elapsed,
-        elapsed_time_raw:fmt(elapsed),
-        placing_points:points.value,
-        placing_points_raw:points.raw,
-        points_source:points.source
+        elapsed_time_raw:fmt(elapsed)
       });
     }
   }
@@ -215,43 +239,53 @@ function rankRaceEntries(entries){
   const byRace=new Map();
   for(const e of entries){ const key=`${e.series}|${e.date}`; if(!byRace.has(key)) byRace.set(key,[]); byRace.get(key).push(e); }
   for(const raceEntries of byRace.values()){
-    const valid = raceEntries.filter(e => Number.isFinite(e.elapsed_time_seconds));
-    const total = valid.length;
-    for(const e of raceEntries) e.total_swimmers = total;
+    const valid=raceEntries.filter(e=>Number.isFinite(e.elapsed_time_seconds));
+    const total=valid.length;
+    for(const e of raceEntries) e.total_swimmers=total;
     valid.sort((a,b)=>a.elapsed_time_seconds-b.elapsed_time_seconds);
-    valid.forEach((e,i)=>{
-      e.elapsed_position=i+1;
-      e.elapsed_position_percent=total ? ((i+1)/total*100) : null;
-    });
+    valid.forEach((e,i)=>{ e.elapsed_position=i+1; e.elapsed_position_percent=total ? ((i+1)/total*100) : null; });
   }
 }
 
 const htmlBySeries=[]; const discovered=[];
 for(const s of SERIES){
   console.log(`Fetching ${s.name || s.short}`);
-  const [lapYHtml, calendarHtml] = await Promise.all([fetchText(s.lapYUrl), fetchText(s.calendarUrl)]);
-  htmlBySeries.push({series:s, lapYHtml, calendarHtml});
-  if(TRACK_ALL) discovered.push(...discoverSwimmersFromResults(extractTables(lapYHtml)));
+  const [paceHtml, pointsHtml, calendarHtml]=await Promise.all([fetchText(s.lapYUrl), fetchText(s.lapNUrl), fetchText(s.calendarUrl)]);
+  htmlBySeries.push({series:s, paceHtml, pointsHtml, calendarHtml});
+  if(TRACK_ALL) discovered.push(...discoverSwimmersFromResults(extractTables(paceHtml)), ...discoverSwimmersFromResults(extractTables(pointsHtml)));
 }
 SWIMMERS = TRACK_ALL ? unique([PRIMARY_SWIMMER, ...discovered]).sort((a,b)=>a.localeCompare(b)) : unique([PRIMARY_SWIMMER, ...SWIMMERS]);
 console.log(`Tracking ${SWIMMERS.length} swimmers`);
-const swimmerMap = Object.fromEntries(SWIMMERS.map(s => [s, []]));
+const swimmerMap=Object.fromEntries(SWIMMERS.map(s=>[s,[]]));
 const warnings=[];
 for(const item of htmlBySeries){
   const distances=parseCalendar(item.calendarHtml);
-  const lapY=parseLapY(item.lapYHtml,item.series.short,distances,SWIMMERS);
-  for(const swimmer of SWIMMERS) swimmerMap[swimmer].push(...(lapY[swimmer] || []));
+  const pace=parsePaceTable(item.paceHtml,item.series.short,distances,SWIMMERS);
+  const points=parsePointsTable(item.pointsHtml,SWIMMERS);
+  for(const swimmer of SWIMMERS){
+    for(const race of pace[swimmer] || []){
+      const p=points[swimmer]?.races?.[race.date] || {};
+      swimmerMap[swimmer].push({
+        ...race,
+        placing_points:p.placing_points ?? null,
+        placing_points_raw:p.placing_points_raw ?? null,
+        points_source:p.points_source ?? null,
+        series_total_points:points[swimmer]?.total_points ?? null,
+        series_total_points_raw:points[swimmer]?.total_points_raw ?? null
+      });
+    }
+  }
 }
 const allEntries=Object.values(swimmerMap).flat();
 rankRaceEntries(allEntries);
-const swimmers=SWIMMERS.map(name => ({name, races:swimmerMap[name].sort((a,b)=>a.date.localeCompare(b.date))}));
+const swimmers=SWIMMERS.map(name=>({name,races:swimmerMap[name].sort((a,b)=>a.date.localeCompare(b.date))}));
 const output={
   last_updated:new Date().toISOString(),
-  source:'Balmoral Beach Club SeriesResults lap=Y and CalendarRep1 pages',
+  source:'Balmoral Beach Club SeriesResults lap=Y/lap=N and CalendarRep1 pages',
   primarySwimmer:PRIMARY_SWIMMER,
   config:CONFIG,
   filters:{excludedDates:[...EXCLUDED_DATES], maxPaceSeconds:MAX_PACE_SECONDS},
-  points:{method:'Website points parsed from the Balmoral results table. Fallback uses numeric value in date group only if a Points/Pts column header is not detected.'},
+  points:{method:'Total points from Pts column; per-race points from the date columns on the points results table.'},
   swimmers,
   warnings
 };
