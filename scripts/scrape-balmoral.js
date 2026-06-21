@@ -113,53 +113,74 @@ function discoverSwimmersFromResults(tables){
   }
   return unique(names).sort((a,b)=>a.localeCompare(b));
 }
-function parseSeriesResults(html, calendarDistances, seriesShort, swimmersToTrack){
-  const tables = extractTables(html);
-  const table = findBestResultsTable(tables);
-  if(!table.length) return { swimmerRaces: {}, warnings: [`No results table found for ${seriesShort}`] };
-
-  let headerIdx = table.findIndex(r => r.some(c => /^Name$/i.test(c)) && r.some(c => /Races/i.test(c)));
-  if(headerIdx < 0) headerIdx = table.map((r,i)=>({i,count:r.map(toIsoFromHeader).filter(Boolean).length})).sort((a,b)=>b.count-a.count)[0]?.i ?? 0;
-  const header = table[headerIdx];
-  const dateCols = header.map((h,i)=>({i, date: toIsoFromHeader(h), heading:h})).filter(x=>x.date);
-  const swimmerRaces = {}; const warnings = [];
-  console.log(`${seriesShort}: found ${dateCols.length} date columns`);
-  if(!dateCols.length) warnings.push(`${seriesShort}: no date columns detected in results table`);
-
-  const rowsByName = new Map();
-  for(let idx=0; idx<table.length; idx++){
-    if(idx === headerIdx) continue;
-    const name = getNameFromRow(table[idx]);
-    if(name) rowsByName.set(normaliseName(name), table[idx]);
-  }
-
-  for(const swimmer of swimmersToTrack){
-    const row = rowsByName.get(normaliseName(swimmer));
-    if(!row){ swimmerRaces[swimmer] = []; continue; }
-    const races = [];
-    for(let d=0; d<dateCols.length; d++){
-      const currentCol = dateCols[d].i;
-      const nextCol = dateCols[d + 1]?.i ?? row.length;
-      const searchStart = Math.max(0, currentCol);
-      const searchEnd = Math.min(row.length, nextCol + 3);
-      const candidateCells = row.slice(searchStart, searchEnd);
-      const paceCell = candidateCells.find(cell => parsePaceSeconds(cell) !== null);
+function parseSeriesResults(html, calendarEntries, seriesShort, swimmersToTrack){function parseSeriesResults(html, calendarEntries, seriesShort, swimmersToTrackCells[i];
       const seconds = parsePaceSeconds(paceCell);
+
       if(seconds === null) continue;
+
       races.push({
-        date: dateCols[d].date,
-        day: new Date(dateCols[d].date + 'T00:00:00Z').toLocaleDateString('en-AU', { weekday:'long', timeZone:'UTC' }),
+        date: calendarRace.date,
+        day: new Date(calendarRace.date + 'T00:00:00Z').toLocaleDateString('en-AU', {
+          weekday: 'long',
+          timeZone: 'UTC'
+        }),
         series: seriesShort,
-        distance_m: calendarDistances[dateCols[d].date] || null,
+        distance_m: calendarRace.distance_m,
         pace_raw: paceCell,
         pace_seconds_per_100m: seconds
       });
     }
+
     swimmerRaces[swimmer] = races;
-    if(races.length) console.log(`${seriesShort}: ${swimmer} ${races.length} race entries`);
+
+    if(races.length) {
+      console.log(`${seriesShort}: ${swimmer} ${races.length} race entries`);
+    }
   }
+
   return { swimmerRaces, warnings };
 }
+  const tables = extractTables(html);
+  const table = findBestResultsTable(tables);
+
+  if(!table.length) {
+    return {
+      swimmerRaces: {},
+      warnings: [`No results table found for ${seriesShort}`]
+    };
+  }
+
+  const swimmerRaces = {};
+  const warnings = [];
+
+  console.log(`${seriesShort}: calendar has ${calendarEntries.length} race dates`);
+
+  const rowsByName = new Map();
+
+  for(let idx = 0; idx < table.length; idx++){
+    const name = getNameFromRow(table[idx]);
+    if(name) {
+      rowsByName.set(normaliseName(name), table[idx]);
+    }
+  }
+
+  for(const swimmer of swimmersToTrack){
+    const row = rowsByName.get(normaliseName(swimmer));
+
+    if(!row){
+      swimmerRaces[swimmer] = [];
+      continue;
+    }
+
+    // Extract only proper pace values such as 1:36, 1:44, 2:37.
+    // This avoids using points, places, race numbers, etc.
+    const paceCells = row.filter(cell => parsePaceSeconds(cell) !== null);
+
+    const races = [];
+
+    for(let i = 0; i < Math.min(paceCells.length, calendarEntries.length); i++){
+      const calendarRace = calendarEntries[i];
+
 
 const htmlBySeries = [];
 const discovered = [];
@@ -175,9 +196,8 @@ console.log(`Tracking ${SWIMMERS.length} swimmers`);
 const swimmerMap = Object.fromEntries(SWIMMERS.map(s => [s, []]));
 const warnings = [];
 for(const item of htmlBySeries){
-  const distances = parseCalendar(item.calendarHtml);
-  const parsed = parseSeriesResults(item.resultsHtml, distances, item.series.short, SWIMMERS);
-  warnings.push(...parsed.warnings);
+ const calendarEntries = parseCalendar(item.calendarHtml);
+const parsed = parseSeriesResults(item.resultsHtml, calendarEntries, item.series.short, SWIMMERS);  warnings.push(...parsed.warnings);
   for(const swimmer of SWIMMERS) swimmerMap[swimmer].push(...(parsed.swimmerRaces[swimmer] || []));
 }
 const swimmers = SWIMMERS.map(name => ({ name, races: swimmerMap[name].sort((a,b)=>a.date.localeCompare(b.date)) }));
