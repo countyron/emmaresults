@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T01:42:44.718Z",
+  "last_updated": "2026-06-21T06:14:10.590Z",
   "source": "Balmoral Beach Club SeriesResults lap=Y and CalendarRep1 pages",
   "primarySwimmer": "Bennett, Emma",
   "config": {
@@ -20,6 +20,13 @@
       }
     ]
   },
+  "filters": {
+    "excludedDates": [
+      "2026-05-03",
+      "2026-05-10"
+    ],
+    "maxPaceSeconds": 180
+  },
   "swimmers": [
     {
       "name": "Adams, Duncan",
@@ -28,79 +35,87 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:44",
           "pace_seconds_per_100m": 104
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:52",
-          "pace_seconds_per_100m": 112
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:50",
-          "pace_seconds_per_100m": 110
+          "distance_m": 1000,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:01",
-          "pace_seconds_per_100m": 121
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:41",
-          "pace_seconds_per_100m": 101
+          "distance_m": 1000,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:38",
-          "pace_seconds_per_100m": 98
-        },
-        {
-          "date": "2026-05-31",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:42",
-          "pace_seconds_per_100m": 102
+          "distance_m": 1000,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:39",
-          "pace_seconds_per_100m": 99
+          "distance_m": 1000,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:40",
-          "pace_seconds_per_100m": 100
+          "distance_m": 1200,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:40",
+          "pace_seconds_per_100m": 100
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:40",
           "pace_seconds_per_100m": 100
         }
@@ -110,18 +125,26 @@
       "name": "Adams, Jeanette",
       "races": [
         {
-          "date": "2026-05-24",
+          "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:59",
           "pace_seconds_per_100m": 119
         },
         {
-          "date": "2026-05-31",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:55",
           "pace_seconds_per_100m": 115
         }
@@ -134,7 +157,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:47",
           "pace_seconds_per_100m": 107
         },
@@ -142,7 +165,7 @@
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:42",
           "pace_seconds_per_100m": 102
         },
@@ -150,7 +173,7 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:48",
           "pace_seconds_per_100m": 108
         },
@@ -158,7 +181,7 @@
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:45",
           "pace_seconds_per_100m": 105
         }
@@ -171,7 +194,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:49",
           "pace_seconds_per_100m": 169
         },
@@ -179,7 +202,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
         },
@@ -187,7 +210,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:29",
           "pace_seconds_per_100m": 149
         },
@@ -195,7 +218,7 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:23",
           "pace_seconds_per_100m": 143
         },
@@ -203,7 +226,7 @@
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:43",
           "pace_seconds_per_100m": 163
         }
@@ -213,10 +236,26 @@
       "name": "Angus, Rob",
       "races": [
         {
-          "date": "2026-05-17",
+          "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:03",
           "pace_seconds_per_100m": 123
         }
@@ -226,10 +265,10 @@
       "name": "Arnold, James",
       "races": [
         {
-          "date": "2026-05-17",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:58",
           "pace_seconds_per_100m": 118
         }
@@ -242,7 +281,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:23",
           "pace_seconds_per_100m": 143
         },
@@ -250,7 +289,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:29",
           "pace_seconds_per_100m": 149
         },
@@ -258,39 +297,23 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:34",
           "pace_seconds_per_100m": 154
-        },
-        {
-          "date": "2026-05-17",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:25",
-          "pace_seconds_per_100m": 145
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:45",
           "pace_seconds_per_100m": 165
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:21",
-          "pace_seconds_per_100m": 141
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:53",
           "pace_seconds_per_100m": 173
         },
@@ -298,23 +321,31 @@
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:26",
-          "pace_seconds_per_100m": 146
+          "distance_m": 1200,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:18",
           "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:18",
           "pace_seconds_per_100m": 138
         },
@@ -322,9 +353,17 @@
           "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:23",
           "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:26",
+          "pace_seconds_per_100m": 146
         }
       ]
     },
@@ -335,7 +374,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:22",
           "pace_seconds_per_100m": 142
         },
@@ -343,7 +382,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:16",
           "pace_seconds_per_100m": 136
         },
@@ -351,7 +390,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:26",
           "pace_seconds_per_100m": 146
         },
@@ -359,7 +398,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
         },
@@ -367,7 +406,7 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:24",
           "pace_seconds_per_100m": 144
         },
@@ -375,7 +414,7 @@
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:41",
           "pace_seconds_per_100m": 161
         },
@@ -383,7 +422,7 @@
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:09",
           "pace_seconds_per_100m": 129
         },
@@ -391,7 +430,7 @@
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:05",
           "pace_seconds_per_100m": 125
         },
@@ -399,7 +438,7 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         },
@@ -407,7 +446,7 @@
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:10",
           "pace_seconds_per_100m": 130
         },
@@ -415,7 +454,7 @@
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         },
@@ -423,7 +462,7 @@
           "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:09",
           "pace_seconds_per_100m": 129
         },
@@ -431,7 +470,7 @@
           "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         }
@@ -441,42 +480,50 @@
       "name": "Barber, Peter",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:22",
-          "pace_seconds_per_100m": 142
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:31",
-          "pace_seconds_per_100m": 151
+          "distance_m": 1200,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:31",
+          "pace_seconds_per_100m": 151
+        },
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
         },
         {
-          "date": "2026-05-30",
+          "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
         }
@@ -486,42 +533,42 @@
       "name": "Barrett, Jon",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:11",
-          "pace_seconds_per_100m": 131
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:18",
-          "pace_seconds_per_100m": 138
+          "distance_m": 1200,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-23",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         },
         {
-          "date": "2026-05-17",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:37",
           "pace_seconds_per_100m": 157
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:09",
           "pace_seconds_per_100m": 129
         }
@@ -534,7 +581,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:26",
           "pace_seconds_per_100m": 146
         },
@@ -542,7 +589,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:29",
           "pace_seconds_per_100m": 149
         },
@@ -550,7 +597,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:36",
           "pace_seconds_per_100m": 156
         }
@@ -560,10 +607,10 @@
       "name": "Batchelor, Shane",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         }
@@ -573,66 +620,74 @@
       "name": "Bennett, Emma",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:50",
-          "pace_seconds_per_100m": 170
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:02",
-          "pace_seconds_per_100m": 122
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:36",
-          "pace_seconds_per_100m": 96
-        },
-        {
-          "date": "2026-05-17",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:40",
-          "pace_seconds_per_100m": 100
-        },
-        {
-          "date": "2026-05-23",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:36",
-          "pace_seconds_per_100m": 96
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:40",
-          "pace_seconds_per_100m": 100
+          "distance_m": 1200,
+          "pace_raw": "2:50",
+          "pace_seconds_per_100m": 170
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:38",
-          "pace_seconds_per_100m": 98
+          "distance_m": 1000,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:35",
+          "pace_seconds_per_100m": 95
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:40",
+          "pace_seconds_per_100m": 100
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:40",
+          "pace_seconds_per_100m": 100
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:36",
           "pace_seconds_per_100m": 96
         }
@@ -642,50 +697,66 @@
       "name": "Bennett, Shaun",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:49",
           "pace_seconds_per_100m": 169
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:11",
           "pace_seconds_per_100m": 131
         },
         {
-          "date": "2026-05-16",
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
         },
         {
-          "date": "2026-05-17",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
         }
@@ -698,39 +769,39 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:10",
-          "pace_seconds_per_100m": 130
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:08",
-          "pace_seconds_per_100m": 128
+          "distance_m": 1200,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:09",
-          "pace_seconds_per_100m": 129
+          "distance_m": 1200,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
         },
         {
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:08",
           "pace_seconds_per_100m": 128
         }
@@ -744,12 +815,28 @@
       "name": "Bostock, Tony",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
+        },
+        {
+          "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:11",
           "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
         }
       ]
     },
@@ -764,23 +851,23 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:29",
           "pace_seconds_per_100m": 149
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:43",
-          "pace_seconds_per_100m": 163
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-23",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "2:45",
           "pace_seconds_per_100m": 165
         }
@@ -793,23 +880,31 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:05",
           "pace_seconds_per_100m": 125
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:21",
-          "pace_seconds_per_100m": 141
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-23",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
         }
@@ -822,7 +917,15 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:28",
           "pace_seconds_per_100m": 148
         }
@@ -835,47 +938,47 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:58",
           "pace_seconds_per_100m": 118
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:54",
-          "pace_seconds_per_100m": 114
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:00",
           "pace_seconds_per_100m": 120
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:52",
-          "pace_seconds_per_100m": 112
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:53",
           "pace_seconds_per_100m": 113
         },
         {
-          "date": "2026-06-07",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:53",
           "pace_seconds_per_100m": 113
         }
@@ -885,18 +988,18 @@
       "name": "Bransgrove, Colin",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:50",
           "pace_seconds_per_100m": 170
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
         }
@@ -910,58 +1013,58 @@
       "name": "Bremner, Andy",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:55",
-          "pace_seconds_per_100m": 115
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:05",
-          "pace_seconds_per_100m": 125
+          "distance_m": 1200,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:59",
-          "pace_seconds_per_100m": 119
+          "distance_m": 1000,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:07",
-          "pace_seconds_per_100m": 127
+          "distance_m": 1000,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:42",
-          "pace_seconds_per_100m": 102
+          "distance_m": 1000,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:45",
-          "pace_seconds_per_100m": 105
+          "distance_m": 1000,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
+          "pace_raw": "1:45",
+          "pace_seconds_per_100m": 105
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:45",
           "pace_seconds_per_100m": 105
         }
@@ -971,58 +1074,66 @@
       "name": "Brookes, Simon",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:39",
-          "pace_seconds_per_100m": 159
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:50",
-          "pace_seconds_per_100m": 110
+          "distance_m": 1200,
+          "pace_raw": "2:39",
+          "pace_seconds_per_100m": 159
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:45",
-          "pace_seconds_per_100m": 105
+          "distance_m": 1000,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:00",
-          "pace_seconds_per_100m": 120
+          "distance_m": 1000,
+          "pace_raw": "1:45",
+          "pace_seconds_per_100m": 105
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:36",
-          "pace_seconds_per_100m": 96
+          "distance_m": 1000,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:38",
-          "pace_seconds_per_100m": 98
+          "distance_m": 1000,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:37",
           "pace_seconds_per_100m": 97
         }
@@ -1036,66 +1147,74 @@
       "name": "Cairns, Grant",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:58",
           "pace_seconds_per_100m": 118
         },
         {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:00",
-          "pace_seconds_per_100m": 120
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:15",
-          "pace_seconds_per_100m": 135
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:47",
-          "pace_seconds_per_100m": 107
+          "distance_m": 1000,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
         },
         {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:49",
-          "pace_seconds_per_100m": 109
+          "date": "2026-05-30",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:52",
-          "pace_seconds_per_100m": 112
+          "distance_m": 1200,
+          "pace_raw": "1:49",
+          "pace_seconds_per_100m": 109
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:51",
-          "pace_seconds_per_100m": 111
+          "distance_m": 1200,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
         },
         {
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:50",
           "pace_seconds_per_100m": 110
         }
@@ -1108,7 +1227,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:35",
           "pace_seconds_per_100m": 155
         },
@@ -1116,7 +1235,7 @@
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:29",
           "pace_seconds_per_100m": 149
         },
@@ -1124,7 +1243,7 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:35",
           "pace_seconds_per_100m": 155
         },
@@ -1132,7 +1251,7 @@
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:34",
           "pace_seconds_per_100m": 154
         },
@@ -1140,7 +1259,7 @@
           "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:33",
           "pace_seconds_per_100m": 153
         }
@@ -1153,15 +1272,15 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:43",
           "pace_seconds_per_100m": 163
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:38",
           "pace_seconds_per_100m": 158
         }
@@ -1169,7 +1288,16 @@
     },
     {
       "name": "Clyne, Shaun",
-      "races": []
+      "races": [
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        }
+      ]
     },
     {
       "name": "Coates, Julie",
@@ -1178,7 +1306,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:42",
           "pace_seconds_per_100m": 162
         },
@@ -1186,7 +1314,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:06",
           "pace_seconds_per_100m": 126
         },
@@ -1194,15 +1322,15 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:28",
           "pace_seconds_per_100m": 148
         }
@@ -1212,18 +1340,26 @@
       "name": "Coates, Pip",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:59",
           "pace_seconds_per_100m": 179
         },
         {
-          "date": "2026-05-17",
+          "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:33",
+          "pace_seconds_per_100m": 93
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:34",
           "pace_seconds_per_100m": 94
         }
@@ -1236,7 +1372,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:47",
           "pace_seconds_per_100m": 167
         },
@@ -1244,7 +1380,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:36",
           "pace_seconds_per_100m": 156
         },
@@ -1252,7 +1388,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:43",
           "pace_seconds_per_100m": 163
         },
@@ -1260,7 +1396,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:30",
           "pace_seconds_per_100m": 150
         },
@@ -1268,7 +1404,7 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:51",
           "pace_seconds_per_100m": 171
         }
@@ -1281,7 +1417,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         },
@@ -1289,55 +1425,47 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:16",
           "pace_seconds_per_100m": 136
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:04",
-          "pace_seconds_per_100m": 124
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
-        },
-        {
-          "date": "2026-05-23",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:05",
-          "pace_seconds_per_100m": 125
-        },
-        {
-          "date": "2026-05-30",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:02",
-          "pace_seconds_per_100m": 122
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:05",
           "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "2:05",
           "pace_seconds_per_100m": 125
         },
@@ -1345,15 +1473,23 @@
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:04",
           "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
         },
         {
           "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:03",
           "pace_seconds_per_100m": 123
         }
@@ -1366,7 +1502,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:01",
           "pace_seconds_per_100m": 121
         },
@@ -1374,7 +1510,7 @@
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:55",
           "pace_seconds_per_100m": 115
         },
@@ -1382,7 +1518,7 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:01",
           "pace_seconds_per_100m": 121
         },
@@ -1390,7 +1526,7 @@
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:59",
           "pace_seconds_per_100m": 119
         },
@@ -1398,7 +1534,7 @@
           "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:58",
           "pace_seconds_per_100m": 118
         }
@@ -1411,7 +1547,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         },
@@ -1419,7 +1555,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:19",
           "pace_seconds_per_100m": 139
         },
@@ -1427,15 +1563,23 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:31",
           "pace_seconds_per_100m": 151
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:24",
           "pace_seconds_per_100m": 144
         },
@@ -1443,7 +1587,7 @@
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:47",
           "pace_seconds_per_100m": 167
         },
@@ -1451,7 +1595,7 @@
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:08",
           "pace_seconds_per_100m": 128
         },
@@ -1459,7 +1603,7 @@
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:19",
           "pace_seconds_per_100m": 139
         },
@@ -1467,7 +1611,7 @@
           "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:08",
           "pace_seconds_per_100m": 128
         }
@@ -1480,15 +1624,23 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:17",
+          "pace_seconds_per_100m": 137
+        },
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:18",
           "pace_seconds_per_100m": 138
         }
@@ -1498,18 +1650,18 @@
       "name": "Deane, Chris",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:36",
           "pace_seconds_per_100m": 156
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:37",
           "pace_seconds_per_100m": 157
         }
@@ -1519,18 +1671,26 @@
       "name": "Doak, Martin",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        },
+        {
+          "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:55",
           "pace_seconds_per_100m": 115
         },
         {
-          "date": "2026-05-17",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:44",
           "pace_seconds_per_100m": 104
         }
@@ -1538,7 +1698,16 @@
     },
     {
       "name": "Dwyer, Dominic",
-      "races": []
+      "races": [
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        }
+      ]
     },
     {
       "name": "Elder, Denise",
@@ -1547,31 +1716,31 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:04",
-          "pace_seconds_per_100m": 124
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:08",
-          "pace_seconds_per_100m": 128
+          "distance_m": 1200,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:03",
           "pace_seconds_per_100m": 123
         }
@@ -1581,18 +1750,26 @@
       "name": "Elliott, Jo-Anne",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:55",
           "pace_seconds_per_100m": 175
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:56",
           "pace_seconds_per_100m": 116
         }
@@ -1600,20 +1777,54 @@
     },
     {
       "name": "Ellis, Peter",
-      "races": []
-    },
-    {
-      "name": "Farrell, Rob",
-      "races": []
-    },
-    {
-      "name": "Fitzpatrick, Rob",
       "races": [
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        }
+      ]
+    },
+    {
+      "name": "Farrell, Rob",
+      "races": [
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        }
+      ]
+    },
+    {
+      "name": "Fitzpatrick, Rob",
+      "races": [
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         }
@@ -1626,7 +1837,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         }
@@ -1636,36 +1847,36 @@
       "name": "Fromow, Tracey",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:48",
           "pace_seconds_per_100m": 108
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         },
         {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:46",
-          "pace_seconds_per_100m": 106
-        },
-        {
-          "date": "2026-05-17",
+          "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:51",
           "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
         }
       ]
     },
@@ -1673,74 +1884,82 @@
       "name": "Gardner, Philip",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:54",
-          "pace_seconds_per_100m": 114
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:00",
-          "pace_seconds_per_100m": 120
+          "distance_m": 1200,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:58",
-          "pace_seconds_per_100m": 118
+          "distance_m": 1000,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:09",
-          "pace_seconds_per_100m": 129
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:49",
-          "pace_seconds_per_100m": 109
+          "distance_m": 1000,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:46",
-          "pace_seconds_per_100m": 106
+          "distance_m": 1000,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:51",
-          "pace_seconds_per_100m": 111
+          "distance_m": 1200,
+          "pace_raw": "1:49",
+          "pace_seconds_per_100m": 109
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:51",
-          "pace_seconds_per_100m": 111
+          "distance_m": 1000,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:48",
           "pace_seconds_per_100m": 108
         }
@@ -1753,23 +1972,15 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:16",
-          "pace_seconds_per_100m": 136
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:16",
-          "pace_seconds_per_100m": 136
+          "distance_m": 1200,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:16",
           "pace_seconds_per_100m": 136
         },
@@ -1777,7 +1988,23 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:20",
           "pace_seconds_per_100m": 140
         }
@@ -1787,26 +2014,34 @@
       "name": "Gassmann, Nicholas",
       "races": [
         {
-          "date": "2026-05-17",
+          "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:52",
           "pace_seconds_per_100m": 112
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:53",
           "pace_seconds_per_100m": 113
         },
         {
-          "date": "2026-05-31",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:54",
           "pace_seconds_per_100m": 114
         }
@@ -1819,7 +2054,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:41",
           "pace_seconds_per_100m": 161
         },
@@ -1827,7 +2062,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:46",
           "pace_seconds_per_100m": 166
         },
@@ -1835,7 +2070,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:59",
           "pace_seconds_per_100m": 179
         }
@@ -1848,7 +2083,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:08",
           "pace_seconds_per_100m": 128
         },
@@ -1856,7 +2091,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:20",
           "pace_seconds_per_100m": 140
         },
@@ -1864,15 +2099,23 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:28",
           "pace_seconds_per_100m": 148
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
         },
@@ -1880,15 +2123,15 @@
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:45",
           "pace_seconds_per_100m": 165
         },
         {
-          "date": "2026-06-06",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:07",
           "pace_seconds_per_100m": 127
         }
@@ -1898,12 +2141,20 @@
       "name": "Grundy, Steve",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:54",
           "pace_seconds_per_100m": 174
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
         }
       ]
     },
@@ -1914,7 +2165,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:48",
           "pace_seconds_per_100m": 168
         },
@@ -1922,7 +2173,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:30",
           "pace_seconds_per_100m": 150
         },
@@ -1930,55 +2181,63 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:50",
           "pace_seconds_per_100m": 170
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:47",
           "pace_seconds_per_100m": 167
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:22",
-          "pace_seconds_per_100m": 142
-        },
-        {
-          "date": "2026-05-30",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:27",
-          "pace_seconds_per_100m": 147
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:26",
-          "pace_seconds_per_100m": 146
+          "distance_m": 1200,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:31",
-          "pace_seconds_per_100m": 151
+          "distance_m": 1000,
+          "pace_raw": "2:27",
+          "pace_seconds_per_100m": 147
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:26",
+          "pace_seconds_per_100m": 146
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "2:31",
+          "pace_seconds_per_100m": 151
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:23",
           "pace_seconds_per_100m": 143
         }
@@ -1991,7 +2250,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         },
@@ -1999,7 +2258,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         }
@@ -2009,34 +2268,34 @@
       "name": "Hartog, Philip",
       "races": [
         {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:09",
-          "pace_seconds_per_100m": 129
-        },
-        {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:19",
-          "pace_seconds_per_100m": 139
+          "distance_m": 1200,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:15",
-          "pace_seconds_per_100m": 135
+          "distance_m": 1200,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
         },
         {
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         }
@@ -2049,7 +2308,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:53",
           "pace_seconds_per_100m": 173
         },
@@ -2057,55 +2316,55 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:56",
           "pace_seconds_per_100m": 176
-        },
-        {
-          "date": "2026-05-17",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:49",
-          "pace_seconds_per_100m": 169
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:59",
-          "pace_seconds_per_100m": 179
-        },
-        {
-          "date": "2026-05-30",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:47",
-          "pace_seconds_per_100m": 167
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:56",
-          "pace_seconds_per_100m": 176
+          "distance_m": 1200,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:50",
-          "pace_seconds_per_100m": 170
+          "distance_m": 1000,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:59",
+          "pace_seconds_per_100m": 179
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
+          "pace_raw": "2:50",
+          "pace_seconds_per_100m": 170
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:56",
+          "pace_seconds_per_100m": 176
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "2:43",
           "pace_seconds_per_100m": 163
         }
@@ -2118,31 +2377,47 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:49",
           "pace_seconds_per_100m": 169
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:01",
-          "pace_seconds_per_100m": 121
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:39",
-          "pace_seconds_per_100m": 99
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104
+        },
+        {
+          "date": "2026-05-30",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:43",
           "pace_seconds_per_100m": 103
         }
@@ -2152,10 +2427,10 @@
       "name": "Hole, Jenny",
       "races": [
         {
-          "date": "2026-05-17",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         }
@@ -2165,34 +2440,42 @@
       "name": "Holt, Phil",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:14",
-          "pace_seconds_per_100m": 134
-        },
-        {
-          "date": "2026-05-24",
+          "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:59",
-          "pace_seconds_per_100m": 119
+          "distance_m": 1200,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-23",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:10",
           "pace_seconds_per_100m": 130
         },
         {
-          "date": "2026-06-07",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:08",
           "pace_seconds_per_100m": 128
         }
@@ -2205,7 +2488,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:28",
           "pace_seconds_per_100m": 148
         },
@@ -2213,7 +2496,7 @@
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:19",
           "pace_seconds_per_100m": 139
         },
@@ -2221,7 +2504,7 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:22",
           "pace_seconds_per_100m": 142
         },
@@ -2229,7 +2512,7 @@
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:21",
           "pace_seconds_per_100m": 141
         },
@@ -2237,7 +2520,7 @@
           "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:22",
           "pace_seconds_per_100m": 142
         }
@@ -2250,31 +2533,31 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:40",
           "pace_seconds_per_100m": 160
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:11",
-          "pace_seconds_per_100m": 131
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "1:53",
           "pace_seconds_per_100m": 113
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:55",
           "pace_seconds_per_100m": 115
         }
@@ -2284,18 +2567,18 @@
       "name": "Hudson, Anthony",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:45",
           "pace_seconds_per_100m": 165
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:20",
           "pace_seconds_per_100m": 140
         }
@@ -2308,7 +2591,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:50",
           "pace_seconds_per_100m": 110
         },
@@ -2316,23 +2599,15 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:54",
           "pace_seconds_per_100m": 114
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:59",
-          "pace_seconds_per_100m": 119
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:54",
           "pace_seconds_per_100m": 114
         },
@@ -2340,23 +2615,23 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:13",
-          "pace_seconds_per_100m": 133
+          "distance_m": 1000,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:47",
-          "pace_seconds_per_100m": 107
+          "distance_m": 1000,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:52",
           "pace_seconds_per_100m": 112
         },
@@ -2364,7 +2639,7 @@
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "1:47",
           "pace_seconds_per_100m": 107
         },
@@ -2372,15 +2647,23 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:16",
           "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
         },
         {
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:55",
           "pace_seconds_per_100m": 115
         },
@@ -2388,7 +2671,7 @@
           "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:53",
           "pace_seconds_per_100m": 113
         }
@@ -2398,10 +2681,18 @@
       "name": "Hutchinson, Nicola",
       "races": [
         {
-          "date": "2026-05-24",
+          "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:01",
           "pace_seconds_per_100m": 121
         }
@@ -2414,7 +2705,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:53",
           "pace_seconds_per_100m": 173
         },
@@ -2422,50 +2713,83 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:58",
           "pace_seconds_per_100m": 118
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:57",
-          "pace_seconds_per_100m": 117
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:50",
-          "pace_seconds_per_100m": 110
+          "distance_m": 1200,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:49",
           "pace_seconds_per_100m": 109
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
         }
       ]
     },
     {
       "name": "Jagger, Richard",
-      "races": []
+      "races": [
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        }
+      ]
     },
     {
       "name": "Jandera, Traicha",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:44",
           "pace_seconds_per_100m": 164
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
         }
       ]
     },
@@ -2473,18 +2797,18 @@
       "name": "Jenkin, Lois",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:54",
           "pace_seconds_per_100m": 174
         },
         {
-          "date": "2026-05-16",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:35",
           "pace_seconds_per_100m": 155
         }
@@ -2492,24 +2816,41 @@
     },
     {
       "name": "Jolly, Peter",
-      "races": []
+      "races": [
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:06",
+          "pace_seconds_per_100m": 126
+        }
+      ]
     },
     {
       "name": "Kehoe, Rose",
       "races": [
         {
-          "date": "2026-05-09",
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:40",
+          "pace_seconds_per_100m": 160
+        },
+        {
+          "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:51",
           "pace_seconds_per_100m": 171
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:37",
           "pace_seconds_per_100m": 157
         }
@@ -2517,64 +2858,81 @@
     },
     {
       "name": "Kennedy, Jon",
-      "races": []
+      "races": [
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        }
+      ]
     },
     {
       "name": "Kennedy, Peter",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:58",
-          "pace_seconds_per_100m": 178
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:14",
-          "pace_seconds_per_100m": 134
+          "distance_m": 1200,
+          "pace_raw": "2:58",
+          "pace_seconds_per_100m": 178
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:08",
-          "pace_seconds_per_100m": 128
+          "distance_m": 1000,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:56",
-          "pace_seconds_per_100m": 116
+          "distance_m": 1200,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:54",
-          "pace_seconds_per_100m": 114
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:59",
-          "pace_seconds_per_100m": 119
+          "distance_m": 1000,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:00",
           "pace_seconds_per_100m": 120
         }
@@ -2582,16 +2940,25 @@
     },
     {
       "name": "Kirkman, Michael",
-      "races": []
+      "races": [
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        }
+      ]
     },
     {
       "name": "Lang, Tamera",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:53",
           "pace_seconds_per_100m": 173
         }
@@ -2604,31 +2971,31 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:52",
           "pace_seconds_per_100m": 172
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:32",
-          "pace_seconds_per_100m": 152
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-05-30",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "2:43",
           "pace_seconds_per_100m": 163
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         }
@@ -2641,7 +3008,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         }
@@ -2654,7 +3021,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:10",
           "pace_seconds_per_100m": 130
         },
@@ -2662,7 +3029,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:22",
           "pace_seconds_per_100m": 142
         },
@@ -2670,7 +3037,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:22",
           "pace_seconds_per_100m": 142
         },
@@ -2678,7 +3045,7 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
         },
@@ -2686,7 +3053,7 @@
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:28",
           "pace_seconds_per_100m": 148
         },
@@ -2694,7 +3061,7 @@
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:00",
           "pace_seconds_per_100m": 120
         },
@@ -2702,7 +3069,7 @@
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:09",
           "pace_seconds_per_100m": 129
         },
@@ -2710,7 +3077,7 @@
           "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:01",
           "pace_seconds_per_100m": 121
         }
@@ -2723,7 +3090,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:42",
           "pace_seconds_per_100m": 162
         },
@@ -2731,39 +3098,39 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:51",
           "pace_seconds_per_100m": 171
         },
         {
-          "date": "2026-05-16",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:42",
           "pace_seconds_per_100m": 162
         },
         {
-          "date": "2026-05-17",
+          "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:42",
           "pace_seconds_per_100m": 162
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:43",
           "pace_seconds_per_100m": 163
         },
         {
-          "date": "2026-05-31",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:48",
           "pace_seconds_per_100m": 168
         }
@@ -2776,7 +3143,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:42",
           "pace_seconds_per_100m": 162
         },
@@ -2784,7 +3151,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:01",
           "pace_seconds_per_100m": 121
         },
@@ -2792,31 +3159,31 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:06",
           "pace_seconds_per_100m": 126
-        },
-        {
-          "date": "2026-05-23",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:52",
-          "pace_seconds_per_100m": 112
-        },
-        {
-          "date": "2026-05-30",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:56",
-          "pace_seconds_per_100m": 116
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:54",
           "pace_seconds_per_100m": 114
         }
@@ -2829,23 +3196,31 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:52",
           "pace_seconds_per_100m": 112
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:50",
           "pace_seconds_per_100m": 110
         },
         {
-          "date": "2026-05-31",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:48",
           "pace_seconds_per_100m": 108
         }
@@ -2855,58 +3230,58 @@
       "name": "Loneragan, Hugo",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:22",
           "pace_seconds_per_100m": 142
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:46",
           "pace_seconds_per_100m": 166
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:08",
-          "pace_seconds_per_100m": 128
-        },
-        {
-          "date": "2026-05-17",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:11",
-          "pace_seconds_per_100m": 131
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:14",
-          "pace_seconds_per_100m": 134
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:14",
-          "pace_seconds_per_100m": 134
+          "distance_m": 1200,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         }
@@ -2919,7 +3294,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:47",
           "pace_seconds_per_100m": 167
         },
@@ -2927,75 +3302,133 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:09",
           "pace_seconds_per_100m": 129
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
         }
       ]
     },
     {
       "name": "Lovelace, Dave",
-      "races": []
+      "races": [
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:35",
+          "pace_seconds_per_100m": 95
+        }
+      ]
     },
     {
       "name": "Lucas, Danny",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:47",
-          "pace_seconds_per_100m": 107
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:00",
-          "pace_seconds_per_100m": 120
+          "distance_m": 1200,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:42",
           "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
         }
       ]
     },
     {
       "name": "MacCormick, Pete",
-      "races": []
+      "races": [
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        }
+      ]
     },
     {
       "name": "Mackay, Cathy",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:02",
           "pace_seconds_per_100m": 122
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
         },
         {
-          "date": "2026-05-16",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "1:46",
           "pace_seconds_per_100m": 106
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
         }
       ]
     },
@@ -3006,7 +3439,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:37",
           "pace_seconds_per_100m": 157
         },
@@ -3014,7 +3447,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:46",
           "pace_seconds_per_100m": 166
         },
@@ -3022,7 +3455,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:53",
           "pace_seconds_per_100m": 173
         },
@@ -3030,7 +3463,7 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:56",
           "pace_seconds_per_100m": 176
         },
@@ -3038,7 +3471,7 @@
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:32",
           "pace_seconds_per_100m": 152
         },
@@ -3046,7 +3479,7 @@
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:35",
           "pace_seconds_per_100m": 155
         }
@@ -3059,7 +3492,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:57",
           "pace_seconds_per_100m": 117
         },
@@ -3067,7 +3500,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:03",
           "pace_seconds_per_100m": 123
         },
@@ -3075,7 +3508,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         },
@@ -3083,7 +3516,7 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         },
@@ -3091,7 +3524,7 @@
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:28",
           "pace_seconds_per_100m": 148
         },
@@ -3099,7 +3532,7 @@
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "1:59",
           "pace_seconds_per_100m": 119
         }
@@ -3113,18 +3546,18 @@
       "name": "Marshall, James",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:07",
           "pace_seconds_per_100m": 127
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:05",
           "pace_seconds_per_100m": 125
         }
@@ -3137,7 +3570,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:54",
           "pace_seconds_per_100m": 114
         },
@@ -3145,7 +3578,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:55",
           "pace_seconds_per_100m": 115
         },
@@ -3153,7 +3586,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:04",
           "pace_seconds_per_100m": 124
         },
@@ -3161,47 +3594,55 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:56",
-          "pace_seconds_per_100m": 116
-        },
-        {
-          "date": "2026-05-23",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:21",
-          "pace_seconds_per_100m": 141
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:00",
-          "pace_seconds_per_100m": 120
+          "distance_m": 1200,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:49",
-          "pace_seconds_per_100m": 109
+          "distance_m": 1000,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:51",
-          "pace_seconds_per_100m": 111
+          "distance_m": 1000,
+          "pace_raw": "1:49",
+          "pace_seconds_per_100m": 109
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:57",
           "pace_seconds_per_100m": 117
         }
@@ -3214,7 +3655,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:02",
           "pace_seconds_per_100m": 122
         }
@@ -3227,15 +3668,15 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:49",
           "pace_seconds_per_100m": 169
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:18",
           "pace_seconds_per_100m": 138
         },
@@ -3243,7 +3684,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:07",
           "pace_seconds_per_100m": 127
         },
@@ -3251,7 +3692,7 @@
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:06",
           "pace_seconds_per_100m": 126
         },
@@ -3259,7 +3700,7 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:51",
           "pace_seconds_per_100m": 111
         },
@@ -3267,7 +3708,7 @@
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:50",
           "pace_seconds_per_100m": 110
         },
@@ -3275,7 +3716,7 @@
           "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:53",
           "pace_seconds_per_100m": 113
         }
@@ -3288,47 +3729,47 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:08",
           "pace_seconds_per_100m": 128
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:16",
-          "pace_seconds_per_100m": 136
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:05",
-          "pace_seconds_per_100m": 125
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:07",
           "pace_seconds_per_100m": 127
         },
         {
-          "date": "2026-05-31",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
+          "date": "2026-05-23",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "2:05",
           "pace_seconds_per_100m": 125
         },
         {
-          "date": "2026-06-07",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:05",
           "pace_seconds_per_100m": 125
         }
@@ -3341,7 +3782,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:16",
           "pace_seconds_per_100m": 136
         },
@@ -3349,7 +3790,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:22",
           "pace_seconds_per_100m": 142
         },
@@ -3357,31 +3798,31 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:33",
           "pace_seconds_per_100m": 153
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:27",
           "pace_seconds_per_100m": 147
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:14",
-          "pace_seconds_per_100m": 134
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:44",
           "pace_seconds_per_100m": 164
         },
@@ -3389,15 +3830,15 @@
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:13",
-          "pace_seconds_per_100m": 133
+          "distance_m": 1200,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:11",
           "pace_seconds_per_100m": 131
         },
@@ -3405,7 +3846,7 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
         },
@@ -3413,9 +3854,17 @@
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:11",
           "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
         }
       ]
     },
@@ -3426,7 +3875,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:18",
           "pace_seconds_per_100m": 138
         },
@@ -3434,23 +3883,15 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:25",
           "pace_seconds_per_100m": 145
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:30",
-          "pace_seconds_per_100m": 150
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
         },
@@ -3458,23 +3899,23 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:45",
-          "pace_seconds_per_100m": 165
+          "distance_m": 1000,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:17",
-          "pace_seconds_per_100m": 137
+          "distance_m": 1000,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:10",
           "pace_seconds_per_100m": 130
         },
@@ -3482,23 +3923,31 @@
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:18",
-          "pace_seconds_per_100m": 138
+          "distance_m": 1000,
+          "pace_raw": "2:17",
+          "pace_seconds_per_100m": 137
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:13",
           "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
         },
         {
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         }
@@ -3508,26 +3957,34 @@
       "name": "Middlehurst, Lori",
       "races": [
         {
-          "date": "2026-05-16",
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:58",
+          "pace_seconds_per_100m": 178
+        },
+        {
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:48",
           "pace_seconds_per_100m": 168
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:51",
           "pace_seconds_per_100m": 171
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:49",
           "pace_seconds_per_100m": 169
         }
@@ -3540,7 +3997,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:56",
           "pace_seconds_per_100m": 116
         },
@@ -3548,7 +4005,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:01",
           "pace_seconds_per_100m": 121
         },
@@ -3556,7 +4013,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:08",
           "pace_seconds_per_100m": 128
         },
@@ -3564,7 +4021,7 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         },
@@ -3572,7 +4029,7 @@
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:23",
           "pace_seconds_per_100m": 143
         }
@@ -3589,7 +4046,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:10",
           "pace_seconds_per_100m": 130
         }
@@ -3602,31 +4059,39 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:47",
           "pace_seconds_per_100m": 107
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:02",
-          "pace_seconds_per_100m": 122
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:05",
-          "pace_seconds_per_100m": 125
+          "distance_m": 1000,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:49",
+          "pace_seconds_per_100m": 109
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-30",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "2:07",
           "pace_seconds_per_100m": 127
         }
@@ -3639,7 +4104,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:08",
           "pace_seconds_per_100m": 128
         },
@@ -3647,7 +4112,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         },
@@ -3655,23 +4120,23 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:20",
           "pace_seconds_per_100m": 140
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:03",
           "pace_seconds_per_100m": 123
         },
         {
-          "date": "2026-05-30",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:09",
           "pace_seconds_per_100m": 129
         }
@@ -3684,39 +4149,39 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:49",
           "pace_seconds_per_100m": 169
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:34",
-          "pace_seconds_per_100m": 154
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:39",
           "pace_seconds_per_100m": 159
         },
         {
-          "date": "2026-05-31",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:28",
-          "pace_seconds_per_100m": 148
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:23",
           "pace_seconds_per_100m": 143
         }
@@ -3726,26 +4191,34 @@
       "name": "Morriss, Katy",
       "races": [
         {
-          "date": "2026-05-09",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:16",
           "pace_seconds_per_100m": 136
         },
         {
-          "date": "2026-05-16",
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:22",
           "pace_seconds_per_100m": 142
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:19",
           "pace_seconds_per_100m": 139
         }
@@ -3755,34 +4228,26 @@
       "name": "Mortensen, Chris",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:42",
-          "pace_seconds_per_100m": 102
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:48",
-          "pace_seconds_per_100m": 108
+          "distance_m": 1200,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:43",
-          "pace_seconds_per_100m": 103
+          "distance_m": 1000,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:38",
           "pace_seconds_per_100m": 98
         },
@@ -3790,23 +4255,23 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:55",
-          "pace_seconds_per_100m": 115
+          "distance_m": 1000,
+          "pace_raw": "1:43",
+          "pace_seconds_per_100m": 103
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:32",
-          "pace_seconds_per_100m": 92
+          "distance_m": 1000,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:33",
           "pace_seconds_per_100m": 93
         },
@@ -3814,23 +4279,31 @@
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:41",
-          "pace_seconds_per_100m": 101
-        },
-        {
-          "date": "2026-06-07",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:35",
-          "pace_seconds_per_100m": 95
+          "distance_m": 1000,
+          "pace_raw": "1:32",
+          "pace_seconds_per_100m": 92
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:35",
+          "pace_seconds_per_100m": 95
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:34",
           "pace_seconds_per_100m": 94
         }
@@ -3840,10 +4313,10 @@
       "name": "Morton, Craig",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:59",
           "pace_seconds_per_100m": 179
         }
@@ -3853,26 +4326,34 @@
       "name": "Murphy, Jerome",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:56",
-          "pace_seconds_per_100m": 176
-        },
-        {
-          "date": "2026-05-24",
+          "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:59",
-          "pace_seconds_per_100m": 119
+          "distance_m": 1200,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123
+        },
+        {
+          "date": "2026-05-23",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:56",
+          "pace_seconds_per_100m": 176
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:01",
           "pace_seconds_per_100m": 121
         }
@@ -3882,34 +4363,34 @@
       "name": "Murray, Alison",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:55",
-          "pace_seconds_per_100m": 175
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:59",
-          "pace_seconds_per_100m": 119
-        },
-        {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:20",
-          "pace_seconds_per_100m": 140
+          "distance_m": 1000,
+          "pace_raw": "2:55",
+          "pace_seconds_per_100m": 175
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-30",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:20",
+          "pace_seconds_per_100m": 140
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:51",
           "pace_seconds_per_100m": 111
         }
@@ -3922,31 +4403,23 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:04",
           "pace_seconds_per_100m": 124
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:03",
-          "pace_seconds_per_100m": 123
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:02",
-          "pace_seconds_per_100m": 122
+          "distance_m": 1200,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:02",
           "pace_seconds_per_100m": 122
         },
@@ -3954,7 +4427,15 @@
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:06",
           "pace_seconds_per_100m": 126
         }
@@ -3962,7 +4443,16 @@
     },
     {
       "name": "Newcomb, John",
-      "races": []
+      "races": [
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        }
+      ]
     },
     {
       "name": "Nyland, Graeme",
@@ -3971,55 +4461,63 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:45",
           "pace_seconds_per_100m": 165
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:54",
-          "pace_seconds_per_100m": 174
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:33",
-          "pace_seconds_per_100m": 153
+          "distance_m": 1000,
+          "pace_raw": "2:54",
+          "pace_seconds_per_100m": 174
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:36",
+          "pace_seconds_per_100m": 156
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:37",
           "pace_seconds_per_100m": 157
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:35",
           "pace_seconds_per_100m": 155
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:41",
           "pace_seconds_per_100m": 161
         },
         {
-          "date": "2026-05-31",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:43",
           "pace_seconds_per_100m": 163
         }
@@ -4032,100 +4530,120 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:54",
           "pace_seconds_per_100m": 114
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:50",
-          "pace_seconds_per_100m": 110
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:50",
-          "pace_seconds_per_100m": 110
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:45",
-          "pace_seconds_per_100m": 105
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:50",
-          "pace_seconds_per_100m": 110
+          "distance_m": 1200,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:45",
+          "pace_seconds_per_100m": 105
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:46",
           "pace_seconds_per_100m": 106
         }
       ]
     },
     {
+      "name": "O'Gorman, Tenzin",
+      "races": []
+    },
+    {
       "name": "O'Neill, John",
       "races": [
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:25",
-          "pace_seconds_per_100m": 145
-        },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:35",
           "pace_seconds_per_100m": 155
-        },
-        {
-          "date": "2026-05-23",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:29",
-          "pace_seconds_per_100m": 149
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:31",
-          "pace_seconds_per_100m": 151
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:34",
-          "pace_seconds_per_100m": 154
+          "distance_m": 1200,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:31",
+          "pace_seconds_per_100m": 151
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:34",
           "pace_seconds_per_100m": 154
         }
@@ -4138,7 +4656,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:43",
           "pace_seconds_per_100m": 163
         },
@@ -4146,7 +4664,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:26",
           "pace_seconds_per_100m": 146
         },
@@ -4154,7 +4672,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:36",
           "pace_seconds_per_100m": 156
         }
@@ -4167,7 +4685,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:35",
           "pace_seconds_per_100m": 155
         }
@@ -4180,15 +4698,15 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:06",
           "pace_seconds_per_100m": 126
         }
@@ -4201,15 +4719,23 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "1:30",
           "pace_seconds_per_100m": 90
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:31",
           "pace_seconds_per_100m": 91
         }
@@ -4222,7 +4748,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:52",
           "pace_seconds_per_100m": 112
         },
@@ -4230,7 +4756,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:50",
           "pace_seconds_per_100m": 110
         },
@@ -4238,15 +4764,15 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "1:56",
           "pace_seconds_per_100m": 116
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:07",
           "pace_seconds_per_100m": 127
         }
@@ -4259,15 +4785,15 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:34",
           "pace_seconds_per_100m": 154
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:31",
           "pace_seconds_per_100m": 151
         }
@@ -4277,12 +4803,20 @@
       "name": "Phillipps, Ian",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "1:54",
           "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:45",
+          "pace_seconds_per_100m": 105
         }
       ]
     },
@@ -4297,7 +4831,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:24",
           "pace_seconds_per_100m": 144
         },
@@ -4305,7 +4839,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:31",
           "pace_seconds_per_100m": 151
         },
@@ -4313,15 +4847,15 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:38",
           "pace_seconds_per_100m": 158
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:58",
           "pace_seconds_per_100m": 178
         }
@@ -4331,34 +4865,34 @@
       "name": "Price-McCoy, Cassandra",
       "races": [
         {
-          "date": "2026-05-17",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:18",
-          "pace_seconds_per_100m": 138
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:17",
-          "pace_seconds_per_100m": 137
-        },
-        {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:02",
-          "pace_seconds_per_100m": 122
+          "distance_m": 1200,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:17",
+          "pace_seconds_per_100m": 137
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:06",
           "pace_seconds_per_100m": 126
         }
@@ -4368,10 +4902,18 @@
       "name": "Quinn, Ginni",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:27",
+          "pace_seconds_per_100m": 147
+        },
+        {
+          "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:18",
           "pace_seconds_per_100m": 138
         }
@@ -4381,82 +4923,90 @@
       "name": "Quinn, Martin",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:07",
-          "pace_seconds_per_100m": 127
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:15",
-          "pace_seconds_per_100m": 135
+          "distance_m": 1200,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:27",
-          "pace_seconds_per_100m": 147
+          "distance_m": 1000,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
         },
         {
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:59",
-          "pace_seconds_per_100m": 119
-        },
-        {
-          "date": "2026-05-23",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:59",
-          "pace_seconds_per_100m": 119
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:08",
-          "pace_seconds_per_100m": 128
+          "distance_m": 1200,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:01",
-          "pace_seconds_per_100m": 121
+          "distance_m": 1000,
+          "pace_raw": "2:27",
+          "pace_seconds_per_100m": 147
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:05",
-          "pace_seconds_per_100m": 125
+          "distance_m": 1200,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:02",
-          "pace_seconds_per_100m": 122
+          "distance_m": 1000,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:05",
           "pace_seconds_per_100m": 125
         }
@@ -4469,7 +5019,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:05",
           "pace_seconds_per_100m": 125
         },
@@ -4477,7 +5027,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:12",
           "pace_seconds_per_100m": 132
         },
@@ -4485,39 +5035,55 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:20",
           "pace_seconds_per_100m": 140
-        },
-        {
-          "date": "2026-05-23",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:23",
-          "pace_seconds_per_100m": 143
         },
         {
           "date": "2026-05-30",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:52",
-          "pace_seconds_per_100m": 112
+          "distance_m": 1000,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:51",
-          "pace_seconds_per_100m": 111
+          "distance_m": 1000,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:55",
           "pace_seconds_per_100m": 115
         }
@@ -4527,10 +5093,10 @@
       "name": "Rudd, Sophie",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:01",
           "pace_seconds_per_100m": 121
         }
@@ -4540,42 +5106,50 @@
       "name": "Ryan, Stephen",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:22",
-          "pace_seconds_per_100m": 142
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:33",
-          "pace_seconds_per_100m": 153
+          "distance_m": 1200,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:28",
-          "pace_seconds_per_100m": 148
+          "distance_m": 1000,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         },
         {
-          "date": "2026-05-30",
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         }
@@ -4588,7 +5162,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "1:48",
           "pace_seconds_per_100m": 108
         }
@@ -4601,31 +5175,31 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:45",
           "pace_seconds_per_100m": 165
-        },
-        {
-          "date": "2026-05-09",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:34",
-          "pace_seconds_per_100m": 154
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-05-23",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "2:36",
           "pace_seconds_per_100m": 156
         },
         {
-          "date": "2026-05-17",
+          "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:31",
           "pace_seconds_per_100m": 151
         }
@@ -4633,32 +5207,49 @@
     },
     {
       "name": "Soper, Abi",
-      "races": []
+      "races": [
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        }
+      ]
     },
     {
       "name": "Soper, Isabelle",
       "races": [
         {
-          "date": "2026-05-24",
+          "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:30",
-          "pace_seconds_per_100m": 150
+          "distance_m": 1200,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:33",
           "pace_seconds_per_100m": 153
         },
         {
-          "date": "2026-06-07",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:38",
           "pace_seconds_per_100m": 158
         }
@@ -4666,7 +5257,16 @@
     },
     {
       "name": "Soper, Josh",
-      "races": []
+      "races": [
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        }
+      ]
     },
     {
       "name": "Soper, Lachlan",
@@ -4675,23 +5275,31 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:28",
-          "pace_seconds_per_100m": 148
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:37",
-          "pace_seconds_per_100m": 157
+          "distance_m": 1200,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:37",
           "pace_seconds_per_100m": 157
         }
@@ -4699,16 +5307,25 @@
     },
     {
       "name": "Soper, Miriam or Mimi",
-      "races": []
+      "races": [
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        }
+      ]
     },
     {
       "name": "Sprotte, Bronte",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
         }
@@ -4718,34 +5335,34 @@
       "name": "Stening, Jack",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:41",
-          "pace_seconds_per_100m": 161
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:39",
-          "pace_seconds_per_100m": 159
+          "distance_m": 1200,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:39",
+          "pace_seconds_per_100m": 159
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "2:24",
           "pace_seconds_per_100m": 144
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:15",
           "pace_seconds_per_100m": 135
         }
@@ -4758,15 +5375,23 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:37",
           "pace_seconds_per_100m": 157
         },
         {
-          "date": "2026-05-24",
+          "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:34",
           "pace_seconds_per_100m": 154
         }
@@ -4776,26 +5401,34 @@
       "name": "Thompson, Patrick",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:16",
-          "pace_seconds_per_100m": 136
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:18",
-          "pace_seconds_per_100m": 138
+          "distance_m": 1200,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
         },
         {
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-23",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "2:17",
           "pace_seconds_per_100m": 137
         }
@@ -4808,7 +5441,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "1:58",
           "pace_seconds_per_100m": 118
         },
@@ -4816,7 +5449,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:08",
           "pace_seconds_per_100m": 128
         },
@@ -4824,7 +5457,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:14",
           "pace_seconds_per_100m": 134
         },
@@ -4832,71 +5465,88 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:58",
-          "pace_seconds_per_100m": 118
+          "distance_m": 1200,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:11",
           "pace_seconds_per_100m": 131
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:01",
-          "pace_seconds_per_100m": 121
-        },
-        {
-          "date": "2026-05-30",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:58",
-          "pace_seconds_per_100m": 118
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:06",
-          "pace_seconds_per_100m": 126
+          "distance_m": 1200,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:02",
-          "pace_seconds_per_100m": 122
+          "distance_m": 1000,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
         },
         {
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:04",
-          "pace_seconds_per_100m": 124
+          "distance_m": 1200,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:06",
+          "pace_seconds_per_100m": 126
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "2:01",
           "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
         }
       ]
     },
     {
       "name": "Vuletich, Suzana",
-      "races": []
+      "races": [
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        }
+      ]
     },
     {
       "name": "Walker, Angus",
@@ -4906,12 +5556,20 @@
       "name": "West, Jenny",
       "races": [
         {
-          "date": "2026-05-09",
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:28",
           "pace_seconds_per_100m": 148
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150
         }
       ]
     },
@@ -4919,12 +5577,20 @@
       "name": "Whatley, Grant",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:48",
           "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
         }
       ]
     },
@@ -4935,7 +5601,7 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:23",
           "pace_seconds_per_100m": 143
         }
@@ -4948,7 +5614,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:21",
           "pace_seconds_per_100m": 141
         },
@@ -4956,17 +5622,25 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:18",
           "pace_seconds_per_100m": 138
         },
         {
-          "date": "2026-05-16",
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:06",
           "pace_seconds_per_100m": 126
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
         }
       ]
     },
@@ -4974,34 +5648,50 @@
       "name": "Wilder, Martijn",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-31",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:10",
           "pace_seconds_per_100m": 130
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:10",
           "pace_seconds_per_100m": 130
         },
         {
-          "date": "2026-05-16",
+          "date": "2026-06-20",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:09",
           "pace_seconds_per_100m": 129
         },
         {
-          "date": "2026-05-17",
+          "date": "2026-06-21",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:11",
           "pace_seconds_per_100m": 131
         }
@@ -5011,18 +5701,18 @@
       "name": "Wilson, Ron",
       "races": [
         {
-          "date": "2026-05-02",
+          "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:51",
           "pace_seconds_per_100m": 171
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:51",
           "pace_seconds_per_100m": 171
         },
@@ -5030,39 +5720,23 @@
           "date": "2026-05-17",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:33",
           "pace_seconds_per_100m": 153
-        },
-        {
-          "date": "2026-05-23",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:32",
-          "pace_seconds_per_100m": 152
-        },
-        {
-          "date": "2026-05-24",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:33",
-          "pace_seconds_per_100m": 153
-        },
-        {
-          "date": "2026-05-30",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:35",
-          "pace_seconds_per_100m": 155
         },
         {
           "date": "2026-05-31",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
           "pace_raw": "2:32",
           "pace_seconds_per_100m": 152
         },
@@ -5070,15 +5744,31 @@
           "date": "2026-06-07",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
           "pace_raw": "2:32",
           "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
         },
         {
           "date": "2026-06-14",
           "day": "Sunday",
           "series": "Sun",
-          "distance_m": 730,
+          "distance_m": 1200,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-06-21",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
           "pace_raw": "2:33",
           "pace_seconds_per_100m": 153
         }
@@ -5088,44 +5778,52 @@
       "name": "Wolf, Sam",
       "races": [
         {
-          "date": "2026-05-02",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:39",
-          "pace_seconds_per_100m": 99
-        },
-        {
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:42",
-          "pace_seconds_per_100m": 102
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:38",
-          "pace_seconds_per_100m": 98
-        },
-        {
-          "date": "2026-05-17",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "1:38",
-          "pace_seconds_per_100m": 98
+          "distance_m": 1200,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
         },
         {
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-06-06",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1000,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-06-13",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "1:39",
           "pace_seconds_per_100m": 99
+        },
+        {
+          "date": "2026-06-14",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
         }
       ]
     },
@@ -5136,17 +5834,25 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:23",
           "pace_seconds_per_100m": 143
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:34",
           "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-06-07",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1200,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
         }
       ]
     },
@@ -5157,7 +5863,7 @@
           "date": "2026-05-02",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:16",
           "pace_seconds_per_100m": 136
         },
@@ -5165,7 +5871,7 @@
           "date": "2026-05-09",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
           "pace_raw": "2:23",
           "pace_seconds_per_100m": 143
         },
@@ -5173,7 +5879,7 @@
           "date": "2026-05-16",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:33",
           "pace_seconds_per_100m": 153
         },
@@ -5181,31 +5887,31 @@
           "date": "2026-05-23",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1000,
           "pace_raw": "2:30",
           "pace_seconds_per_100m": 150
-        },
-        {
-          "date": "2026-05-30",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:08",
-          "pace_seconds_per_100m": 128
         },
         {
           "date": "2026-06-06",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "2:10",
-          "pace_seconds_per_100m": 130
+          "distance_m": 1000,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
         },
         {
           "date": "2026-06-13",
           "day": "Saturday",
           "series": "Sat",
-          "distance_m": 700,
+          "distance_m": 1200,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-06-20",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 1200,
           "pace_raw": "2:11",
           "pace_seconds_per_100m": 131
         }
