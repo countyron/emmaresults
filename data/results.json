@@ -1,6 +1,6 @@
 {
-  "last_updated": null,
-  "source": "Balmoral Beach Club",
+  "last_updated": "2026-06-21T01:12:59.654Z",
+  "source": "Balmoral Beach Club SeriesResults lap=Y and CalendarRep1 pages",
   "primarySwimmer": "Bennett, Emma",
   "config": {
     "primarySwimmer": "Bennett, Emma",
@@ -20,8 +20,7556 @@
       }
     ]
   },
-  "swimmers": [],
-  "warnings": [
-    "Initial placeholder. Run GitHub Action to populate live results."
-  ]
+  "swimmers": [
+    {
+      "name": "Adams, Duncan",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:40",
+          "pace_seconds_per_100m": 100
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:40",
+          "pace_seconds_per_100m": 100
+        }
+      ]
+    },
+    {
+      "name": "Adams, Jeanette",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        }
+      ]
+    },
+    {
+      "name": "Anderson, Bec",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:45",
+          "pace_seconds_per_100m": 105
+        }
+      ]
+    },
+    {
+      "name": "Anderson, Shane",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        }
+      ]
+    },
+    {
+      "name": "Angus, Rob",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123
+        }
+      ]
+    },
+    {
+      "name": "Arnold, James",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        }
+      ]
+    },
+    {
+      "name": "Arnott, Geoff",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:26",
+          "pace_seconds_per_100m": 146
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:26",
+          "pace_seconds_per_100m": 146
+        }
+      ]
+    },
+    {
+      "name": "Aveling, Meredith",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        }
+      ]
+    },
+    {
+      "name": "Barber, Peter",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:17",
+          "pace_seconds_per_100m": 137
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:17",
+          "pace_seconds_per_100m": 137
+        }
+      ]
+    },
+    {
+      "name": "Barrett, Jon",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:18",
+          "pace_seconds_per_100m": 4938
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:18",
+          "pace_seconds_per_100m": 4938
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129
+        }
+      ]
+    },
+    {
+      "name": "Bartlett, Lynda",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:26",
+          "pace_seconds_per_100m": 146
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:26",
+          "pace_seconds_per_100m": 146
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:26",
+          "pace_seconds_per_100m": 146
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        }
+      ]
+    },
+    {
+      "name": "Batchelor, Shane",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        }
+      ]
+    },
+    {
+      "name": "Bennett, Emma",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:50",
+          "pace_seconds_per_100m": 170
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:50",
+          "pace_seconds_per_100m": 170
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:01",
+          "pace_seconds_per_100m": 4921
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:40",
+          "pace_seconds_per_100m": 100
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:40",
+          "pace_seconds_per_100m": 100
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        }
+      ]
+    },
+    {
+      "name": "Bennett, Shaun",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        }
+      ]
+    },
+    {
+      "name": "Bolton, Allan",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        }
+      ]
+    },
+    {
+      "name": "Bone, John",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        }
+      ]
+    },
+    {
+      "name": "Bostock, Tony",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        }
+      ]
+    },
+    {
+      "name": "Bourn, Jackie",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        }
+      ]
+    },
+    {
+      "name": "Boustred, Jenny",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        }
+      ]
+    },
+    {
+      "name": "Boustred, Niell",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        }
+      ]
+    },
+    {
+      "name": "Boylan, Jodi",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        }
+      ]
+    },
+    {
+      "name": "Boylan, Robert",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        }
+      ]
+    },
+    {
+      "name": "Bransgrove, Colin",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:50",
+          "pace_seconds_per_100m": 170
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:17",
+          "pace_seconds_per_100m": 137
+        }
+      ]
+    },
+    {
+      "name": "Breidenbach, Steffi",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "3:03",
+          "pace_seconds_per_100m": 183
+        }
+      ]
+    },
+    {
+      "name": "Bremner, Andy",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:11",
+          "pace_seconds_per_100m": 4931
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:45",
+          "pace_seconds_per_100m": 105
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:45",
+          "pace_seconds_per_100m": 105
+        }
+      ]
+    },
+    {
+      "name": "Brookes, Simon",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:39",
+          "pace_seconds_per_100m": 159
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:39",
+          "pace_seconds_per_100m": 159
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:37",
+          "pace_seconds_per_100m": 97
+        }
+      ]
+    },
+    {
+      "name": "Brooks, Matt",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150
+        }
+      ]
+    },
+    {
+      "name": "Cairns, Grant",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        }
+      ]
+    },
+    {
+      "name": "Carney, Marg",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        }
+      ]
+    },
+    {
+      "name": "Chomley, Pam",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        }
+      ]
+    },
+    {
+      "name": "Clyne, Shaun",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        }
+      ]
+    },
+    {
+      "name": "Coates, Julie",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        }
+      ]
+    },
+    {
+      "name": "Coates, Pip",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:59",
+          "pace_seconds_per_100m": 179
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:01",
+          "pace_seconds_per_100m": 4921
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:34",
+          "pace_seconds_per_100m": 94
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:34",
+          "pace_seconds_per_100m": 94
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:34",
+          "pace_seconds_per_100m": 94
+        }
+      ]
+    },
+    {
+      "name": "Crause, Ron",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:44",
+          "pace_seconds_per_100m": 164
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:44",
+          "pace_seconds_per_100m": 164
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:44",
+          "pace_seconds_per_100m": 164
+        }
+      ]
+    },
+    {
+      "name": "Crause, Theresa",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123
+        }
+      ]
+    },
+    {
+      "name": "Croll, Andrew",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:12",
+          "pace_seconds_per_100m": 4932
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:12",
+          "pace_seconds_per_100m": 4932
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:12",
+          "pace_seconds_per_100m": 4932
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        }
+      ]
+    },
+    {
+      "name": "Davey, Charlie",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        }
+      ]
+    },
+    {
+      "name": "Davies, Jan",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        }
+      ]
+    },
+    {
+      "name": "Deane, Chris",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:36",
+          "pace_seconds_per_100m": 156
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:36",
+          "pace_seconds_per_100m": 156
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        }
+      ]
+    },
+    {
+      "name": "Doak, Martin",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:00",
+          "pace_seconds_per_100m": 4920
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104
+        }
+      ]
+    },
+    {
+      "name": "Dwyer, Dominic",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        }
+      ]
+    },
+    {
+      "name": "Elder, Denise",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123
+        }
+      ]
+    },
+    {
+      "name": "Elliott, Jo-Anne",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:55",
+          "pace_seconds_per_100m": 175
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
+        }
+      ]
+    },
+    {
+      "name": "Ellis, Peter",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        }
+      ]
+    },
+    {
+      "name": "Farrell, Rob",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        }
+      ]
+    },
+    {
+      "name": "Fitzpatrick, Rob",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        }
+      ]
+    },
+    {
+      "name": "French, Mary",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        }
+      ]
+    },
+    {
+      "name": "Fromow, Tracey",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        }
+      ]
+    },
+    {
+      "name": "Gardner, Philip",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        }
+      ]
+    },
+    {
+      "name": "Gassmann, Claudia",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:20",
+          "pace_seconds_per_100m": 140
+        }
+      ]
+    },
+    {
+      "name": "Gassmann, Nicholas",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "81:59",
+          "pace_seconds_per_100m": 4919
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        }
+      ]
+    },
+    {
+      "name": "Grundy, Caroline",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        }
+      ]
+    },
+    {
+      "name": "Grundy, David",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        }
+      ]
+    },
+    {
+      "name": "Grundy, Steve",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:54",
+          "pace_seconds_per_100m": 174
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:11",
+          "pace_seconds_per_100m": 4931
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        }
+      ]
+    },
+    {
+      "name": "Halmagyi, Michael",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:27",
+          "pace_seconds_per_100m": 147
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:39",
+          "pace_seconds_per_100m": 159
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:39",
+          "pace_seconds_per_100m": 159
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:39",
+          "pace_seconds_per_100m": 159
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:26",
+          "pace_seconds_per_100m": 146
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:31",
+          "pace_seconds_per_100m": 151
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        }
+      ]
+    },
+    {
+      "name": "Harrison, Richard",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        }
+      ]
+    },
+    {
+      "name": "Hartog, Philip",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        }
+      ]
+    },
+    {
+      "name": "Hibbett, John",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "3:05",
+          "pace_seconds_per_100m": 185
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "3:05",
+          "pace_seconds_per_100m": 185
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "3:05",
+          "pace_seconds_per_100m": 185
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:59",
+          "pace_seconds_per_100m": 179
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:50",
+          "pace_seconds_per_100m": 170
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:56",
+          "pace_seconds_per_100m": 176
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "3:04",
+          "pace_seconds_per_100m": 184
+        }
+      ]
+    },
+    {
+      "name": "Hinchliff, Sharna",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:43",
+          "pace_seconds_per_100m": 103
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:43",
+          "pace_seconds_per_100m": 103
+        }
+      ]
+    },
+    {
+      "name": "Hole, Jenny",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        }
+      ]
+    },
+    {
+      "name": "Holt, Phil",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        }
+      ]
+    },
+    {
+      "name": "Hosking, David",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        }
+      ]
+    },
+    {
+      "name": "Howes, Richard",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:40",
+          "pace_seconds_per_100m": 160
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:40",
+          "pace_seconds_per_100m": 160
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:40",
+          "pace_seconds_per_100m": 160
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        }
+      ]
+    },
+    {
+      "name": "Hudson, Anthony",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:20",
+          "pace_seconds_per_100m": 140
+        }
+      ]
+    },
+    {
+      "name": "Hudson, Jess",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        }
+      ]
+    },
+    {
+      "name": "Hutchinson, Nicola",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        }
+      ]
+    },
+    {
+      "name": "Jackson, Anthony",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:49",
+          "pace_seconds_per_100m": 109
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        }
+      ]
+    },
+    {
+      "name": "Jagger, Richard",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        }
+      ]
+    },
+    {
+      "name": "Jandera, Traicha",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:44",
+          "pace_seconds_per_100m": 164
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:44",
+          "pace_seconds_per_100m": 164
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        }
+      ]
+    },
+    {
+      "name": "Jenkin, Lois",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:54",
+          "pace_seconds_per_100m": 174
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:54",
+          "pace_seconds_per_100m": 174
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
+        }
+      ]
+    },
+    {
+      "name": "Jolly, Peter",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:06",
+          "pace_seconds_per_100m": 126
+        }
+      ]
+    },
+    {
+      "name": "Kehoe, Rose",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "3:02",
+          "pace_seconds_per_100m": 182
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:36",
+          "pace_seconds_per_100m": 156
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:36",
+          "pace_seconds_per_100m": 156
+        }
+      ]
+    },
+    {
+      "name": "Kennedy, Jon",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        }
+      ]
+    },
+    {
+      "name": "Kennedy, Peter",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:58",
+          "pace_seconds_per_100m": 178
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:58",
+          "pace_seconds_per_100m": 178
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
+        }
+      ]
+    },
+    {
+      "name": "Kirkman, Michael",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        }
+      ]
+    },
+    {
+      "name": "Lang, Tamera",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:53",
+          "pace_seconds_per_100m": 173
+        }
+      ]
+    },
+    {
+      "name": "Laverty, Sarah",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:52",
+          "pace_seconds_per_100m": 172
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:52",
+          "pace_seconds_per_100m": 172
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:52",
+          "pace_seconds_per_100m": 172
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        }
+      ]
+    },
+    {
+      "name": "Leitch, Tracey",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        }
+      ]
+    },
+    {
+      "name": "Levy, Michael",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        }
+      ]
+    },
+    {
+      "name": "Lieutenant, Adam",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        }
+      ]
+    },
+    {
+      "name": "Lisney, Elsie",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        }
+      ]
+    },
+    {
+      "name": "Lisney, Michael",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:48",
+          "pace_seconds_per_100m": 108
+        }
+      ]
+    },
+    {
+      "name": "Loneragan, Hugo",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        }
+      ]
+    },
+    {
+      "name": "Long, Debbie",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:47",
+          "pace_seconds_per_100m": 167
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        }
+      ]
+    },
+    {
+      "name": "Lovelace, Dave",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:35",
+          "pace_seconds_per_100m": 95
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:35",
+          "pace_seconds_per_100m": 95
+        }
+      ]
+    },
+    {
+      "name": "Lucas, Danny",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
+        }
+      ]
+    },
+    {
+      "name": "MacCormick, Pete",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        }
+      ]
+    },
+    {
+      "name": "Mackay, Cathy",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
+        }
+      ]
+    },
+    {
+      "name": "Mancey, Clive",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
+        }
+      ]
+    },
+    {
+      "name": "Mann, Gareth",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        }
+      ]
+    },
+    {
+      "name": "Marschner, Ian",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        }
+      ]
+    },
+    {
+      "name": "Marshall, James",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        }
+      ]
+    },
+    {
+      "name": "Mather, Monika",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:49",
+          "pace_seconds_per_100m": 109
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:00",
+          "pace_seconds_per_100m": 120
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
+        }
+      ]
+    },
+    {
+      "name": "McCoy, Cliff",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        }
+      ]
+    },
+    {
+      "name": "McCrudden, Paddy",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        }
+      ]
+    },
+    {
+      "name": "McGrory, Craig",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        }
+      ]
+    },
+    {
+      "name": "McGuire, Mark",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        }
+      ]
+    },
+    {
+      "name": "Middlehurst, Carl",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:17",
+          "pace_seconds_per_100m": 137
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        }
+      ]
+    },
+    {
+      "name": "Middlehurst, Lori",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "3:02",
+          "pace_seconds_per_100m": 182
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "3:02",
+          "pace_seconds_per_100m": 182
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:51",
+          "pace_seconds_per_100m": 171
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        }
+      ]
+    },
+    {
+      "name": "Millist, Peter",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:56",
+          "pace_seconds_per_100m": 116
+        }
+      ]
+    },
+    {
+      "name": "Mitchell, Jess",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "3:05",
+          "pace_seconds_per_100m": 185
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "3:05",
+          "pace_seconds_per_100m": 185
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "3:05",
+          "pace_seconds_per_100m": 185
+        }
+      ]
+    },
+    {
+      "name": "Moore, Nicholas",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        }
+      ]
+    },
+    {
+      "name": "Moore, Tony A",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:47",
+          "pace_seconds_per_100m": 107
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        }
+      ]
+    },
+    {
+      "name": "Morath, Dick",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129
+        }
+      ]
+    },
+    {
+      "name": "Morgan, Clare",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:49",
+          "pace_seconds_per_100m": 169
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        }
+      ]
+    },
+    {
+      "name": "Morriss, Katy",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "82:56",
+          "pace_seconds_per_100m": 4976
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "82:56",
+          "pace_seconds_per_100m": 4976
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "82:56",
+          "pace_seconds_per_100m": 4976
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:41",
+          "pace_seconds_per_100m": 4961
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        }
+      ]
+    },
+    {
+      "name": "Mortensen, Chris",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:32",
+          "pace_seconds_per_100m": 92
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:42",
+          "pace_seconds_per_100m": 102
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:35",
+          "pace_seconds_per_100m": 95
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:35",
+          "pace_seconds_per_100m": 95
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:34",
+          "pace_seconds_per_100m": 94
+        }
+      ]
+    },
+    {
+      "name": "Morton, Craig",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:59",
+          "pace_seconds_per_100m": 179
+        }
+      ]
+    },
+    {
+      "name": "Murphy, Jerome",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:56",
+          "pace_seconds_per_100m": 176
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        }
+      ]
+    },
+    {
+      "name": "Murray, Alison",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:55",
+          "pace_seconds_per_100m": 175
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        }
+      ]
+    },
+    {
+      "name": "Negri, Michael",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:06",
+          "pace_seconds_per_100m": 126
+        }
+      ]
+    },
+    {
+      "name": "Newcomb, John",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        }
+      ]
+    },
+    {
+      "name": "Nyland, Graeme",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        }
+      ]
+    },
+    {
+      "name": "O'Gorman, Dermot",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:50",
+          "pace_seconds_per_100m": 110
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:46",
+          "pace_seconds_per_100m": 106
+        }
+      ]
+    },
+    {
+      "name": "O'Neill, John",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "3:12",
+          "pace_seconds_per_100m": 192
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:40",
+          "pace_seconds_per_100m": 160
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:40",
+          "pace_seconds_per_100m": 160
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:40",
+          "pace_seconds_per_100m": 160
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:31",
+          "pace_seconds_per_100m": 151
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        }
+      ]
+    },
+    {
+      "name": "Orpin, Rachel",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        }
+      ]
+    },
+    {
+      "name": "Owen, Michele",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        }
+      ]
+    },
+    {
+      "name": "Padoa, Tertia",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:20",
+          "pace_seconds_per_100m": 140
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:20",
+          "pace_seconds_per_100m": 140
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:20",
+          "pace_seconds_per_100m": 140
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:06",
+          "pace_seconds_per_100m": 126
+        }
+      ]
+    },
+    {
+      "name": "Pal, Damon",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:31",
+          "pace_seconds_per_100m": 91
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:31",
+          "pace_seconds_per_100m": 91
+        }
+      ]
+    },
+    {
+      "name": "Panaretto, Karen",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        }
+      ]
+    },
+    {
+      "name": "Phelps, Megan",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        }
+      ]
+    },
+    {
+      "name": "Phillipps, Ian",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:45",
+          "pace_seconds_per_100m": 105
+        }
+      ]
+    },
+    {
+      "name": "Pope, Alex",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        }
+      ]
+    },
+    {
+      "name": "Power, Vicki",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:24",
+          "pace_seconds_per_100m": 144
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:24",
+          "pace_seconds_per_100m": 144
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:24",
+          "pace_seconds_per_100m": 144
+        }
+      ]
+    },
+    {
+      "name": "Price-McCoy, Cassandra",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:17",
+          "pace_seconds_per_100m": 137
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:06",
+          "pace_seconds_per_100m": 126
+        }
+      ]
+    },
+    {
+      "name": "Quinn, Ginni",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:27",
+          "pace_seconds_per_100m": 147
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        }
+      ]
+    },
+    {
+      "name": "Quinn, Martin",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        }
+      ]
+    },
+    {
+      "name": "Roberts, Stuart",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:57",
+          "pace_seconds_per_100m": 117
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:55",
+          "pace_seconds_per_100m": 115
+        }
+      ]
+    },
+    {
+      "name": "Rudd, Sophie",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        }
+      ]
+    },
+    {
+      "name": "Ryan, Stephen",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:22",
+          "pace_seconds_per_100m": 142
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "82:38",
+          "pace_seconds_per_100m": 4958
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:14",
+          "pace_seconds_per_100m": 134
+        }
+      ]
+    },
+    {
+      "name": "Salier, Stuart",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112
+        }
+      ]
+    },
+    {
+      "name": "Sears, Sue",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:31",
+          "pace_seconds_per_100m": 151
+        }
+      ]
+    },
+    {
+      "name": "Soper, Abi",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        }
+      ]
+    },
+    {
+      "name": "Soper, Isabelle",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:43",
+          "pace_seconds_per_100m": 163
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        }
+      ]
+    },
+    {
+      "name": "Soper, Josh",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        }
+      ]
+    },
+    {
+      "name": "Soper, Lachlan",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:37",
+          "pace_seconds_per_100m": 157
+        }
+      ]
+    },
+    {
+      "name": "Soper, Miriam or Mimi",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:38",
+          "pace_seconds_per_100m": 158
+        }
+      ]
+    },
+    {
+      "name": "Sprotte, Bronte",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:17",
+          "pace_seconds_per_100m": 137
+        }
+      ]
+    },
+    {
+      "name": "Stening, Jack",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:24",
+          "pace_seconds_per_100m": 144
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:24",
+          "pace_seconds_per_100m": 144
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:15",
+          "pace_seconds_per_100m": 135
+        }
+      ]
+    },
+    {
+      "name": "Stevenson, Louise",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154
+        }
+      ]
+    },
+    {
+      "name": "Thompson, Patrick",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        }
+      ]
+    },
+    {
+      "name": "Van Den Bos, Geoff",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:58",
+          "pace_seconds_per_100m": 118
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:05",
+          "pace_seconds_per_100m": 125
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:02",
+          "pace_seconds_per_100m": 122
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:06",
+          "pace_seconds_per_100m": 126
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:01",
+          "pace_seconds_per_100m": 121
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124
+        }
+      ]
+    },
+    {
+      "name": "Vuletich, Suzana",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        }
+      ]
+    },
+    {
+      "name": "Walker, Angus",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138
+        }
+      ]
+    },
+    {
+      "name": "West, Jenny",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "3:11",
+          "pace_seconds_per_100m": 191
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150
+        }
+      ]
+    },
+    {
+      "name": "Whatley, Grant",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:48",
+          "pace_seconds_per_100m": 168
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119
+        }
+      ]
+    },
+    {
+      "name": "Whitehead, Anne",
+      "races": [
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149
+        }
+      ]
+    },
+    {
+      "name": "Widdup, John",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:06",
+          "pace_seconds_per_100m": 126
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:06",
+          "pace_seconds_per_100m": 126
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132
+        }
+      ]
+    },
+    {
+      "name": "Wilder, Martijn",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:19",
+          "pace_seconds_per_100m": 139
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:13",
+          "pace_seconds_per_100m": 133
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        }
+      ]
+    },
+    {
+      "name": "Wilson, Ron",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:51",
+          "pace_seconds_per_100m": 171
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:51",
+          "pace_seconds_per_100m": 171
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:45",
+          "pace_seconds_per_100m": 165
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:35",
+          "pace_seconds_per_100m": 155
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152
+        },
+        {
+          "date": "2026-05-17",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:33",
+          "pace_seconds_per_100m": 153
+        }
+      ]
+    },
+    {
+      "name": "Wolf, Sam",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "81:56",
+          "pace_seconds_per_100m": 4916
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99
+        },
+        {
+          "date": "2026-05-10",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "1:38",
+          "pace_seconds_per_100m": 98
+        }
+      ]
+    },
+    {
+      "name": "Wood, Howard",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-03",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 730,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        }
+      ]
+    },
+    {
+      "name": "Woods, Jim",
+      "races": [
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136
+        },
+        {
+          "date": "2026-05-02",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:08",
+          "pace_seconds_per_100m": 128
+        },
+        {
+          "date": "2026-05-09",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:10",
+          "pace_seconds_per_100m": 130
+        },
+        {
+          "date": "2026-05-16",
+          "day": "Saturday",
+          "series": "Sat",
+          "distance_m": 700,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131
+        }
+      ]
+    }
+  ],
+  "warnings": []
 }
