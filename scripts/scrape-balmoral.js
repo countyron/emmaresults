@@ -144,8 +144,36 @@ function parseCalendar(html){
       const dm = dateCell.match(/(\d{1,2})-([A-Z][a-z]{2})-(\d{4})/);
       if(!dm || !months[dm[2]]) continue;
 
-      const iso = `${dm[3]}-${months[dm[2]]}-${String(dm[1]).padStart(2,'0')}`;
-      const dist = row.map(c => c.match(/^\d{3,4}$/)?.[0]).filter(Boolean).map(Number).find(n => n >= 500 && n <= 3000);
+      const iso = `${dm[3]}-${months[dm[2]]}-${String(dm[1]).padStart(2,'0')}`;let dist = null;
+
+// Prefer the value in the Dist column if header row is available.
+const headerRow = table.find(r =>
+  r.some(c => /dist/i.test(c)) ||
+  r.some(c => /distance/i.test(c))
+);
+
+if(headerRow){
+  const distIndex = headerRow.findIndex(c =>
+    /dist/i.test(c) || /distance/i.test(c)
+  );
+
+  if(distIndex >= 0){
+    const candidate = Number(row[distIndex]);
+    if(Number.isFinite(candidate) && candidate >= 500 && candidate <= 3000){
+      dist = candidate;
+    }
+  }
+}
+
+// Fallback: choose a plausible distance, but exclude likely time values.
+if(!dist){
+  dist = row
+    .map(c => c.match(/^\d{3,4}$/)?.[0])
+    .filter(Boolean)
+    .map(Number)
+    .filter(n => ![700, 730, 800].includes(n))
+    .find(n => n >= 500 && n <= 3000);
+}
       distances[iso] = dist || null;
     }
   }
