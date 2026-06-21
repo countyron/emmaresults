@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-20T22:33:32.929Z",
-  "source": "Balmoral Beach Club SeriesResults lap=Y and CalendarRep1 pages",
+  "last_updated": null,
+  "source": "Balmoral Beach Club",
+  "primarySwimmer": "Bennett, Emma",
   "config": {
-    "swimmers": [
-      "Bennett, Emma",
-      "Bennett, Shaun"
-    ],
+    "primarySwimmer": "Bennett, Emma",
+    "trackAllSwimmers": true,
+    "swimmers": [],
     "season": 2025,
     "series": [
       {
@@ -20,49 +20,8 @@
       }
     ]
   },
-  "swimmers": [
-    {
-      "name": "Bennett, Emma",
-      "races": [
-        {
-          "date": "2026-09-26",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:44",
-          "pace_seconds_per_100m": 104
-        },
-        {
-          "date": "2026-09-27",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:37",
-          "pace_seconds_per_100m": 157
-        }
-      ]
-    },
-    {
-      "name": "Bennett, Shaun",
-      "races": [
-        {
-          "date": "2026-09-26",
-          "day": "Saturday",
-          "series": "Sat",
-          "distance_m": 700,
-          "pace_raw": "1:44",
-          "pace_seconds_per_100m": 104
-        },
-        {
-          "date": "2026-09-27",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 730,
-          "pace_raw": "2:37",
-          "pace_seconds_per_100m": 157
-        }
-      ]
-    }
-  ],
-  "warnings": []
+  "swimmers": [],
+  "warnings": [
+    "Initial placeholder. Run GitHub Action to populate live results."
+  ]
 }
