@@ -181,6 +181,22 @@ function parseSeriesResults(html, calendarEntries, seriesShort, swimmersToTrack)
 
       if(seconds === null) continue;
 
+      // Exclude known incorrect dates.
+      const excludedDates = new Set([
+        '2026-05-03',
+        '2026-05-10'
+      ]);
+
+      if(excludedDates.has(calendarRace.date)) {
+        continue;
+      }
+
+      // Exclude unrealistic pace values over 3:00 per 100 m.
+      // 3:00 = 180 seconds.
+      if(seconds > 180) {
+        continue;
+      }
+
       races.push({
         date: calendarRace.date,
         day: new Date(calendarRace.date + 'T00:00:00Z').toLocaleDateString('en-AU', {
@@ -233,8 +249,6 @@ const warnings = [];
 for(const item of htmlBySeries){
  let calendarEntries = parseCalendar(item.calendarHtml);
 
-// Exclude known incorrect Sunday race data: 03-May-2026
-calendarEntries = calendarEntries.filter(r => r.date !== '2026-05-03');
   const parsed = parseSeriesResults(item.resultsHtml, calendarEntries, item.series.short, SWIMMERS);
 
   warnings.push(...parsed.warnings);
