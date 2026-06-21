@@ -231,7 +231,10 @@ const swimmerMap = Object.fromEntries(SWIMMERS.map(s => [s, []]));
 const warnings = [];
 
 for(const item of htmlBySeries){
-  const calendarEntries = parseCalendar(item.calendarHtml);
+ let calendarEntries = parseCalendar(item.calendarHtml);
+
+// Exclude known incorrect Sunday race data: 03-May-2026
+calendarEntries = calendarEntries.filter(r => r.date !== '2026-05-03');
   const parsed = parseSeriesResults(item.resultsHtml, calendarEntries, item.series.short, SWIMMERS);
 
   warnings.push(...parsed.warnings);
