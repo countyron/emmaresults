@@ -1,8 +1,7 @@
 {
-  "swimmers": [
-    "Bennett, Emma",
-    "Bennett, Shaun"
-  ],
+  "primarySwimmer": "Bennett, Emma",
+  "trackAllSwimmers": true,
+  "swimmers": [],
   "season": 2025,
   "series": [
     {
