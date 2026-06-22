@@ -13,25 +13,20 @@ permissions:
 jobs:
   update-results:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
           fetch-depth: 0
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '24'
-
       - name: Install dependencies
         run: npm install
-
       - name: Scrape Balmoral results
         run: npm run scrape
-
       - name: Commit updated results
         run: |
           git config user.name "github-actions[bot]"
