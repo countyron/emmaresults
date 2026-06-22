@@ -1,16 +1,19 @@
-Balmoral Swim Pace Tracker - All Swimmers
-This version automatically discovers swimmer names from the Balmoral series results tables and allows comparisons against the configured base swimmer.
-Key config
-`data/config.json`:
-```json
-{
-  "primarySwimmer": "Bennett, Emma",
-  "trackAllSwimmers": true,
-  "swimmers": []
-}
-```
-`primarySwimmer` is the swimmer shown by default.
-`trackAllSwimmers: true` tells the scraper to discover all swimmers from the results table.
-Leave `swimmers` empty unless you want to manually restrict the list.
-Update
-Run Actions → Update Balmoral swim results → Run workflow.
+# EmmaSwim Complete Fixed Package
+
+This zip includes all required app files, not just the changed files.
+
+Upload the full contents to the repository root, then run the GitHub Action.
+
+Included:
+- `.github/workflows/update-results.yml`
+- `data/config.json`
+- `data/results.json`
+- `icons/`
+- `scripts/scrape-balmoral.js`
+- `apple-touch-icon.png`
+- `index.html`
+- `manifest.json`
+- `package.json`
+- `sw.js`
+
+Open with `?v=21` after deployment.

@@ -1,6 +1,6 @@
 {
-  "name": "balmoral-all-swimmers-comparison-tracker",
-  "version": "1.3.0",
+  "name": "balmoral-swim-tracker",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
