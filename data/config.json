@@ -3,6 +3,11 @@
   "trackAllSwimmers": true,
   "swimmers": [],
   "season": 2025,
+  "excludedDates": [
+    "2026-05-03",
+    "2026-05-10"
+  ],
+  "maxPaceSeconds": 180,
   "series": [
     {
       "name": "Saturday Winter 2025-26",
