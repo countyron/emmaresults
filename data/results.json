@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T03:11:31.320Z",
+  "last_updated": "2026-08-15T23:48:00.069Z",
   "source": "Balmoral Beach Club SeriesResults lap=Y/lap=N and CalendarRep1 pages",
   "primarySwimmer": "Bennett, Emma",
   "config": {
@@ -88,7 +88,7 @@
           "elapsed_time_raw": "20:24",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 11,
+          "series_total_points": 8,
           "total_swimmers": 70,
           "elapsed_position": 3,
           "elapsed_position_percent": 4.285714285714286
@@ -160,7 +160,7 @@
           "elapsed_time_raw": "20:12",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 11,
+          "series_total_points": 8,
           "total_swimmers": 58,
           "elapsed_position": 4,
           "elapsed_position_percent": 6.896551724137931
@@ -196,7 +196,7 @@
           "elapsed_time_raw": "20:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 11,
+          "series_total_points": 8,
           "total_swimmers": 60,
           "elapsed_position": 6,
           "elapsed_position_percent": 10
@@ -232,7 +232,7 @@
           "elapsed_time_raw": "20:00",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 11,
+          "series_total_points": 8,
           "total_swimmers": 43,
           "elapsed_position": 3,
           "elapsed_position_percent": 6.976744186046512
@@ -286,7 +286,7 @@
           "elapsed_time_raw": "20:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 11,
+          "series_total_points": 8,
           "total_swimmers": 51,
           "elapsed_position": 7,
           "elapsed_position_percent": 13.725490196078432
@@ -322,7 +322,7 @@
           "elapsed_time_raw": "20:21",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 11,
+          "series_total_points": 8,
           "total_swimmers": 54,
           "elapsed_position": 9,
           "elapsed_position_percent": 16.666666666666664
@@ -358,7 +358,7 @@
           "elapsed_time_raw": "16:50",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 11,
+          "series_total_points": 8,
           "total_swimmers": 59,
           "elapsed_position": 5,
           "elapsed_position_percent": 8.47457627118644
@@ -376,7 +376,7 @@
           "elapsed_time_raw": "15:40",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 11,
+          "series_total_points": 8,
           "total_swimmers": 67,
           "elapsed_position": 10,
           "elapsed_position_percent": 14.925373134328357
@@ -398,6 +398,24 @@
           "total_swimmers": 37,
           "elapsed_position": 4,
           "elapsed_position_percent": 10.81081081081081
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:41",
+          "average_pace_seconds_per_100m": 101,
+          "pace_raw": "1:41",
+          "pace_seconds_per_100m": 101,
+          "elapsed_time_seconds": 1010,
+          "elapsed_time_raw": "16:50",
+          "placing_points": 5,
+          "placing_points_raw": "5",
+          "series_total_points": 8,
+          "total_swimmers": 56,
+          "elapsed_position": 8,
+          "elapsed_position_percent": 14.285714285714285
         }
       ]
     },
@@ -417,7 +435,7 @@
           "elapsed_time_raw": "24:24",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 48,
+          "series_total_points": 50,
           "total_swimmers": 70,
           "elapsed_position": 22,
           "elapsed_position_percent": 31.428571428571427
@@ -435,7 +453,7 @@
           "elapsed_time_raw": "23:48",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 48,
+          "series_total_points": 50,
           "total_swimmers": 58,
           "elapsed_position": 17,
           "elapsed_position_percent": 29.310344827586203
@@ -453,7 +471,7 @@
           "elapsed_time_raw": "23:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 48,
+          "series_total_points": 50,
           "total_swimmers": 60,
           "elapsed_position": 16,
           "elapsed_position_percent": 26.666666666666668
@@ -471,7 +489,7 @@
           "elapsed_time_raw": "22:11",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 48,
+          "series_total_points": 50,
           "total_swimmers": 54,
           "elapsed_position": 15,
           "elapsed_position_percent": 27.77777777777778
@@ -494,7 +512,7 @@
           "elapsed_time_raw": "21:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 5,
+          "series_total_points": 2,
           "total_swimmers": 70,
           "elapsed_position": 7,
           "elapsed_position_percent": 10
@@ -512,7 +530,7 @@
           "elapsed_time_raw": "20:24",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 5,
+          "series_total_points": 2,
           "total_swimmers": 53,
           "elapsed_position": 8,
           "elapsed_position_percent": 15.09433962264151
@@ -530,7 +548,7 @@
           "elapsed_time_raw": "21:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 5,
+          "series_total_points": 2,
           "total_swimmers": 58,
           "elapsed_position": 6,
           "elapsed_position_percent": 10.344827586206897
@@ -548,7 +566,7 @@
           "elapsed_time_raw": "21:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 5,
+          "series_total_points": 2,
           "total_swimmers": 60,
           "elapsed_position": 8,
           "elapsed_position_percent": 13.333333333333334
@@ -566,7 +584,7 @@
           "elapsed_time_raw": "20:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 5,
+          "series_total_points": 2,
           "total_swimmers": 51,
           "elapsed_position": 9,
           "elapsed_position_percent": 17.647058823529413
@@ -584,7 +602,7 @@
           "elapsed_time_raw": "19:26",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 5,
+          "series_total_points": 2,
           "total_swimmers": 54,
           "elapsed_position": 8,
           "elapsed_position_percent": 14.814814814814813
@@ -602,7 +620,7 @@
           "elapsed_time_raw": "17:10",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 5,
+          "series_total_points": 2,
           "total_swimmers": 59,
           "elapsed_position": 6,
           "elapsed_position_percent": 10.16949152542373
@@ -620,7 +638,7 @@
           "elapsed_time_raw": "16:30",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 5,
+          "series_total_points": 2,
           "total_swimmers": 67,
           "elapsed_position": 4,
           "elapsed_position_percent": 5.970149253731343
@@ -638,10 +656,28 @@
           "elapsed_time_raw": "15:40",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 5,
+          "series_total_points": 2,
           "total_swimmers": 67,
           "elapsed_position": 11,
           "elapsed_position_percent": 16.417910447761194
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:39",
+          "average_pace_seconds_per_100m": 99,
+          "pace_raw": "1:39",
+          "pace_seconds_per_100m": 99,
+          "elapsed_time_seconds": 990,
+          "elapsed_time_raw": "16:30",
+          "placing_points": 7,
+          "placing_points_raw": "7",
+          "series_total_points": 2,
+          "total_swimmers": 56,
+          "elapsed_position": 6,
+          "elapsed_position_percent": 10.714285714285714
         }
       ]
     },
@@ -910,7 +946,7 @@
           "elapsed_time_raw": "23:36",
           "placing_points": 9,
           "placing_points_raw": "9",
-          "series_total_points": 34,
+          "series_total_points": 38,
           "total_swimmers": 60,
           "elapsed_position": 19,
           "elapsed_position_percent": 31.666666666666664
@@ -928,7 +964,7 @@
           "elapsed_time_raw": "25:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 34,
+          "series_total_points": 38,
           "total_swimmers": 51,
           "elapsed_position": 28,
           "elapsed_position_percent": 54.90196078431373
@@ -946,7 +982,7 @@
           "elapsed_time_raw": "22:44",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 34,
+          "series_total_points": 38,
           "total_swimmers": 54,
           "elapsed_position": 18,
           "elapsed_position_percent": 33.33333333333333
@@ -964,7 +1000,7 @@
           "elapsed_time_raw": "18:10",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 34,
+          "series_total_points": 38,
           "total_swimmers": 67,
           "elapsed_position": 22,
           "elapsed_position_percent": 32.83582089552239
@@ -1297,6 +1333,24 @@
           "total_swimmers": 37,
           "elapsed_position": 31,
           "elapsed_position_percent": 83.78378378378379
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:26",
+          "average_pace_seconds_per_100m": 146,
+          "pace_raw": "2:26",
+          "pace_seconds_per_100m": 146,
+          "elapsed_time_seconds": 1460,
+          "elapsed_time_raw": "24:20",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 41,
+          "elapsed_position_percent": 73.21428571428571
         }
       ]
     },
@@ -1370,7 +1424,7 @@
           "elapsed_time_raw": "27:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 11,
           "total_swimmers": 70,
           "elapsed_position": 42,
           "elapsed_position_percent": 60
@@ -1424,7 +1478,7 @@
           "elapsed_time_raw": "25:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 11,
           "total_swimmers": 53,
           "elapsed_position": 28,
           "elapsed_position_percent": 52.83018867924528
@@ -1460,7 +1514,7 @@
           "elapsed_time_raw": "26:24",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 11,
           "total_swimmers": 58,
           "elapsed_position": 30,
           "elapsed_position_percent": 51.724137931034484
@@ -1496,7 +1550,7 @@
           "elapsed_time_raw": "26:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 11,
           "total_swimmers": 60,
           "elapsed_position": 33,
           "elapsed_position_percent": 55.00000000000001
@@ -1532,7 +1586,7 @@
           "elapsed_time_raw": "26:24",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 11,
           "total_swimmers": 43,
           "elapsed_position": 27,
           "elapsed_position_percent": 62.7906976744186
@@ -1604,7 +1658,7 @@
           "elapsed_time_raw": "25:51",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 11,
           "total_swimmers": 54,
           "elapsed_position": 33,
           "elapsed_position_percent": 61.111111111111114
@@ -1640,7 +1694,7 @@
           "elapsed_time_raw": "22:40",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 11,
           "total_swimmers": 59,
           "elapsed_position": 33,
           "elapsed_position_percent": 55.932203389830505
@@ -1676,7 +1730,7 @@
           "elapsed_time_raw": "22:10",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 11,
           "total_swimmers": 67,
           "elapsed_position": 39,
           "elapsed_position_percent": 58.2089552238806
@@ -1730,7 +1784,7 @@
           "elapsed_time_raw": "20:50",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 11,
           "total_swimmers": 67,
           "elapsed_position": 43,
           "elapsed_position_percent": 64.17910447761194
@@ -1752,6 +1806,24 @@
           "total_swimmers": 37,
           "elapsed_position": 28,
           "elapsed_position_percent": 75.67567567567568
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:18",
+          "average_pace_seconds_per_100m": 138,
+          "pace_raw": "2:18",
+          "pace_seconds_per_100m": 138,
+          "elapsed_time_seconds": 1380,
+          "elapsed_time_raw": "23:00",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": 11,
+          "total_swimmers": 56,
+          "elapsed_position": 35,
+          "elapsed_position_percent": 62.5
         }
       ]
     },
@@ -1956,7 +2028,7 @@
           "elapsed_time_raw": "31:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 85,
+          "series_total_points": null,
           "total_swimmers": 60,
           "elapsed_position": 54,
           "elapsed_position_percent": 90
@@ -1974,7 +2046,7 @@
           "elapsed_time_raw": "25:48",
           "placing_points": 10,
           "placing_points_raw": "10",
-          "series_total_points": 85,
+          "series_total_points": null,
           "total_swimmers": 43,
           "elapsed_position": 25,
           "elapsed_position_percent": 58.139534883720934
@@ -2533,6 +2605,24 @@
           "total_swimmers": 37,
           "elapsed_position": 2,
           "elapsed_position_percent": 5.405405405405405
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:37",
+          "average_pace_seconds_per_100m": 97,
+          "pace_raw": "1:37",
+          "pace_seconds_per_100m": 97,
+          "elapsed_time_seconds": 970,
+          "elapsed_time_raw": "16:10",
+          "placing_points": 8,
+          "placing_points_raw": "8",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 4,
+          "elapsed_position_percent": 7.142857142857142
         }
       ]
     },
@@ -2916,6 +3006,24 @@
           "total_swimmers": 37,
           "elapsed_position": 18,
           "elapsed_position_percent": 48.64864864864865
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:04",
+          "average_pace_seconds_per_100m": 124,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124,
+          "elapsed_time_seconds": 1240,
+          "elapsed_time_raw": "20:40",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 22,
+          "elapsed_position_percent": 39.285714285714285
         }
       ]
     },
@@ -3160,6 +3268,24 @@
           "total_swimmers": 67,
           "elapsed_position": 38,
           "elapsed_position_percent": 56.71641791044776
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:07",
+          "average_pace_seconds_per_100m": 127,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127,
+          "elapsed_time_seconds": 1270,
+          "elapsed_time_raw": "21:10",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": 1,
+          "total_swimmers": 56,
+          "elapsed_position": 25,
+          "elapsed_position_percent": 44.642857142857146
         }
       ]
     },
@@ -3179,7 +3305,7 @@
           "elapsed_time_raw": "24:48",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 37,
+          "series_total_points": 40,
           "total_swimmers": 51,
           "elapsed_position": 23,
           "elapsed_position_percent": 45.09803921568628
@@ -3197,7 +3323,7 @@
           "elapsed_time_raw": "23:28",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 37,
+          "series_total_points": 40,
           "total_swimmers": 54,
           "elapsed_position": 24,
           "elapsed_position_percent": 44.44444444444444
@@ -3215,7 +3341,7 @@
           "elapsed_time_raw": "20:00",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 37,
+          "series_total_points": 40,
           "total_swimmers": 59,
           "elapsed_position": 16,
           "elapsed_position_percent": 27.11864406779661
@@ -3233,7 +3359,7 @@
           "elapsed_time_raw": "17:30",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 37,
+          "series_total_points": 40,
           "total_swimmers": 67,
           "elapsed_position": 16,
           "elapsed_position_percent": 23.88059701492537
@@ -3279,7 +3405,7 @@
           "elapsed_time_raw": "31:00",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 57,
+          "series_total_points": 62,
           "total_swimmers": 70,
           "elapsed_position": 59,
           "elapsed_position_percent": 84.28571428571429
@@ -3315,7 +3441,7 @@
           "elapsed_time_raw": "21:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 57,
+          "series_total_points": 62,
           "total_swimmers": 43,
           "elapsed_position": 8,
           "elapsed_position_percent": 18.6046511627907
@@ -3333,7 +3459,7 @@
           "elapsed_time_raw": "24:48",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 57,
+          "series_total_points": 62,
           "total_swimmers": 51,
           "elapsed_position": 24,
           "elapsed_position_percent": 47.05882352941176
@@ -3369,7 +3495,7 @@
           "elapsed_time_raw": "23:17",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 57,
+          "series_total_points": 62,
           "total_swimmers": 54,
           "elapsed_position": 22,
           "elapsed_position_percent": 40.74074074074074
@@ -3387,7 +3513,7 @@
           "elapsed_time_raw": "20:30",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 57,
+          "series_total_points": 62,
           "total_swimmers": 59,
           "elapsed_position": 17,
           "elapsed_position_percent": 28.8135593220339
@@ -3672,7 +3798,7 @@
           "elapsed_time_raw": "26:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 86,
           "total_swimmers": 70,
           "elapsed_position": 39,
           "elapsed_position_percent": 55.714285714285715
@@ -3744,7 +3870,7 @@
           "elapsed_time_raw": "22:30",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 86,
           "total_swimmers": 59,
           "elapsed_position": 31,
           "elapsed_position_percent": 52.54237288135594
@@ -3798,7 +3924,7 @@
           "elapsed_time_raw": "19:50",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 86,
           "total_swimmers": 67,
           "elapsed_position": 39,
           "elapsed_position_percent": 58.2089552238806
@@ -3820,6 +3946,24 @@
           "total_swimmers": 37,
           "elapsed_position": 19,
           "elapsed_position_percent": 51.35135135135135
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:21",
+          "average_pace_seconds_per_100m": 141,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141,
+          "elapsed_time_seconds": 1410,
+          "elapsed_time_raw": "23:30",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": 86,
+          "total_swimmers": 56,
+          "elapsed_position": 36,
+          "elapsed_position_percent": 64.28571428571429
         }
       ]
     },
@@ -3898,7 +4042,7 @@
           "elapsed_time_raw": "24:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 42,
+          "series_total_points": 44,
           "total_swimmers": 70,
           "elapsed_position": 19,
           "elapsed_position_percent": 27.142857142857142
@@ -3916,7 +4060,7 @@
           "elapsed_time_raw": "22:24",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 42,
+          "series_total_points": 44,
           "total_swimmers": 53,
           "elapsed_position": 13,
           "elapsed_position_percent": 24.528301886792452
@@ -3952,7 +4096,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 42,
+          "series_total_points": 44,
           "total_swimmers": 60,
           "elapsed_position": 14,
           "elapsed_position_percent": 23.333333333333332
@@ -3970,7 +4114,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 42,
+          "series_total_points": 44,
           "total_swimmers": 43,
           "elapsed_position": 10,
           "elapsed_position_percent": 23.25581395348837
@@ -4236,7 +4380,7 @@
           "elapsed_time_raw": "21:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 106,
+          "series_total_points": null,
           "total_swimmers": 51,
           "elapsed_position": 11,
           "elapsed_position_percent": 21.568627450980394
@@ -4569,6 +4713,24 @@
           "total_swimmers": 67,
           "elapsed_position": 4,
           "elapsed_position_percent": 5.970149253731343
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:36",
+          "average_pace_seconds_per_100m": 96,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96,
+          "elapsed_time_seconds": 960,
+          "elapsed_time_raw": "16:00",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 2,
+          "elapsed_position_percent": 3.571428571428571
         }
       ]
     },
@@ -4610,6 +4772,24 @@
           "total_swimmers": 67,
           "elapsed_position": 50,
           "elapsed_position_percent": 74.6268656716418
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:23",
+          "average_pace_seconds_per_100m": 143,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143,
+          "elapsed_time_seconds": 1430,
+          "elapsed_time_raw": "23:50",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 38,
+          "elapsed_position_percent": 67.85714285714286
         }
       ]
     },
@@ -4931,6 +5111,24 @@
           "total_swimmers": 67,
           "elapsed_position": 10,
           "elapsed_position_percent": 14.925373134328357
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:53",
+          "average_pace_seconds_per_100m": 113,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113,
+          "elapsed_time_seconds": 1130,
+          "elapsed_time_raw": "18:50",
+          "placing_points": 6,
+          "placing_points_raw": "6",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 14,
+          "elapsed_position_percent": 25
         }
       ]
     },
@@ -4950,7 +5148,7 @@
           "elapsed_time_raw": "31:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 21,
           "total_swimmers": 70,
           "elapsed_position": 60,
           "elapsed_position_percent": 85.71428571428571
@@ -4968,7 +5166,7 @@
           "elapsed_time_raw": "29:48",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 21,
           "total_swimmers": 53,
           "elapsed_position": 45,
           "elapsed_position_percent": 84.90566037735849
@@ -4986,7 +5184,7 @@
           "elapsed_time_raw": "31:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 21,
           "total_swimmers": 58,
           "elapsed_position": 55,
           "elapsed_position_percent": 94.82758620689656
@@ -5004,7 +5202,7 @@
           "elapsed_time_raw": "30:48",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 21,
           "total_swimmers": 60,
           "elapsed_position": 52,
           "elapsed_position_percent": 86.66666666666667
@@ -5022,7 +5220,7 @@
           "elapsed_time_raw": "30:36",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": null,
+          "series_total_points": 21,
           "total_swimmers": 43,
           "elapsed_position": 37,
           "elapsed_position_percent": 86.04651162790698
@@ -5058,7 +5256,7 @@
           "elapsed_time_raw": "29:12",
           "placing_points": 10,
           "placing_points_raw": "10",
-          "series_total_points": null,
+          "series_total_points": 21,
           "total_swimmers": 51,
           "elapsed_position": 44,
           "elapsed_position_percent": 86.27450980392157
@@ -5502,7 +5700,7 @@
           "elapsed_time_raw": "26:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 70,
           "elapsed_position": 40,
           "elapsed_position_percent": 57.14285714285714
@@ -5520,7 +5718,7 @@
           "elapsed_time_raw": "25:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 53,
           "elapsed_position": 26,
           "elapsed_position_percent": 49.056603773584904
@@ -5556,7 +5754,7 @@
           "elapsed_time_raw": "25:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 58,
           "elapsed_position": 24,
           "elapsed_position_percent": 41.37931034482759
@@ -5592,7 +5790,7 @@
           "elapsed_time_raw": "24:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 60,
           "elapsed_position": 26,
           "elapsed_position_percent": 43.333333333333336
@@ -5628,7 +5826,7 @@
           "elapsed_time_raw": "24:36",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 43,
           "elapsed_position": 17,
           "elapsed_position_percent": 39.53488372093023
@@ -5682,7 +5880,7 @@
           "elapsed_time_raw": "24:48",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 51,
           "elapsed_position": 25,
           "elapsed_position_percent": 49.01960784313725
@@ -5718,7 +5916,7 @@
           "elapsed_time_raw": "24:01",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 54,
           "elapsed_position": 27,
           "elapsed_position_percent": 50
@@ -5754,7 +5952,7 @@
           "elapsed_time_raw": "21:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 59,
           "elapsed_position": 22,
           "elapsed_position_percent": 37.28813559322034
@@ -5790,7 +5988,7 @@
           "elapsed_time_raw": "20:10",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 23,
           "elapsed_position_percent": 34.32835820895522
@@ -5844,7 +6042,7 @@
           "elapsed_time_raw": "19:40",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 13,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 34,
           "elapsed_position_percent": 50.74626865671642
@@ -5866,6 +6064,24 @@
           "total_swimmers": 37,
           "elapsed_position": 20,
           "elapsed_position_percent": 54.054054054054056
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:07",
+          "average_pace_seconds_per_100m": 127,
+          "pace_raw": "2:07",
+          "pace_seconds_per_100m": 127,
+          "elapsed_time_seconds": 1270,
+          "elapsed_time_raw": "21:10",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 26,
+          "elapsed_position_percent": 46.42857142857143
         }
       ]
     },
@@ -5997,6 +6213,24 @@
           "total_swimmers": 67,
           "elapsed_position": 23,
           "elapsed_position_percent": 34.32835820895522
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:12",
+          "average_pace_seconds_per_100m": 132,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132,
+          "elapsed_time_seconds": 1320,
+          "elapsed_time_raw": "22:00",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 30,
+          "elapsed_position_percent": 53.57142857142857
         }
       ]
     },
@@ -6706,6 +6940,24 @@
           "total_swimmers": 59,
           "elapsed_position": 48,
           "elapsed_position_percent": 81.35593220338984
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:16",
+          "average_pace_seconds_per_100m": 136,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136,
+          "elapsed_time_seconds": 1360,
+          "elapsed_time_raw": "22:40",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 33,
+          "elapsed_position_percent": 58.92857142857143
         }
       ]
     },
@@ -6725,7 +6977,7 @@
           "elapsed_time_raw": "26:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 9,
+          "series_total_points": 15,
           "total_swimmers": 70,
           "elapsed_position": 36,
           "elapsed_position_percent": 51.42857142857142
@@ -6743,7 +6995,7 @@
           "elapsed_time_raw": "24:48",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 9,
+          "series_total_points": 15,
           "total_swimmers": 53,
           "elapsed_position": 25,
           "elapsed_position_percent": 47.16981132075472
@@ -6761,7 +7013,7 @@
           "elapsed_time_raw": "25:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 9,
+          "series_total_points": 15,
           "total_swimmers": 58,
           "elapsed_position": 28,
           "elapsed_position_percent": 48.275862068965516
@@ -6779,7 +7031,7 @@
           "elapsed_time_raw": "24:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 9,
+          "series_total_points": 15,
           "total_swimmers": 60,
           "elapsed_position": 25,
           "elapsed_position_percent": 41.66666666666667
@@ -6797,7 +7049,7 @@
           "elapsed_time_raw": "27:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 9,
+          "series_total_points": 15,
           "total_swimmers": 51,
           "elapsed_position": 37,
           "elapsed_position_percent": 72.54901960784314
@@ -6815,7 +7067,7 @@
           "elapsed_time_raw": "25:07",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 9,
+          "series_total_points": 15,
           "total_swimmers": 54,
           "elapsed_position": 31,
           "elapsed_position_percent": 57.407407407407405
@@ -6833,7 +7085,7 @@
           "elapsed_time_raw": "22:10",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 9,
+          "series_total_points": 15,
           "total_swimmers": 59,
           "elapsed_position": 30,
           "elapsed_position_percent": 50.847457627118644
@@ -6851,7 +7103,7 @@
           "elapsed_time_raw": "22:10",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 9,
+          "series_total_points": 15,
           "total_swimmers": 67,
           "elapsed_position": 41,
           "elapsed_position_percent": 61.19402985074627
@@ -6869,7 +7121,7 @@
           "elapsed_time_raw": "20:20",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 9,
+          "series_total_points": 15,
           "total_swimmers": 67,
           "elapsed_position": 41,
           "elapsed_position_percent": 61.19402985074627
@@ -7004,6 +7256,24 @@
           "total_swimmers": 67,
           "elapsed_position": 18,
           "elapsed_position_percent": 26.865671641791046
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:59",
+          "average_pace_seconds_per_100m": 119,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119,
+          "elapsed_time_seconds": 1190,
+          "elapsed_time_raw": "19:50",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 17,
+          "elapsed_position_percent": 30.357142857142854
         }
       ]
     },
@@ -7069,7 +7339,7 @@
           "elapsed_time_raw": "27:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 78,
+          "series_total_points": 81,
           "total_swimmers": 53,
           "elapsed_position": 37,
           "elapsed_position_percent": 69.81132075471697
@@ -7087,7 +7357,7 @@
           "elapsed_time_raw": "28:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 78,
+          "series_total_points": 81,
           "total_swimmers": 60,
           "elapsed_position": 46,
           "elapsed_position_percent": 76.66666666666667
@@ -7105,7 +7375,7 @@
           "elapsed_time_raw": "27:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 78,
+          "series_total_points": 81,
           "total_swimmers": 43,
           "elapsed_position": 30,
           "elapsed_position_percent": 69.76744186046511
@@ -7123,7 +7393,7 @@
           "elapsed_time_raw": "25:18",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 78,
+          "series_total_points": 81,
           "total_swimmers": 54,
           "elapsed_position": 32,
           "elapsed_position_percent": 59.25925925925925
@@ -7304,6 +7574,24 @@
           "total_swimmers": 67,
           "elapsed_position": 64,
           "elapsed_position_percent": 95.52238805970148
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:36",
+          "average_pace_seconds_per_100m": 156,
+          "pace_raw": "2:36",
+          "pace_seconds_per_100m": 156,
+          "elapsed_time_seconds": 1560,
+          "elapsed_time_raw": "26:00",
+          "placing_points": 10,
+          "placing_points_raw": "10",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 52,
+          "elapsed_position_percent": 92.85714285714286
         }
       ]
     },
@@ -7359,7 +7647,7 @@
           "elapsed_time_raw": "23:12",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": null,
+          "series_total_points": 4,
           "total_swimmers": 70,
           "elapsed_position": 18,
           "elapsed_position_percent": 25.71428571428571
@@ -7413,7 +7701,7 @@
           "elapsed_time_raw": "21:48",
           "placing_points": 9,
           "placing_points_raw": "9",
-          "series_total_points": null,
+          "series_total_points": 4,
           "total_swimmers": 53,
           "elapsed_position": 12,
           "elapsed_position_percent": 22.641509433962266
@@ -7449,7 +7737,7 @@
           "elapsed_time_raw": "22:12",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 4,
           "total_swimmers": 58,
           "elapsed_position": 9,
           "elapsed_position_percent": 15.517241379310345
@@ -7485,7 +7773,7 @@
           "elapsed_time_raw": "21:36",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": null,
+          "series_total_points": 4,
           "total_swimmers": 43,
           "elapsed_position": 6,
           "elapsed_position_percent": 13.953488372093023
@@ -7539,7 +7827,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 4,
           "total_swimmers": 51,
           "elapsed_position": 15,
           "elapsed_position_percent": 29.411764705882355
@@ -7593,7 +7881,7 @@
           "elapsed_time_raw": "18:40",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": null,
+          "series_total_points": 4,
           "total_swimmers": 59,
           "elapsed_position": 9,
           "elapsed_position_percent": 15.254237288135593
@@ -7629,7 +7917,7 @@
           "elapsed_time_raw": "18:00",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 4,
           "total_swimmers": 67,
           "elapsed_position": 8,
           "elapsed_position_percent": 11.940298507462686
@@ -7669,6 +7957,24 @@
           "total_swimmers": 37,
           "elapsed_position": 9,
           "elapsed_position_percent": 24.324324324324326
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:51",
+          "average_pace_seconds_per_100m": 111,
+          "pace_raw": "1:51",
+          "pace_seconds_per_100m": 111,
+          "elapsed_time_seconds": 1110,
+          "elapsed_time_raw": "18:30",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": 4,
+          "total_swimmers": 56,
+          "elapsed_position": 12,
+          "elapsed_position_percent": 21.428571428571427
         }
       ]
     },
@@ -7823,6 +8129,24 @@
           "total_swimmers": 67,
           "elapsed_position": 36,
           "elapsed_position_percent": 53.73134328358209
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:12",
+          "average_pace_seconds_per_100m": 132,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132,
+          "elapsed_time_seconds": 1320,
+          "elapsed_time_raw": "22:00",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 31,
+          "elapsed_position_percent": 55.35714285714286
         }
       ]
     },
@@ -7842,7 +8166,7 @@
           "elapsed_time_raw": "19:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 27,
+          "series_total_points": 22,
           "total_swimmers": 53,
           "elapsed_position": 5,
           "elapsed_position_percent": 9.433962264150944
@@ -7860,7 +8184,7 @@
           "elapsed_time_raw": "22:24",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 27,
+          "series_total_points": 22,
           "total_swimmers": 58,
           "elapsed_position": 13,
           "elapsed_position_percent": 22.413793103448278
@@ -7878,7 +8202,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 27,
+          "series_total_points": 22,
           "total_swimmers": 60,
           "elapsed_position": 15,
           "elapsed_position_percent": 25
@@ -7896,7 +8220,7 @@
           "elapsed_time_raw": "22:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 27,
+          "series_total_points": 22,
           "total_swimmers": 43,
           "elapsed_position": 13,
           "elapsed_position_percent": 30.23255813953488
@@ -7914,7 +8238,7 @@
           "elapsed_time_raw": "19:00",
           "placing_points": 10,
           "placing_points_raw": "10",
-          "series_total_points": 27,
+          "series_total_points": 22,
           "total_swimmers": 59,
           "elapsed_position": 12,
           "elapsed_position_percent": 20.33898305084746
@@ -7932,7 +8256,7 @@
           "elapsed_time_raw": "18:40",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 27,
+          "series_total_points": 22,
           "total_swimmers": 67,
           "elapsed_position": 12,
           "elapsed_position_percent": 17.91044776119403
@@ -7950,10 +8274,28 @@
           "elapsed_time_raw": "17:50",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 27,
+          "series_total_points": 22,
           "total_swimmers": 67,
           "elapsed_position": 19,
           "elapsed_position_percent": 28.35820895522388
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:53",
+          "average_pace_seconds_per_100m": 113,
+          "pace_raw": "1:53",
+          "pace_seconds_per_100m": 113,
+          "elapsed_time_seconds": 1130,
+          "elapsed_time_raw": "18:50",
+          "placing_points": 6,
+          "placing_points_raw": "6",
+          "series_total_points": 22,
+          "total_swimmers": 56,
+          "elapsed_position": 15,
+          "elapsed_position_percent": 26.785714285714285
         }
       ]
     },
@@ -8181,7 +8523,7 @@
           "elapsed_time_raw": "27:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 98,
+          "series_total_points": 100,
           "total_swimmers": 70,
           "elapsed_position": 47,
           "elapsed_position_percent": 67.14285714285714
@@ -8271,7 +8613,7 @@
           "elapsed_time_raw": "25:36",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 98,
+          "series_total_points": 100,
           "total_swimmers": 51,
           "elapsed_position": 32,
           "elapsed_position_percent": 62.745098039215684
@@ -8307,7 +8649,7 @@
           "elapsed_time_raw": "22:30",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 98,
+          "series_total_points": 100,
           "total_swimmers": 59,
           "elapsed_position": 32,
           "elapsed_position_percent": 54.23728813559322
@@ -8443,7 +8785,7 @@
           "elapsed_time_raw": "31:00",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 63,
+          "series_total_points": 58,
           "total_swimmers": 70,
           "elapsed_position": 61,
           "elapsed_position_percent": 87.14285714285714
@@ -8479,7 +8821,7 @@
           "elapsed_time_raw": "28:24",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 63,
+          "series_total_points": 58,
           "total_swimmers": 53,
           "elapsed_position": 42,
           "elapsed_position_percent": 79.24528301886792
@@ -8515,7 +8857,7 @@
           "elapsed_time_raw": "29:12",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 63,
+          "series_total_points": 58,
           "total_swimmers": 58,
           "elapsed_position": 47,
           "elapsed_position_percent": 81.03448275862068
@@ -8551,7 +8893,7 @@
           "elapsed_time_raw": "28:36",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 63,
+          "series_total_points": 58,
           "total_swimmers": 60,
           "elapsed_position": 47,
           "elapsed_position_percent": 78.33333333333333
@@ -8591,6 +8933,24 @@
           "total_swimmers": 37,
           "elapsed_position": 27,
           "elapsed_position_percent": 72.97297297297297
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:27",
+          "average_pace_seconds_per_100m": 147,
+          "pace_raw": "2:27",
+          "pace_seconds_per_100m": 147,
+          "elapsed_time_seconds": 1470,
+          "elapsed_time_raw": "24:30",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": 58,
+          "total_swimmers": 56,
+          "elapsed_position": 42,
+          "elapsed_position_percent": 75
         }
       ]
     },
@@ -8781,6 +9141,24 @@
           "total_swimmers": 67,
           "elapsed_position": 46,
           "elapsed_position_percent": 68.65671641791045
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:21",
+          "average_pace_seconds_per_100m": 141,
+          "pace_raw": "2:21",
+          "pace_seconds_per_100m": 141,
+          "elapsed_time_seconds": 1410,
+          "elapsed_time_raw": "23:30",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 37,
+          "elapsed_position_percent": 66.07142857142857
         }
       ]
     },
@@ -8836,7 +9214,7 @@
           "elapsed_time_raw": "33:48",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 54,
+          "series_total_points": null,
           "total_swimmers": 53,
           "elapsed_position": 52,
           "elapsed_position_percent": 98.11320754716981
@@ -8872,7 +9250,7 @@
           "elapsed_time_raw": "35:48",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 54,
+          "series_total_points": null,
           "total_swimmers": 58,
           "elapsed_position": 58,
           "elapsed_position_percent": 100
@@ -8908,7 +9286,7 @@
           "elapsed_time_raw": "35:12",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 54,
+          "series_total_points": null,
           "total_swimmers": 60,
           "elapsed_position": 60,
           "elapsed_position_percent": 100
@@ -8980,7 +9358,7 @@
           "elapsed_time_raw": "29:40",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 54,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 67,
           "elapsed_position_percent": 100
@@ -9016,10 +9394,28 @@
           "elapsed_time_raw": "27:20",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 54,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 66,
           "elapsed_position_percent": 98.50746268656717
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:59",
+          "average_pace_seconds_per_100m": 179,
+          "pace_raw": "2:59",
+          "pace_seconds_per_100m": 179,
+          "elapsed_time_seconds": 1790,
+          "elapsed_time_raw": "29:50",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 56,
+          "elapsed_position_percent": 100
         }
       ]
     },
@@ -9057,7 +9453,7 @@
           "elapsed_time_raw": "20:48",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 74,
           "total_swimmers": 70,
           "elapsed_position": 5,
           "elapsed_position_percent": 7.142857142857142
@@ -9093,7 +9489,7 @@
           "elapsed_time_raw": "20:12",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 74,
           "total_swimmers": 53,
           "elapsed_position": 7,
           "elapsed_position_percent": 13.20754716981132
@@ -9129,7 +9525,7 @@
           "elapsed_time_raw": "20:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 74,
           "total_swimmers": 60,
           "elapsed_position": 7,
           "elapsed_position_percent": 11.666666666666666
@@ -9165,7 +9561,7 @@
           "elapsed_time_raw": "19:15",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": null,
+          "series_total_points": 74,
           "total_swimmers": 54,
           "elapsed_position": 7,
           "elapsed_position_percent": 12.962962962962962
@@ -9183,7 +9579,7 @@
           "elapsed_time_raw": "18:50",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 74,
           "total_swimmers": 59,
           "elapsed_position": 11,
           "elapsed_position_percent": 18.64406779661017
@@ -9260,7 +9656,7 @@
           "elapsed_time_raw": "26:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 29,
+          "series_total_points": 33,
           "total_swimmers": 60,
           "elapsed_position": 37,
           "elapsed_position_percent": 61.66666666666667
@@ -9278,7 +9674,7 @@
           "elapsed_time_raw": "25:24",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 29,
+          "series_total_points": 33,
           "total_swimmers": 51,
           "elapsed_position": 29,
           "elapsed_position_percent": 56.86274509803921
@@ -9296,7 +9692,7 @@
           "elapsed_time_raw": "21:50",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 29,
+          "series_total_points": 33,
           "total_swimmers": 67,
           "elapsed_position": 37,
           "elapsed_position_percent": 55.223880597014926
@@ -9314,7 +9710,7 @@
           "elapsed_time_raw": "19:20",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 29,
+          "series_total_points": 33,
           "total_swimmers": 67,
           "elapsed_position": 33,
           "elapsed_position_percent": 49.25373134328358
@@ -9504,7 +9900,7 @@
           "elapsed_time_raw": "29:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 7,
+          "series_total_points": 12,
           "total_swimmers": 70,
           "elapsed_position": 53,
           "elapsed_position_percent": 75.71428571428571
@@ -9522,7 +9918,7 @@
           "elapsed_time_raw": "27:48",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 7,
+          "series_total_points": 12,
           "total_swimmers": 53,
           "elapsed_position": 39,
           "elapsed_position_percent": 73.58490566037736
@@ -9540,7 +9936,7 @@
           "elapsed_time_raw": "28:24",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 7,
+          "series_total_points": 12,
           "total_swimmers": 58,
           "elapsed_position": 46,
           "elapsed_position_percent": 79.3103448275862
@@ -9558,7 +9954,7 @@
           "elapsed_time_raw": "28:12",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 7,
+          "series_total_points": 12,
           "total_swimmers": 60,
           "elapsed_position": 44,
           "elapsed_position_percent": 73.33333333333333
@@ -9576,7 +9972,7 @@
           "elapsed_time_raw": "28:24",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 7,
+          "series_total_points": 12,
           "total_swimmers": 43,
           "elapsed_position": 35,
           "elapsed_position_percent": 81.3953488372093
@@ -9594,7 +9990,7 @@
           "elapsed_time_raw": "28:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 7,
+          "series_total_points": 12,
           "total_swimmers": 51,
           "elapsed_position": 39,
           "elapsed_position_percent": 76.47058823529412
@@ -9612,7 +10008,7 @@
           "elapsed_time_raw": "26:35",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 7,
+          "series_total_points": 12,
           "total_swimmers": 54,
           "elapsed_position": 36,
           "elapsed_position_percent": 66.66666666666666
@@ -9630,7 +10026,7 @@
           "elapsed_time_raw": "23:10",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 7,
+          "series_total_points": 12,
           "total_swimmers": 59,
           "elapsed_position": 36,
           "elapsed_position_percent": 61.016949152542374
@@ -9648,7 +10044,7 @@
           "elapsed_time_raw": "23:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 7,
+          "series_total_points": 12,
           "total_swimmers": 67,
           "elapsed_position": 46,
           "elapsed_position_percent": 68.65671641791045
@@ -9879,7 +10275,7 @@
           "elapsed_time_raw": "22:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 18,
+          "series_total_points": null,
           "total_swimmers": 70,
           "elapsed_position": 15,
           "elapsed_position_percent": 21.428571428571427
@@ -9933,7 +10329,7 @@
           "elapsed_time_raw": "22:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 18,
+          "series_total_points": null,
           "total_swimmers": 53,
           "elapsed_position": 14,
           "elapsed_position_percent": 26.41509433962264
@@ -9969,7 +10365,7 @@
           "elapsed_time_raw": "27:12",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 18,
+          "series_total_points": null,
           "total_swimmers": 58,
           "elapsed_position": 39,
           "elapsed_position_percent": 67.24137931034483
@@ -10005,7 +10401,7 @@
           "elapsed_time_raw": "23:00",
           "placing_points": 10,
           "placing_points_raw": "10",
-          "series_total_points": 18,
+          "series_total_points": null,
           "total_swimmers": 60,
           "elapsed_position": 17,
           "elapsed_position_percent": 28.333333333333332
@@ -10023,7 +10419,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 18,
+          "series_total_points": null,
           "total_swimmers": 43,
           "elapsed_position": 11,
           "elapsed_position_percent": 25.581395348837212
@@ -10059,7 +10455,7 @@
           "elapsed_time_raw": "22:33",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 18,
+          "series_total_points": null,
           "total_swimmers": 54,
           "elapsed_position": 17,
           "elapsed_position_percent": 31.48148148148148
@@ -10095,7 +10491,7 @@
           "elapsed_time_raw": "18:50",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 18,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 14,
           "elapsed_position_percent": 20.8955223880597
@@ -10135,6 +10531,24 @@
           "total_swimmers": 37,
           "elapsed_position": 11,
           "elapsed_position_percent": 29.72972972972973
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:59",
+          "average_pace_seconds_per_100m": 119,
+          "pace_raw": "1:59",
+          "pace_seconds_per_100m": 119,
+          "elapsed_time_seconds": 1190,
+          "elapsed_time_raw": "19:50",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 18,
+          "elapsed_position_percent": 32.142857142857146
         }
       ]
     },
@@ -10154,7 +10568,7 @@
           "elapsed_time_raw": "25:24",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 98,
           "total_swimmers": 70,
           "elapsed_position": 32,
           "elapsed_position_percent": 45.714285714285715
@@ -10172,7 +10586,7 @@
           "elapsed_time_raw": "24:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 98,
           "total_swimmers": 58,
           "elapsed_position": 21,
           "elapsed_position_percent": 36.206896551724135
@@ -10493,7 +10907,7 @@
           "elapsed_time_raw": "25:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 102,
+          "series_total_points": 105,
           "total_swimmers": 60,
           "elapsed_position": 27,
           "elapsed_position_percent": 45
@@ -10598,7 +11012,7 @@
           "elapsed_time_raw": "32:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 33,
+          "series_total_points": null,
           "total_swimmers": 70,
           "elapsed_position": 68,
           "elapsed_position_percent": 97.14285714285714
@@ -10634,7 +11048,7 @@
           "elapsed_time_raw": "31:24",
           "placing_points": 10,
           "placing_points_raw": "10",
-          "series_total_points": 33,
+          "series_total_points": null,
           "total_swimmers": 53,
           "elapsed_position": 50,
           "elapsed_position_percent": 94.33962264150944
@@ -10670,7 +11084,7 @@
           "elapsed_time_raw": "28:58",
           "placing_points": 9,
           "placing_points_raw": "9",
-          "series_total_points": 33,
+          "series_total_points": null,
           "total_swimmers": 54,
           "elapsed_position": 48,
           "elapsed_position_percent": 88.88888888888889
@@ -10706,7 +11120,7 @@
           "elapsed_time_raw": "26:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 33,
+          "series_total_points": null,
           "total_swimmers": 59,
           "elapsed_position": 52,
           "elapsed_position_percent": 88.13559322033898
@@ -10742,7 +11156,7 @@
           "elapsed_time_raw": "25:30",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 33,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 62,
           "elapsed_position_percent": 92.53731343283582
@@ -10760,10 +11174,28 @@
           "elapsed_time_raw": "25:30",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 33,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 62,
           "elapsed_position_percent": 92.53731343283582
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:30",
+          "average_pace_seconds_per_100m": 150,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150,
+          "elapsed_time_seconds": 1500,
+          "elapsed_time_raw": "25:00",
+          "placing_points": 9,
+          "placing_points_raw": "9",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 44,
+          "elapsed_position_percent": 78.57142857142857
         }
       ]
     },
@@ -10846,6 +11278,24 @@
           "total_swimmers": 67,
           "elapsed_position": 30,
           "elapsed_position_percent": 44.776119402985074
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:43",
+          "average_pace_seconds_per_100m": 103,
+          "pace_raw": "1:43",
+          "pace_seconds_per_100m": 103,
+          "elapsed_time_seconds": 1030,
+          "elapsed_time_raw": "17:10",
+          "placing_points": 7,
+          "placing_points_raw": "7",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 9,
+          "elapsed_position_percent": 16.071428571428573
         }
       ]
     },
@@ -10901,7 +11351,7 @@
           "elapsed_time_raw": "24:48",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 44,
+          "series_total_points": 47,
           "total_swimmers": 70,
           "elapsed_position": 26,
           "elapsed_position_percent": 37.142857142857146
@@ -10937,7 +11387,7 @@
           "elapsed_time_raw": "23:12",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 44,
+          "series_total_points": 47,
           "total_swimmers": 53,
           "elapsed_position": 17,
           "elapsed_position_percent": 32.075471698113205
@@ -10973,7 +11423,7 @@
           "elapsed_time_raw": "23:48",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 44,
+          "series_total_points": 47,
           "total_swimmers": 58,
           "elapsed_position": 18,
           "elapsed_position_percent": 31.03448275862069
@@ -10991,7 +11441,7 @@
           "elapsed_time_raw": "24:00",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 44,
+          "series_total_points": 47,
           "total_swimmers": 43,
           "elapsed_position": 15,
           "elapsed_position_percent": 34.883720930232556
@@ -11045,7 +11495,7 @@
           "elapsed_time_raw": "24:24",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 44,
+          "series_total_points": 47,
           "total_swimmers": 51,
           "elapsed_position": 18,
           "elapsed_position_percent": 35.294117647058826
@@ -11081,7 +11531,7 @@
           "elapsed_time_raw": "22:44",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 44,
+          "series_total_points": 47,
           "total_swimmers": 54,
           "elapsed_position": 19,
           "elapsed_position_percent": 35.18518518518518
@@ -11117,7 +11567,7 @@
           "elapsed_time_raw": "19:40",
           "placing_points": 9,
           "placing_points_raw": "9",
-          "series_total_points": 44,
+          "series_total_points": 47,
           "total_swimmers": 59,
           "elapsed_position": 15,
           "elapsed_position_percent": 25.423728813559322
@@ -11153,7 +11603,7 @@
           "elapsed_time_raw": "19:00",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 44,
+          "series_total_points": 47,
           "total_swimmers": 67,
           "elapsed_position": 19,
           "elapsed_position_percent": 28.35820895522388
@@ -11252,6 +11702,24 @@
           "total_swimmers": 67,
           "elapsed_position": 55,
           "elapsed_position_percent": 82.08955223880598
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:32",
+          "average_pace_seconds_per_100m": 152,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152,
+          "elapsed_time_seconds": 1520,
+          "elapsed_time_raw": "25:20",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 47,
+          "elapsed_position_percent": 83.92857142857143
         }
       ]
     },
@@ -11271,7 +11739,7 @@
           "elapsed_time_raw": "29:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 92,
+          "series_total_points": 95,
           "total_swimmers": 58,
           "elapsed_position": 48,
           "elapsed_position_percent": 82.75862068965517
@@ -11289,7 +11757,7 @@
           "elapsed_time_raw": "24:56",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 92,
+          "series_total_points": 95,
           "total_swimmers": 54,
           "elapsed_position": 30,
           "elapsed_position_percent": 55.55555555555556
@@ -11520,7 +11988,7 @@
           "elapsed_time_raw": "25:20",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 94,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 60,
           "elapsed_position_percent": 89.55223880597015
@@ -11538,10 +12006,28 @@
           "elapsed_time_raw": "22:50",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 94,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 56,
           "elapsed_position_percent": 83.5820895522388
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:34",
+          "average_pace_seconds_per_100m": 154,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154,
+          "elapsed_time_seconds": 1540,
+          "elapsed_time_raw": "25:40",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 50,
+          "elapsed_position_percent": 89.28571428571429
         }
       ]
     },
@@ -11561,7 +12047,7 @@
           "elapsed_time_raw": "26:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 67,
+          "series_total_points": 70,
           "total_swimmers": 70,
           "elapsed_position": 37,
           "elapsed_position_percent": 52.85714285714286
@@ -11579,7 +12065,7 @@
           "elapsed_time_raw": "29:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 67,
+          "series_total_points": 70,
           "total_swimmers": 51,
           "elapsed_position": 45,
           "elapsed_position_percent": 88.23529411764706
@@ -11597,7 +12083,7 @@
           "elapsed_time_raw": "28:14",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 67,
+          "series_total_points": 70,
           "total_swimmers": 54,
           "elapsed_position": 44,
           "elapsed_position_percent": 81.48148148148148
@@ -12003,7 +12489,7 @@
           "elapsed_time_raw": "32:24",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 53,
           "total_swimmers": 58,
           "elapsed_position": 57,
           "elapsed_position_percent": 98.27586206896551
@@ -12021,7 +12507,7 @@
           "elapsed_time_raw": "32:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 53,
           "total_swimmers": 60,
           "elapsed_position": 58,
           "elapsed_position_percent": 96.66666666666667
@@ -12039,7 +12525,7 @@
           "elapsed_time_raw": "33:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 53,
           "total_swimmers": 43,
           "elapsed_position": 43,
           "elapsed_position_percent": 100
@@ -12057,7 +12543,7 @@
           "elapsed_time_raw": "32:38",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 53,
           "total_swimmers": 54,
           "elapsed_position": 53,
           "elapsed_position_percent": 98.14814814814815
@@ -12075,7 +12561,7 @@
           "elapsed_time_raw": "29:30",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 53,
           "total_swimmers": 59,
           "elapsed_position": 59,
           "elapsed_position_percent": 100
@@ -12093,7 +12579,7 @@
           "elapsed_time_raw": "26:00",
           "placing_points": 9,
           "placing_points_raw": "9",
-          "series_total_points": null,
+          "series_total_points": 53,
           "total_swimmers": 67,
           "elapsed_position": 63,
           "elapsed_position_percent": 94.02985074626866
@@ -12504,7 +12990,7 @@
           "elapsed_time_raw": "26:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 31,
           "total_swimmers": 53,
           "elapsed_position": 32,
           "elapsed_position_percent": 60.37735849056604
@@ -12540,7 +13026,7 @@
           "elapsed_time_raw": "26:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 31,
           "total_swimmers": 58,
           "elapsed_position": 37,
           "elapsed_position_percent": 63.793103448275865
@@ -12558,7 +13044,7 @@
           "elapsed_time_raw": "26:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 31,
           "total_swimmers": 60,
           "elapsed_position": 38,
           "elapsed_position_percent": 63.33333333333333
@@ -12576,7 +13062,7 @@
           "elapsed_time_raw": "26:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 31,
           "total_swimmers": 43,
           "elapsed_position": 29,
           "elapsed_position_percent": 67.44186046511628
@@ -12612,7 +13098,7 @@
           "elapsed_time_raw": "28:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 31,
           "total_swimmers": 51,
           "elapsed_position": 41,
           "elapsed_position_percent": 80.3921568627451
@@ -12630,7 +13116,7 @@
           "elapsed_time_raw": "24:20",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 31,
           "total_swimmers": 59,
           "elapsed_position": 43,
           "elapsed_position_percent": 72.88135593220339
@@ -12648,7 +13134,7 @@
           "elapsed_time_raw": "23:40",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 31,
           "total_swimmers": 67,
           "elapsed_position": 52,
           "elapsed_position_percent": 77.61194029850746
@@ -12666,7 +13152,7 @@
           "elapsed_time_raw": "22:40",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 31,
           "total_swimmers": 67,
           "elapsed_position": 52,
           "elapsed_position_percent": 77.61194029850746
@@ -12688,6 +13174,24 @@
           "total_swimmers": 37,
           "elapsed_position": 29,
           "elapsed_position_percent": 78.37837837837837
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:25",
+          "average_pace_seconds_per_100m": 145,
+          "pace_raw": "2:25",
+          "pace_seconds_per_100m": 145,
+          "elapsed_time_seconds": 1450,
+          "elapsed_time_raw": "24:10",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": 31,
+          "total_swimmers": 56,
+          "elapsed_position": 40,
+          "elapsed_position_percent": 71.42857142857143
         }
       ]
     },
@@ -12955,6 +13459,24 @@
           "total_swimmers": 37,
           "elapsed_position": 3,
           "elapsed_position_percent": 8.108108108108109
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:40",
+          "average_pace_seconds_per_100m": 100,
+          "pace_raw": "1:40",
+          "pace_seconds_per_100m": 100,
+          "elapsed_time_seconds": 1000,
+          "elapsed_time_raw": "16:40",
+          "placing_points": 6,
+          "placing_points_raw": "6",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 7,
+          "elapsed_position_percent": 12.5
         }
       ]
     },
@@ -12974,7 +13496,7 @@
           "elapsed_time_raw": "28:12",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 70,
+          "series_total_points": 71,
           "total_swimmers": 60,
           "elapsed_position": 45,
           "elapsed_position_percent": 75
@@ -12992,7 +13514,7 @@
           "elapsed_time_raw": "28:12",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 70,
+          "series_total_points": 71,
           "total_swimmers": 43,
           "elapsed_position": 34,
           "elapsed_position_percent": 79.06976744186046
@@ -13046,7 +13568,7 @@
           "elapsed_time_raw": "26:57",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 70,
+          "series_total_points": 71,
           "total_swimmers": 54,
           "elapsed_position": 39,
           "elapsed_position_percent": 72.22222222222221
@@ -13082,7 +13604,7 @@
           "elapsed_time_raw": "24:40",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 70,
+          "series_total_points": 71,
           "total_swimmers": 59,
           "elapsed_position": 44,
           "elapsed_position_percent": 74.57627118644068
@@ -13118,7 +13640,7 @@
           "elapsed_time_raw": "24:20",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 70,
+          "series_total_points": 71,
           "total_swimmers": 67,
           "elapsed_position": 56,
           "elapsed_position_percent": 83.5820895522388
@@ -13176,6 +13698,24 @@
           "total_swimmers": 37,
           "elapsed_position": 35,
           "elapsed_position_percent": 94.5945945945946
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:41",
+          "average_pace_seconds_per_100m": 161,
+          "pace_raw": "2:41",
+          "pace_seconds_per_100m": 161,
+          "elapsed_time_seconds": 1610,
+          "elapsed_time_raw": "26:50",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": 71,
+          "total_swimmers": 56,
+          "elapsed_position": 53,
+          "elapsed_position_percent": 94.64285714285714
         }
       ]
     },
@@ -13289,6 +13829,24 @@
           "total_swimmers": 37,
           "elapsed_position": 12,
           "elapsed_position_percent": 32.432432432432435
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:54",
+          "average_pace_seconds_per_100m": 114,
+          "pace_raw": "1:54",
+          "pace_seconds_per_100m": 114,
+          "elapsed_time_seconds": 1140,
+          "elapsed_time_raw": "19:00",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 16,
+          "elapsed_position_percent": 28.57142857142857
         }
       ]
     },
@@ -13754,6 +14312,24 @@
           "total_swimmers": 67,
           "elapsed_position": 31,
           "elapsed_position_percent": 46.26865671641791
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:03",
+          "average_pace_seconds_per_100m": 123,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123,
+          "elapsed_time_seconds": 1230,
+          "elapsed_time_raw": "20:30",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 19,
+          "elapsed_position_percent": 33.92857142857143
         }
       ]
     },
@@ -14130,7 +14706,7 @@
           "elapsed_time_raw": "25:24",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 70,
           "elapsed_position": 34,
           "elapsed_position_percent": 48.57142857142857
@@ -14148,7 +14724,7 @@
           "elapsed_time_raw": "25:12",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 53,
           "elapsed_position": 27,
           "elapsed_position_percent": 50.943396226415096
@@ -14166,7 +14742,7 @@
           "elapsed_time_raw": "22:12",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 58,
           "elapsed_position": 11,
           "elapsed_position_percent": 18.96551724137931
@@ -14184,7 +14760,7 @@
           "elapsed_time_raw": "22:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 60,
           "elapsed_position": 12,
           "elapsed_position_percent": 20
@@ -14202,7 +14778,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 43,
           "elapsed_position": 12,
           "elapsed_position_percent": 27.906976744186046
@@ -14220,7 +14796,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 51,
           "elapsed_position": 16,
           "elapsed_position_percent": 31.372549019607842
@@ -14238,7 +14814,7 @@
           "elapsed_time_raw": "21:27",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 54,
           "elapsed_position": 14,
           "elapsed_position_percent": 25.925925925925924
@@ -14256,7 +14832,7 @@
           "elapsed_time_raw": "18:30",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 59,
           "elapsed_position": 8,
           "elapsed_position_percent": 13.559322033898304
@@ -14274,7 +14850,7 @@
           "elapsed_time_raw": "18:50",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 67,
           "elapsed_position": 16,
           "elapsed_position_percent": 23.88059701492537
@@ -14292,7 +14868,7 @@
           "elapsed_time_raw": "17:20",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 2,
+          "series_total_points": 5,
           "total_swimmers": 67,
           "elapsed_position": 15,
           "elapsed_position_percent": 22.388059701492537
@@ -14333,7 +14909,7 @@
           "elapsed_time_raw": "25:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 75,
+          "series_total_points": 78,
           "total_swimmers": 70,
           "elapsed_position": 35,
           "elapsed_position_percent": 50
@@ -14387,7 +14963,7 @@
           "elapsed_time_raw": "25:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 75,
+          "series_total_points": 78,
           "total_swimmers": 60,
           "elapsed_position": 28,
           "elapsed_position_percent": 46.666666666666664
@@ -14405,7 +14981,7 @@
           "elapsed_time_raw": "25:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 75,
+          "series_total_points": 78,
           "total_swimmers": 43,
           "elapsed_position": 19,
           "elapsed_position_percent": 44.18604651162791
@@ -14513,7 +15089,7 @@
           "elapsed_time_raw": "19:40",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 75,
+          "series_total_points": 78,
           "total_swimmers": 67,
           "elapsed_position": 36,
           "elapsed_position_percent": 53.73134328358209
@@ -14608,7 +15184,7 @@
           "elapsed_time_raw": "30:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 32,
+          "series_total_points": 34,
           "total_swimmers": 70,
           "elapsed_position": 55,
           "elapsed_position_percent": 78.57142857142857
@@ -14662,7 +15238,7 @@
           "elapsed_time_raw": "26:48",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 32,
+          "series_total_points": 34,
           "total_swimmers": 53,
           "elapsed_position": 34,
           "elapsed_position_percent": 64.15094339622641
@@ -14698,7 +15274,7 @@
           "elapsed_time_raw": "26:36",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 32,
+          "series_total_points": 34,
           "total_swimmers": 58,
           "elapsed_position": 32,
           "elapsed_position_percent": 55.172413793103445
@@ -14734,7 +15310,7 @@
           "elapsed_time_raw": "26:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 32,
+          "series_total_points": 34,
           "total_swimmers": 60,
           "elapsed_position": 36,
           "elapsed_position_percent": 60
@@ -14788,7 +15364,7 @@
           "elapsed_time_raw": "26:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 32,
+          "series_total_points": 34,
           "total_swimmers": 54,
           "elapsed_position": 35,
           "elapsed_position_percent": 64.81481481481481
@@ -14806,7 +15382,7 @@
           "elapsed_time_raw": "23:20",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 32,
+          "series_total_points": 34,
           "total_swimmers": 59,
           "elapsed_position": 37,
           "elapsed_position_percent": 62.71186440677966
@@ -14824,7 +15400,7 @@
           "elapsed_time_raw": "23:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 32,
+          "series_total_points": 34,
           "total_swimmers": 67,
           "elapsed_position": 47,
           "elapsed_position_percent": 70.1492537313433
@@ -14842,7 +15418,7 @@
           "elapsed_time_raw": "21:40",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 32,
+          "series_total_points": 34,
           "total_swimmers": 67,
           "elapsed_position": 47,
           "elapsed_position_percent": 70.1492537313433
@@ -14901,7 +15477,7 @@
           "elapsed_time_raw": "27:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 39,
+          "series_total_points": 42,
           "total_swimmers": 70,
           "elapsed_position": 45,
           "elapsed_position_percent": 64.28571428571429
@@ -14955,7 +15531,7 @@
           "elapsed_time_raw": "26:00",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 39,
+          "series_total_points": 42,
           "total_swimmers": 53,
           "elapsed_position": 31,
           "elapsed_position_percent": 58.490566037735846
@@ -14991,7 +15567,7 @@
           "elapsed_time_raw": "26:36",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 39,
+          "series_total_points": 42,
           "total_swimmers": 58,
           "elapsed_position": 33,
           "elapsed_position_percent": 56.896551724137936
@@ -15027,7 +15603,7 @@
           "elapsed_time_raw": "26:48",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 39,
+          "series_total_points": 42,
           "total_swimmers": 60,
           "elapsed_position": 39,
           "elapsed_position_percent": 65
@@ -15081,7 +15657,7 @@
           "elapsed_time_raw": "26:57",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 39,
+          "series_total_points": 42,
           "total_swimmers": 54,
           "elapsed_position": 40,
           "elapsed_position_percent": 74.07407407407408
@@ -15117,7 +15693,7 @@
           "elapsed_time_raw": "24:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 39,
+          "series_total_points": 42,
           "total_swimmers": 59,
           "elapsed_position": 42,
           "elapsed_position_percent": 71.1864406779661
@@ -15578,7 +16154,7 @@
           "elapsed_time_raw": "21:48",
           "placing_points": 9,
           "placing_points_raw": "9",
-          "series_total_points": 61,
+          "series_total_points": null,
           "total_swimmers": 70,
           "elapsed_position": 10,
           "elapsed_position_percent": 14.285714285714285
@@ -15650,7 +16226,7 @@
           "elapsed_time_raw": "19:10",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 61,
+          "series_total_points": null,
           "total_swimmers": 59,
           "elapsed_position": 13,
           "elapsed_position_percent": 22.033898305084744
@@ -15690,6 +16266,24 @@
           "total_swimmers": 37,
           "elapsed_position": 7,
           "elapsed_position_percent": 18.91891891891892
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:11",
+          "average_pace_seconds_per_100m": 131,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131,
+          "elapsed_time_seconds": 1310,
+          "elapsed_time_raw": "21:50",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 28,
+          "elapsed_position_percent": 50
         }
       ]
     },
@@ -15835,7 +16429,7 @@
           "elapsed_time_raw": "23:30",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 100,
+          "series_total_points": 102,
           "total_swimmers": 59,
           "elapsed_position": 38,
           "elapsed_position_percent": 64.40677966101694
@@ -15871,7 +16465,7 @@
           "elapsed_time_raw": "21:40",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 100,
+          "series_total_points": 102,
           "total_swimmers": 67,
           "elapsed_position": 48,
           "elapsed_position_percent": 71.64179104477611
@@ -16646,6 +17240,24 @@
           "total_swimmers": 37,
           "elapsed_position": 1,
           "elapsed_position_percent": 2.7027027027027026
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:36",
+          "average_pace_seconds_per_100m": 96,
+          "pace_raw": "1:36",
+          "pace_seconds_per_100m": 96,
+          "elapsed_time_seconds": 960,
+          "elapsed_time_raw": "16:00",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 3,
+          "elapsed_position_percent": 5.357142857142857
         }
       ]
     },
@@ -16818,6 +17430,24 @@
           "total_swimmers": 67,
           "elapsed_position": 24,
           "elapsed_position_percent": 35.82089552238806
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:16",
+          "average_pace_seconds_per_100m": 136,
+          "pace_raw": "2:16",
+          "pace_seconds_per_100m": 136,
+          "elapsed_time_seconds": 1360,
+          "elapsed_time_raw": "22:40",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 34,
+          "elapsed_position_percent": 60.71428571428571
         }
       ]
     },
@@ -16932,7 +17562,7 @@
           "elapsed_time_raw": "24:48",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 18,
           "total_swimmers": 70,
           "elapsed_position": 27,
           "elapsed_position_percent": 38.57142857142858
@@ -16950,7 +17580,7 @@
           "elapsed_time_raw": "24:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 18,
           "total_swimmers": 53,
           "elapsed_position": 24,
           "elapsed_position_percent": 45.28301886792453
@@ -16968,7 +17598,7 @@
           "elapsed_time_raw": "24:24",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": null,
+          "series_total_points": 18,
           "total_swimmers": 58,
           "elapsed_position": 23,
           "elapsed_position_percent": 39.6551724137931
@@ -16986,7 +17616,7 @@
           "elapsed_time_raw": "24:24",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 18,
           "total_swimmers": 60,
           "elapsed_position": 23,
           "elapsed_position_percent": 38.333333333333336
@@ -17004,7 +17634,7 @@
           "elapsed_time_raw": "25:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 18,
           "total_swimmers": 43,
           "elapsed_position": 21,
           "elapsed_position_percent": 48.837209302325576
@@ -17022,7 +17652,7 @@
           "elapsed_time_raw": "24:36",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 18,
           "total_swimmers": 51,
           "elapsed_position": 20,
           "elapsed_position_percent": 39.21568627450981
@@ -17040,7 +17670,7 @@
           "elapsed_time_raw": "20:40",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 18,
           "total_swimmers": 59,
           "elapsed_position": 19,
           "elapsed_position_percent": 32.20338983050847
@@ -17058,7 +17688,7 @@
           "elapsed_time_raw": "20:10",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 18,
           "total_swimmers": 67,
           "elapsed_position": 26,
           "elapsed_position_percent": 38.80597014925373
@@ -17076,10 +17706,28 @@
           "elapsed_time_raw": "19:10",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 18,
           "total_swimmers": 67,
           "elapsed_position": 32,
           "elapsed_position_percent": 47.76119402985074
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:04",
+          "average_pace_seconds_per_100m": 124,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124,
+          "elapsed_time_seconds": 1240,
+          "elapsed_time_raw": "20:40",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": 18,
+          "total_swimmers": 56,
+          "elapsed_position": 23,
+          "elapsed_position_percent": 41.07142857142857
         }
       ]
     },
@@ -17099,7 +17747,7 @@
           "elapsed_time_raw": "25:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 116,
+          "series_total_points": 117,
           "total_swimmers": 58,
           "elapsed_position": 26,
           "elapsed_position_percent": 44.827586206896555
@@ -17117,7 +17765,7 @@
           "elapsed_time_raw": "24:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 116,
+          "series_total_points": 117,
           "total_swimmers": 51,
           "elapsed_position": 21,
           "elapsed_position_percent": 41.17647058823529
@@ -17504,6 +18152,24 @@
           "total_swimmers": 37,
           "elapsed_position": 37,
           "elapsed_position_percent": 100
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:32",
+          "average_pace_seconds_per_100m": 152,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152,
+          "elapsed_time_seconds": 1520,
+          "elapsed_time_raw": "25:20",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": 6,
+          "total_swimmers": 56,
+          "elapsed_position": 48,
+          "elapsed_position_percent": 85.71428571428571
         }
       ]
     },
@@ -17820,7 +18486,7 @@
           "elapsed_time_raw": "31:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 20,
+          "series_total_points": 25,
           "total_swimmers": 70,
           "elapsed_position": 62,
           "elapsed_position_percent": 88.57142857142857
@@ -17838,7 +18504,7 @@
           "elapsed_time_raw": "31:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 20,
+          "series_total_points": 25,
           "total_swimmers": 53,
           "elapsed_position": 49,
           "elapsed_position_percent": 92.45283018867924
@@ -17874,7 +18540,7 @@
           "elapsed_time_raw": "30:12",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 20,
+          "series_total_points": 25,
           "total_swimmers": 58,
           "elapsed_position": 51,
           "elapsed_position_percent": 87.93103448275862
@@ -17910,7 +18576,7 @@
           "elapsed_time_raw": "30:48",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 20,
+          "series_total_points": 25,
           "total_swimmers": 60,
           "elapsed_position": 53,
           "elapsed_position_percent": 88.33333333333333
@@ -17928,7 +18594,7 @@
           "elapsed_time_raw": "30:48",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 20,
+          "series_total_points": 25,
           "total_swimmers": 43,
           "elapsed_position": 39,
           "elapsed_position_percent": 90.69767441860465
@@ -17946,7 +18612,7 @@
           "elapsed_time_raw": "30:36",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 20,
+          "series_total_points": 25,
           "total_swimmers": 51,
           "elapsed_position": 49,
           "elapsed_position_percent": 96.07843137254902
@@ -17964,7 +18630,7 @@
           "elapsed_time_raw": "26:30",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 20,
+          "series_total_points": 25,
           "total_swimmers": 59,
           "elapsed_position": 53,
           "elapsed_position_percent": 89.83050847457628
@@ -18000,7 +18666,7 @@
           "elapsed_time_raw": "26:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 20,
+          "series_total_points": 25,
           "total_swimmers": 67,
           "elapsed_position": 63,
           "elapsed_position_percent": 94.02985074626866
@@ -18018,10 +18684,28 @@
           "elapsed_time_raw": "24:00",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 20,
+          "series_total_points": 25,
           "total_swimmers": 67,
           "elapsed_position": 61,
           "elapsed_position_percent": 91.04477611940298
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:51",
+          "average_pace_seconds_per_100m": 171,
+          "pace_raw": "2:51",
+          "pace_seconds_per_100m": 171,
+          "elapsed_time_seconds": 1710,
+          "elapsed_time_raw": "28:30",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": 25,
+          "total_swimmers": 56,
+          "elapsed_position": 55,
+          "elapsed_position_percent": 98.21428571428571
         }
       ]
     },
@@ -18154,7 +18838,7 @@
           "elapsed_time_raw": "31:00",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 68,
           "total_swimmers": 70,
           "elapsed_position": 63,
           "elapsed_position_percent": 90
@@ -18190,7 +18874,7 @@
           "elapsed_time_raw": "30:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 68,
           "total_swimmers": 51,
           "elapsed_position": 47,
           "elapsed_position_percent": 92.15686274509804
@@ -18226,7 +18910,7 @@
           "elapsed_time_raw": "25:30",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": null,
+          "series_total_points": 68,
           "total_swimmers": 59,
           "elapsed_position": 50,
           "elapsed_position_percent": 84.7457627118644
@@ -18280,7 +18964,7 @@
           "elapsed_time_raw": "23:30",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": null,
+          "series_total_points": 68,
           "total_swimmers": 67,
           "elapsed_position": 60,
           "elapsed_position_percent": 89.55223880597015
@@ -18303,7 +18987,7 @@
           "elapsed_time_raw": "26:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 87,
+          "series_total_points": 89,
           "total_swimmers": 70,
           "elapsed_position": 38,
           "elapsed_position_percent": 54.285714285714285
@@ -18321,7 +19005,7 @@
           "elapsed_time_raw": "25:12",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 87,
+          "series_total_points": 89,
           "total_swimmers": 58,
           "elapsed_position": 25,
           "elapsed_position_percent": 43.103448275862064
@@ -18498,7 +19182,7 @@
           "elapsed_time_raw": "30:48",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 50,
+          "series_total_points": null,
           "total_swimmers": 70,
           "elapsed_position": 57,
           "elapsed_position_percent": 81.42857142857143
@@ -18516,7 +19200,7 @@
           "elapsed_time_raw": "30:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 50,
+          "series_total_points": null,
           "total_swimmers": 53,
           "elapsed_position": 47,
           "elapsed_position_percent": 88.67924528301887
@@ -18534,7 +19218,7 @@
           "elapsed_time_raw": "31:10",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 50,
+          "series_total_points": null,
           "total_swimmers": 54,
           "elapsed_position": 52,
           "elapsed_position_percent": 96.29629629629629
@@ -18552,7 +19236,7 @@
           "elapsed_time_raw": "27:20",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 50,
+          "series_total_points": null,
           "total_swimmers": 59,
           "elapsed_position": 56,
           "elapsed_position_percent": 94.91525423728814
@@ -18570,7 +19254,7 @@
           "elapsed_time_raw": "27:00",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 50,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 65,
           "elapsed_position_percent": 97.01492537313433
@@ -18588,10 +19272,28 @@
           "elapsed_time_raw": "23:10",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 50,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 58,
           "elapsed_position_percent": 86.56716417910447
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:30",
+          "average_pace_seconds_per_100m": 150,
+          "pace_raw": "2:30",
+          "pace_seconds_per_100m": 150,
+          "elapsed_time_seconds": 1500,
+          "elapsed_time_raw": "25:00",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 45,
+          "elapsed_position_percent": 80.35714285714286
         }
       ]
     },
@@ -18810,7 +19512,7 @@
           "elapsed_time_raw": "27:36",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 23,
+          "series_total_points": null,
           "total_swimmers": 53,
           "elapsed_position": 38,
           "elapsed_position_percent": 71.69811320754717
@@ -18828,7 +19530,7 @@
           "elapsed_time_raw": "27:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 23,
+          "series_total_points": null,
           "total_swimmers": 58,
           "elapsed_position": 41,
           "elapsed_position_percent": 70.6896551724138
@@ -18846,7 +19548,7 @@
           "elapsed_time_raw": "24:24",
           "placing_points": 8,
           "placing_points_raw": "8",
-          "series_total_points": 23,
+          "series_total_points": null,
           "total_swimmers": 60,
           "elapsed_position": 24,
           "elapsed_position_percent": 40
@@ -18864,7 +19566,7 @@
           "elapsed_time_raw": "25:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 23,
+          "series_total_points": null,
           "total_swimmers": 43,
           "elapsed_position": 22,
           "elapsed_position_percent": 51.162790697674424
@@ -18882,7 +19584,7 @@
           "elapsed_time_raw": "24:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 23,
+          "series_total_points": null,
           "total_swimmers": 51,
           "elapsed_position": 26,
           "elapsed_position_percent": 50.98039215686274
@@ -18900,7 +19602,7 @@
           "elapsed_time_raw": "22:00",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 23,
+          "series_total_points": null,
           "total_swimmers": 59,
           "elapsed_position": 28,
           "elapsed_position_percent": 47.45762711864407
@@ -18918,7 +19620,7 @@
           "elapsed_time_raw": "21:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 23,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 32,
           "elapsed_position_percent": 47.76119402985074
@@ -18936,10 +19638,28 @@
           "elapsed_time_raw": "19:40",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 23,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 37,
           "elapsed_position_percent": 55.223880597014926
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:09",
+          "average_pace_seconds_per_100m": 129,
+          "pace_raw": "2:09",
+          "pace_seconds_per_100m": 129,
+          "elapsed_time_seconds": 1290,
+          "elapsed_time_raw": "21:30",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 27,
+          "elapsed_position_percent": 48.214285714285715
         }
       ]
     },
@@ -19071,6 +19791,24 @@
           "total_swimmers": 67,
           "elapsed_position": 42,
           "elapsed_position_percent": 62.68656716417911
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:12",
+          "average_pace_seconds_per_100m": 132,
+          "pace_raw": "2:12",
+          "pace_seconds_per_100m": 132,
+          "elapsed_time_seconds": 1320,
+          "elapsed_time_raw": "22:00",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 32,
+          "elapsed_position_percent": 57.14285714285714
         }
       ]
     },
@@ -19490,6 +20228,24 @@
           "total_swimmers": 37,
           "elapsed_position": 16,
           "elapsed_position_percent": 43.24324324324324
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:03",
+          "average_pace_seconds_per_100m": 123,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123,
+          "elapsed_time_seconds": 1230,
+          "elapsed_time_raw": "20:30",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": 3,
+          "total_swimmers": 56,
+          "elapsed_position": 20,
+          "elapsed_position_percent": 35.714285714285715
         }
       ]
     },
@@ -19866,7 +20622,7 @@
           "elapsed_time_raw": "27:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 110,
+          "series_total_points": 113,
           "total_swimmers": 60,
           "elapsed_position": 43,
           "elapsed_position_percent": 71.66666666666667
@@ -19956,7 +20712,7 @@
           "elapsed_time_raw": "22:50",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 110,
+          "series_total_points": 113,
           "total_swimmers": 67,
           "elapsed_position": 45,
           "elapsed_position_percent": 67.16417910447761
@@ -20010,7 +20766,7 @@
           "elapsed_time_raw": "20:50",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 110,
+          "series_total_points": 113,
           "total_swimmers": 67,
           "elapsed_position": 44,
           "elapsed_position_percent": 65.67164179104478
@@ -20037,6 +20793,24 @@
           "total_swimmers": 70,
           "elapsed_position": 9,
           "elapsed_position_percent": 12.857142857142856
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:44",
+          "average_pace_seconds_per_100m": 104,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104,
+          "elapsed_time_seconds": 1040,
+          "elapsed_time_raw": "17:20",
+          "placing_points": 5,
+          "placing_points_raw": "5",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 10,
+          "elapsed_position_percent": 17.857142857142858
         }
       ]
     },
@@ -20137,6 +20911,24 @@
           "total_swimmers": 70,
           "elapsed_position": 49,
           "elapsed_position_percent": 70
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:28",
+          "average_pace_seconds_per_100m": 148,
+          "pace_raw": "2:28",
+          "pace_seconds_per_100m": 148,
+          "elapsed_time_seconds": 1480,
+          "elapsed_time_raw": "24:40",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 43,
+          "elapsed_position_percent": 76.78571428571429
         }
       ]
     },
@@ -20156,7 +20948,7 @@
           "elapsed_time_raw": "31:24",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 8,
+          "series_total_points": null,
           "total_swimmers": 70,
           "elapsed_position": 65,
           "elapsed_position_percent": 92.85714285714286
@@ -20174,7 +20966,7 @@
           "elapsed_time_raw": "30:00",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 8,
+          "series_total_points": null,
           "total_swimmers": 53,
           "elapsed_position": 46,
           "elapsed_position_percent": 86.79245283018868
@@ -20192,7 +20984,7 @@
           "elapsed_time_raw": "30:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 8,
+          "series_total_points": null,
           "total_swimmers": 60,
           "elapsed_position": 51,
           "elapsed_position_percent": 85
@@ -20210,7 +21002,7 @@
           "elapsed_time_raw": "31:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 8,
+          "series_total_points": null,
           "total_swimmers": 43,
           "elapsed_position": 41,
           "elapsed_position_percent": 95.34883720930233
@@ -20228,7 +21020,7 @@
           "elapsed_time_raw": "28:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 8,
+          "series_total_points": null,
           "total_swimmers": 51,
           "elapsed_position": 40,
           "elapsed_position_percent": 78.43137254901961
@@ -20246,7 +21038,7 @@
           "elapsed_time_raw": "27:52",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 8,
+          "series_total_points": null,
           "total_swimmers": 54,
           "elapsed_position": 42,
           "elapsed_position_percent": 77.77777777777779
@@ -20264,7 +21056,7 @@
           "elapsed_time_raw": "24:40",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 8,
+          "series_total_points": null,
           "total_swimmers": 59,
           "elapsed_position": 45,
           "elapsed_position_percent": 76.27118644067797
@@ -20282,7 +21074,7 @@
           "elapsed_time_raw": "23:10",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 8,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 48,
           "elapsed_position_percent": 71.64179104477611
@@ -20300,10 +21092,28 @@
           "elapsed_time_raw": "21:40",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 8,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 49,
           "elapsed_position_percent": 73.13432835820896
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:23",
+          "average_pace_seconds_per_100m": 143,
+          "pace_raw": "2:23",
+          "pace_seconds_per_100m": 143,
+          "elapsed_time_seconds": 1430,
+          "elapsed_time_raw": "23:50",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 39,
+          "elapsed_position_percent": 69.64285714285714
         }
       ]
     },
@@ -20323,7 +21133,7 @@
           "elapsed_time_raw": "27:48",
           "placing_points": 10,
           "placing_points_raw": "10",
-          "series_total_points": 68,
+          "series_total_points": null,
           "total_swimmers": 70,
           "elapsed_position": 50,
           "elapsed_position_percent": 71.42857142857143
@@ -20476,6 +21286,24 @@
           "total_swimmers": 67,
           "elapsed_position": 54,
           "elapsed_position_percent": 80.59701492537313
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:31",
+          "average_pace_seconds_per_100m": 151,
+          "pace_raw": "2:31",
+          "pace_seconds_per_100m": 151,
+          "elapsed_time_seconds": 1510,
+          "elapsed_time_raw": "25:10",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 46,
+          "elapsed_position_percent": 82.14285714285714
         }
       ]
     },
@@ -20517,6 +21345,24 @@
           "total_swimmers": 59,
           "elapsed_position": 57,
           "elapsed_position_percent": 96.61016949152543
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:32",
+          "average_pace_seconds_per_100m": 152,
+          "pace_raw": "2:32",
+          "pace_seconds_per_100m": 152,
+          "elapsed_time_seconds": 1520,
+          "elapsed_time_raw": "25:20",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 49,
+          "elapsed_position_percent": 87.5
         }
       ]
     },
@@ -20676,7 +21522,7 @@
           "elapsed_time_raw": "31:36",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 53,
+          "series_total_points": 55,
           "total_swimmers": 70,
           "elapsed_position": 66,
           "elapsed_position_percent": 94.28571428571428
@@ -20694,7 +21540,7 @@
           "elapsed_time_raw": "31:24",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 53,
+          "series_total_points": 55,
           "total_swimmers": 53,
           "elapsed_position": 51,
           "elapsed_position_percent": 96.22641509433963
@@ -20712,7 +21558,7 @@
           "elapsed_time_raw": "30:48",
           "placing_points": 9,
           "placing_points_raw": "9",
-          "series_total_points": 53,
+          "series_total_points": 55,
           "total_swimmers": 58,
           "elapsed_position": 54,
           "elapsed_position_percent": 93.10344827586206
@@ -20730,7 +21576,7 @@
           "elapsed_time_raw": "31:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 53,
+          "series_total_points": 55,
           "total_swimmers": 51,
           "elapsed_position": 50,
           "elapsed_position_percent": 98.0392156862745
@@ -20748,7 +21594,7 @@
           "elapsed_time_raw": "26:10",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 53,
+          "series_total_points": 55,
           "total_swimmers": 67,
           "elapsed_position": 64,
           "elapsed_position_percent": 95.52238805970148
@@ -20771,7 +21617,7 @@
           "elapsed_time_raw": "19:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 108,
           "total_swimmers": 51,
           "elapsed_position": 3,
           "elapsed_position_percent": 5.88235294117647
@@ -20789,7 +21635,7 @@
           "elapsed_time_raw": "17:10",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 108,
           "total_swimmers": 67,
           "elapsed_position": 7,
           "elapsed_position_percent": 10.44776119402985
@@ -20807,10 +21653,28 @@
           "elapsed_time_raw": "15:40",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 108,
           "total_swimmers": 67,
           "elapsed_position": 12,
           "elapsed_position_percent": 17.91044776119403
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:44",
+          "average_pace_seconds_per_100m": 104,
+          "pace_raw": "1:44",
+          "pace_seconds_per_100m": 104,
+          "elapsed_time_seconds": 1040,
+          "elapsed_time_raw": "17:20",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": 108,
+          "total_swimmers": 56,
+          "elapsed_position": 11,
+          "elapsed_position_percent": 19.642857142857142
         }
       ]
     },
@@ -20866,7 +21730,7 @@
           "elapsed_time_raw": "24:24",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": null,
+          "series_total_points": 30,
           "total_swimmers": 70,
           "elapsed_position": 24,
           "elapsed_position_percent": 34.285714285714285
@@ -20920,7 +21784,7 @@
           "elapsed_time_raw": "26:12",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 30,
           "total_swimmers": 51,
           "elapsed_position": 36,
           "elapsed_position_percent": 70.58823529411765
@@ -20956,7 +21820,7 @@
           "elapsed_time_raw": "21:50",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": null,
+          "series_total_points": 30,
           "total_swimmers": 59,
           "elapsed_position": 26,
           "elapsed_position_percent": 44.06779661016949
@@ -21010,7 +21874,7 @@
           "elapsed_time_raw": "19:00",
           "placing_points": 8,
           "placing_points_raw": "8",
-          "series_total_points": null,
+          "series_total_points": 30,
           "total_swimmers": 67,
           "elapsed_position": 28,
           "elapsed_position_percent": 41.7910447761194
@@ -21032,6 +21896,24 @@
           "total_swimmers": 37,
           "elapsed_position": 24,
           "elapsed_position_percent": 64.86486486486487
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:11",
+          "average_pace_seconds_per_100m": 131,
+          "pace_raw": "2:11",
+          "pace_seconds_per_100m": 131,
+          "elapsed_time_seconds": 1310,
+          "elapsed_time_raw": "21:50",
+          "placing_points": 2,
+          "placing_points_raw": "2",
+          "series_total_points": 30,
+          "total_swimmers": 56,
+          "elapsed_position": 29,
+          "elapsed_position_percent": 51.78571428571429
         }
       ]
     },
@@ -21487,6 +22369,24 @@
           "total_swimmers": 37,
           "elapsed_position": 17,
           "elapsed_position_percent": 45.94594594594595
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:03",
+          "average_pace_seconds_per_100m": 123,
+          "pace_raw": "2:03",
+          "pace_seconds_per_100m": 123,
+          "elapsed_time_seconds": 1230,
+          "elapsed_time_raw": "20:30",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 21,
+          "elapsed_position_percent": 37.5
         }
       ]
     },
@@ -21591,6 +22491,24 @@
           "total_swimmers": 67,
           "elapsed_position": 9,
           "elapsed_position_percent": 13.432835820895523
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:37",
+          "average_pace_seconds_per_100m": 97,
+          "pace_raw": "1:37",
+          "pace_seconds_per_100m": 97,
+          "elapsed_time_seconds": 970,
+          "elapsed_time_raw": "16:10",
+          "placing_points": 5,
+          "placing_points_raw": "5",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 5,
+          "elapsed_position_percent": 8.928571428571429
         }
       ]
     },
@@ -21758,6 +22676,24 @@
           "total_swimmers": 67,
           "elapsed_position": 53,
           "elapsed_position_percent": 79.1044776119403
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:34",
+          "average_pace_seconds_per_100m": 154,
+          "pace_raw": "2:34",
+          "pace_seconds_per_100m": 154,
+          "elapsed_time_seconds": 1540,
+          "elapsed_time_raw": "25:40",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 51,
+          "elapsed_position_percent": 91.07142857142857
         }
       ]
     },
@@ -21835,6 +22771,24 @@
           "total_swimmers": 67,
           "elapsed_position": 17,
           "elapsed_position_percent": 25.37313432835821
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:52",
+          "average_pace_seconds_per_100m": 112,
+          "pace_raw": "1:52",
+          "pace_seconds_per_100m": 112,
+          "elapsed_time_seconds": 1120,
+          "elapsed_time_raw": "18:40",
+          "placing_points": 5,
+          "placing_points_raw": "5",
+          "series_total_points": null,
+          "total_swimmers": 56,
+          "elapsed_position": 13,
+          "elapsed_position_percent": 23.214285714285715
         }
       ]
     },
@@ -21854,7 +22808,7 @@
           "elapsed_time_raw": "28:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 36,
           "total_swimmers": 70,
           "elapsed_position": 51,
           "elapsed_position_percent": 72.85714285714285
@@ -21890,10 +22844,28 @@
           "elapsed_time_raw": "19:00",
           "placing_points": 10,
           "placing_points_raw": "10",
-          "series_total_points": null,
+          "series_total_points": 36,
           "total_swimmers": 67,
           "elapsed_position": 29,
           "elapsed_position_percent": 43.28358208955223
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:04",
+          "average_pace_seconds_per_100m": 124,
+          "pace_raw": "2:04",
+          "pace_seconds_per_100m": 124,
+          "elapsed_time_seconds": 1240,
+          "elapsed_time_raw": "20:40",
+          "placing_points": 5,
+          "placing_points_raw": "5",
+          "series_total_points": 36,
+          "total_swimmers": 56,
+          "elapsed_position": 24,
+          "elapsed_position_percent": 42.857142857142854
         }
       ]
     },
@@ -22391,7 +23363,7 @@
           "elapsed_time_raw": "30:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 24,
+          "series_total_points": 27,
           "total_swimmers": 70,
           "elapsed_position": 56,
           "elapsed_position_percent": 80
@@ -22409,7 +23381,7 @@
           "elapsed_time_raw": "30:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 24,
+          "series_total_points": 27,
           "total_swimmers": 53,
           "elapsed_position": 48,
           "elapsed_position_percent": 90.56603773584906
@@ -22445,7 +23417,7 @@
           "elapsed_time_raw": "30:24",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 24,
+          "series_total_points": 27,
           "total_swimmers": 58,
           "elapsed_position": 53,
           "elapsed_position_percent": 91.37931034482759
@@ -22481,7 +23453,7 @@
           "elapsed_time_raw": "30:24",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 24,
+          "series_total_points": 27,
           "total_swimmers": 60,
           "elapsed_position": 50,
           "elapsed_position_percent": 83.33333333333334
@@ -22499,7 +23471,7 @@
           "elapsed_time_raw": "30:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 24,
+          "series_total_points": 27,
           "total_swimmers": 43,
           "elapsed_position": 38,
           "elapsed_position_percent": 88.37209302325581
@@ -22553,7 +23525,7 @@
           "elapsed_time_raw": "29:42",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 24,
+          "series_total_points": 27,
           "total_swimmers": 54,
           "elapsed_position": 50,
           "elapsed_position_percent": 92.5925925925926
@@ -22589,7 +23561,7 @@
           "elapsed_time_raw": "26:40",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 24,
+          "series_total_points": 27,
           "total_swimmers": 59,
           "elapsed_position": 55,
           "elapsed_position_percent": 93.22033898305084
@@ -22625,7 +23597,7 @@
           "elapsed_time_raw": "25:20",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 24,
+          "series_total_points": 27,
           "total_swimmers": 67,
           "elapsed_position": 61,
           "elapsed_position_percent": 91.04477611940298
@@ -22647,6 +23619,24 @@
           "total_swimmers": 33,
           "elapsed_position": 32,
           "elapsed_position_percent": 96.96969696969697
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "2:42",
+          "average_pace_seconds_per_100m": 162,
+          "pace_raw": "2:42",
+          "pace_seconds_per_100m": 162,
+          "elapsed_time_seconds": 1620,
+          "elapsed_time_raw": "27:00",
+          "placing_points": 1,
+          "placing_points_raw": "1",
+          "series_total_points": 27,
+          "total_swimmers": 56,
+          "elapsed_position": 54,
+          "elapsed_position_percent": 96.42857142857143
         }
       ]
     },
@@ -22720,7 +23710,7 @@
           "elapsed_time_raw": "19:12",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": null,
+          "series_total_points": 28,
           "total_swimmers": 58,
           "elapsed_position": 2,
           "elapsed_position_percent": 3.4482758620689653
@@ -22756,7 +23746,7 @@
           "elapsed_time_raw": "19:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 28,
           "total_swimmers": 60,
           "elapsed_position": 3,
           "elapsed_position_percent": 5
@@ -22792,7 +23782,7 @@
           "elapsed_time_raw": "19:36",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": null,
+          "series_total_points": 28,
           "total_swimmers": 51,
           "elapsed_position": 4,
           "elapsed_position_percent": 7.8431372549019605
@@ -22810,7 +23800,7 @@
           "elapsed_time_raw": "18:53",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 28,
           "total_swimmers": 54,
           "elapsed_position": 4,
           "elapsed_position_percent": 7.4074074074074066
@@ -22828,7 +23818,7 @@
           "elapsed_time_raw": "17:40",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 28,
           "total_swimmers": 59,
           "elapsed_position": 7,
           "elapsed_position_percent": 11.864406779661017
@@ -22846,7 +23836,7 @@
           "elapsed_time_raw": "18:00",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 28,
           "total_swimmers": 67,
           "elapsed_position": 9,
           "elapsed_position_percent": 13.432835820895523
@@ -22886,6 +23876,24 @@
           "total_swimmers": 43,
           "elapsed_position": 3,
           "elapsed_position_percent": 6.976744186046512
+        },
+        {
+          "date": "2026-08-16",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1000,
+          "average_pace_raw": "1:35",
+          "average_pace_seconds_per_100m": 95,
+          "pace_raw": "1:35",
+          "pace_seconds_per_100m": 95,
+          "elapsed_time_seconds": 950,
+          "elapsed_time_raw": "15:50",
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": 28,
+          "total_swimmers": 56,
+          "elapsed_position": 1,
+          "elapsed_position_percent": 1.7857142857142856
         }
       ]
     },
