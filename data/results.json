@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T07:35:21.204Z",
+  "last_updated": "2026-09-19T01:29:07.812Z",
   "source": "Balmoral Beach Club SeriesResults lap=Y/lap=N and CalendarRep1 pages",
   "primarySwimmer": "Bennett, Emma",
   "config": {
@@ -1326,8 +1326,8 @@
           "placing_points_raw": "1",
           "series_total_points": 49,
           "total_swimmers": 57,
-          "elapsed_position": 22,
-          "elapsed_position_percent": 38.59649122807017
+          "elapsed_position": 21,
+          "elapsed_position_percent": 36.84210526315789
         }
       ]
     },
@@ -1799,8 +1799,8 @@
           "placing_points_raw": "2",
           "series_total_points": 38,
           "total_swimmers": 57,
-          "elapsed_position": 47,
-          "elapsed_position_percent": 82.45614035087719
+          "elapsed_position": 46,
+          "elapsed_position_percent": 80.7017543859649
         }
       ]
     },
@@ -2416,8 +2416,8 @@
           "placing_points_raw": "5",
           "series_total_points": 5,
           "total_swimmers": 57,
-          "elapsed_position": 34,
-          "elapsed_position_percent": 59.64912280701754
+          "elapsed_position": 33,
+          "elapsed_position_percent": 57.89473684210527
         }
       ]
     },
@@ -2750,8 +2750,8 @@
           "placing_points_raw": "1",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 27,
-          "elapsed_position_percent": 47.368421052631575
+          "elapsed_position": 26,
+          "elapsed_position_percent": 45.614035087719294
         }
       ]
     },
@@ -2953,8 +2953,8 @@
           "placing_points_raw": "2",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 39,
-          "elapsed_position_percent": 68.42105263157895
+          "elapsed_position": 38,
+          "elapsed_position_percent": 66.66666666666666
         }
       ]
     },
@@ -3123,7 +3123,7 @@
           "elapsed_time_raw": "19:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 53,
           "elapsed_position": 4,
           "elapsed_position_percent": 7.547169811320755
@@ -3159,7 +3159,7 @@
           "elapsed_time_raw": "20:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 58,
           "elapsed_position": 3,
           "elapsed_position_percent": 5.172413793103448
@@ -3195,7 +3195,7 @@
           "elapsed_time_raw": "20:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 60,
           "elapsed_position": 4,
           "elapsed_position_percent": 6.666666666666667
@@ -3231,7 +3231,7 @@
           "elapsed_time_raw": "19:12",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 43,
           "elapsed_position": 2,
           "elapsed_position_percent": 4.651162790697675
@@ -3285,7 +3285,7 @@
           "elapsed_time_raw": "20:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 51,
           "elapsed_position": 8,
           "elapsed_position_percent": 15.686274509803921
@@ -3321,7 +3321,7 @@
           "elapsed_time_raw": "19:15",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 54,
           "elapsed_position": 6,
           "elapsed_position_percent": 11.11111111111111
@@ -3339,7 +3339,7 @@
           "elapsed_time_raw": "16:40",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 59,
           "elapsed_position": 4,
           "elapsed_position_percent": 6.779661016949152
@@ -3357,7 +3357,7 @@
           "elapsed_time_raw": "15:10",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 67,
           "elapsed_position": 6,
           "elapsed_position_percent": 8.955223880597014
@@ -3393,7 +3393,7 @@
           "elapsed_time_raw": "16:10",
           "placing_points": 8,
           "placing_points_raw": "8",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 56,
           "elapsed_position": 4,
           "elapsed_position_percent": 7.142857142857142
@@ -3429,7 +3429,7 @@
           "elapsed_time_raw": "19:00",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 67,
           "elapsed_position": 4,
           "elapsed_position_percent": 5.970149253731343
@@ -3465,7 +3465,7 @@
           "elapsed_time_raw": "16:10",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 61,
           "elapsed_position": 8,
           "elapsed_position_percent": 13.114754098360656
@@ -3483,7 +3483,7 @@
           "elapsed_time_raw": "20:43",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 60,
           "elapsed_position": 7,
           "elapsed_position_percent": 11.666666666666666
@@ -3519,7 +3519,7 @@
           "elapsed_time_raw": "17:03",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": null,
+          "series_total_points": 6,
           "total_swimmers": 57,
           "elapsed_position": 5,
           "elapsed_position_percent": 8.771929824561402
@@ -4310,8 +4310,8 @@
           "placing_points_raw": "3",
           "series_total_points": 1,
           "total_swimmers": 57,
-          "elapsed_position": 32,
-          "elapsed_position_percent": 56.14035087719298
+          "elapsed_position": 31,
+          "elapsed_position_percent": 54.385964912280706
         }
       ]
     },
@@ -4500,8 +4500,8 @@
           "placing_points_raw": "1",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 19,
-          "elapsed_position_percent": 33.33333333333333
+          "elapsed_position": 18,
+          "elapsed_position_percent": 31.57894736842105
         }
       ]
     },
@@ -6301,8 +6301,8 @@
           "pace_seconds_per_100m": 103,
           "elapsed_time_seconds": 1133,
           "elapsed_time_raw": "18:53",
-          "placing_points": 1,
-          "placing_points_raw": "1",
+          "placing_points": 2,
+          "placing_points_raw": "2",
           "series_total_points": null,
           "total_swimmers": 57,
           "elapsed_position": 10,
@@ -6385,7 +6385,7 @@
           "elapsed_time_raw": "22:48",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 70,
           "elapsed_position": 13,
           "elapsed_position_percent": 18.571428571428573
@@ -6439,7 +6439,7 @@
           "elapsed_time_raw": "21:48",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 53,
           "elapsed_position": 11,
           "elapsed_position_percent": 20.754716981132077
@@ -6475,7 +6475,7 @@
           "elapsed_time_raw": "22:24",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 58,
           "elapsed_position": 12,
           "elapsed_position_percent": 20.689655172413794
@@ -6493,7 +6493,7 @@
           "elapsed_time_raw": "22:12",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 60,
           "elapsed_position": 13,
           "elapsed_position_percent": 21.666666666666668
@@ -6511,7 +6511,7 @@
           "elapsed_time_raw": "22:00",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 43,
           "elapsed_position": 9,
           "elapsed_position_percent": 20.930232558139537
@@ -6547,7 +6547,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 51,
           "elapsed_position": 13,
           "elapsed_position_percent": 25.49019607843137
@@ -6565,7 +6565,7 @@
           "elapsed_time_raw": "22:11",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 54,
           "elapsed_position": 16,
           "elapsed_position_percent": 29.629629629629626
@@ -6583,7 +6583,7 @@
           "elapsed_time_raw": "18:50",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 59,
           "elapsed_position": 10,
           "elapsed_position_percent": 16.94915254237288
@@ -6601,7 +6601,7 @@
           "elapsed_time_raw": "18:20",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 67,
           "elapsed_position": 10,
           "elapsed_position_percent": 14.925373134328357
@@ -6619,7 +6619,7 @@
           "elapsed_time_raw": "18:50",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 56,
           "elapsed_position": 14,
           "elapsed_position_percent": 25
@@ -6655,7 +6655,7 @@
           "elapsed_time_raw": "22:30",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 67,
           "elapsed_position": 21,
           "elapsed_position_percent": 31.343283582089555
@@ -6673,7 +6673,7 @@
           "elapsed_time_raw": "23:28",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 60,
           "elapsed_position": 13,
           "elapsed_position_percent": 21.666666666666668
@@ -6691,10 +6691,10 @@
           "elapsed_time_raw": "20:10",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 10,
+          "series_total_points": 9,
           "total_swimmers": 57,
-          "elapsed_position": 15,
-          "elapsed_position_percent": 26.31578947368421
+          "elapsed_position": 14,
+          "elapsed_position_percent": 24.561403508771928
         }
       ]
     },
@@ -7988,8 +7988,8 @@
           "placing_points_raw": "2",
           "series_total_points": 15,
           "total_swimmers": 57,
-          "elapsed_position": 31,
-          "elapsed_position_percent": 54.385964912280706
+          "elapsed_position": 30,
+          "elapsed_position_percent": 52.63157894736842
         }
       ]
     },
@@ -9065,7 +9065,7 @@
           "elapsed_time_raw": "26:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 28,
+          "series_total_points": 29,
           "total_swimmers": 70,
           "elapsed_position": 36,
           "elapsed_position_percent": 51.42857142857142
@@ -9083,7 +9083,7 @@
           "elapsed_time_raw": "24:48",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 28,
+          "series_total_points": 29,
           "total_swimmers": 53,
           "elapsed_position": 25,
           "elapsed_position_percent": 47.16981132075472
@@ -9101,7 +9101,7 @@
           "elapsed_time_raw": "25:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 28,
+          "series_total_points": 29,
           "total_swimmers": 58,
           "elapsed_position": 28,
           "elapsed_position_percent": 48.275862068965516
@@ -9119,7 +9119,7 @@
           "elapsed_time_raw": "24:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 28,
+          "series_total_points": 29,
           "total_swimmers": 60,
           "elapsed_position": 25,
           "elapsed_position_percent": 41.66666666666667
@@ -9137,7 +9137,7 @@
           "elapsed_time_raw": "27:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 28,
+          "series_total_points": 29,
           "total_swimmers": 51,
           "elapsed_position": 37,
           "elapsed_position_percent": 72.54901960784314
@@ -9155,7 +9155,7 @@
           "elapsed_time_raw": "25:07",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 28,
+          "series_total_points": 29,
           "total_swimmers": 54,
           "elapsed_position": 31,
           "elapsed_position_percent": 57.407407407407405
@@ -9173,7 +9173,7 @@
           "elapsed_time_raw": "22:10",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 28,
+          "series_total_points": 29,
           "total_swimmers": 59,
           "elapsed_position": 30,
           "elapsed_position_percent": 50.847457627118644
@@ -9191,7 +9191,7 @@
           "elapsed_time_raw": "22:10",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 28,
+          "series_total_points": 29,
           "total_swimmers": 67,
           "elapsed_position": 41,
           "elapsed_position_percent": 61.19402985074627
@@ -9209,7 +9209,7 @@
           "elapsed_time_raw": "20:20",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 28,
+          "series_total_points": 29,
           "total_swimmers": 67,
           "elapsed_position": 41,
           "elapsed_position_percent": 61.19402985074627
@@ -9396,8 +9396,8 @@
           "placing_points_raw": "3",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 16,
-          "elapsed_position_percent": 28.07017543859649
+          "elapsed_position": 15,
+          "elapsed_position_percent": 26.31578947368421
         }
       ]
     },
@@ -9922,8 +9922,8 @@
           "placing_points_raw": "5",
           "series_total_points": 87,
           "total_swimmers": 57,
-          "elapsed_position": 45,
-          "elapsed_position_percent": 78.94736842105263
+          "elapsed_position": 44,
+          "elapsed_position_percent": 77.19298245614034
         }
       ]
     },
@@ -9979,7 +9979,7 @@
           "elapsed_time_raw": "23:12",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 9,
+          "series_total_points": 8,
           "total_swimmers": 70,
           "elapsed_position": 18,
           "elapsed_position_percent": 25.71428571428571
@@ -10033,7 +10033,7 @@
           "elapsed_time_raw": "21:48",
           "placing_points": 9,
           "placing_points_raw": "9",
-          "series_total_points": 9,
+          "series_total_points": 8,
           "total_swimmers": 53,
           "elapsed_position": 12,
           "elapsed_position_percent": 22.641509433962266
@@ -10069,7 +10069,7 @@
           "elapsed_time_raw": "22:12",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 9,
+          "series_total_points": 8,
           "total_swimmers": 58,
           "elapsed_position": 9,
           "elapsed_position_percent": 15.517241379310345
@@ -10105,7 +10105,7 @@
           "elapsed_time_raw": "21:36",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 9,
+          "series_total_points": 8,
           "total_swimmers": 43,
           "elapsed_position": 6,
           "elapsed_position_percent": 13.953488372093023
@@ -10159,7 +10159,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 9,
+          "series_total_points": 8,
           "total_swimmers": 51,
           "elapsed_position": 15,
           "elapsed_position_percent": 29.411764705882355
@@ -10213,7 +10213,7 @@
           "elapsed_time_raw": "18:40",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 9,
+          "series_total_points": 8,
           "total_swimmers": 59,
           "elapsed_position": 9,
           "elapsed_position_percent": 15.254237288135593
@@ -10249,7 +10249,7 @@
           "elapsed_time_raw": "18:00",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 9,
+          "series_total_points": 8,
           "total_swimmers": 67,
           "elapsed_position": 8,
           "elapsed_position_percent": 11.940298507462686
@@ -10303,7 +10303,7 @@
           "elapsed_time_raw": "18:30",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 9,
+          "series_total_points": 8,
           "total_swimmers": 56,
           "elapsed_position": 12,
           "elapsed_position_percent": 21.428571428571427
@@ -10339,7 +10339,7 @@
           "elapsed_time_raw": "20:50",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 9,
+          "series_total_points": 8,
           "total_swimmers": 67,
           "elapsed_position": 12,
           "elapsed_position_percent": 17.91044776119403
@@ -10585,8 +10585,8 @@
           "placing_points_raw": "1",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 40,
-          "elapsed_position_percent": 70.17543859649122
+          "elapsed_position": 39,
+          "elapsed_position_percent": 68.42105263157895
         }
       ]
     },
@@ -10788,8 +10788,8 @@
           "placing_points_raw": "3",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 17,
-          "elapsed_position_percent": 29.82456140350877
+          "elapsed_position": 16,
+          "elapsed_position_percent": 28.07017543859649
         }
       ]
     },
@@ -11217,8 +11217,8 @@
           "placing_points_raw": "1",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 35,
-          "elapsed_position_percent": 61.40350877192983
+          "elapsed_position": 34,
+          "elapsed_position_percent": 59.64912280701754
         }
       ]
     },
@@ -11931,8 +11931,8 @@
           "placing_points_raw": "4",
           "series_total_points": 16,
           "total_swimmers": 57,
-          "elapsed_position": 37,
-          "elapsed_position_percent": 64.91228070175438
+          "elapsed_position": 36,
+          "elapsed_position_percent": 63.1578947368421
         }
       ]
     },
@@ -12612,8 +12612,8 @@
           "placing_points_raw": "7",
           "series_total_points": 32,
           "total_swimmers": 57,
-          "elapsed_position": 21,
-          "elapsed_position_percent": 36.84210526315789
+          "elapsed_position": 20,
+          "elapsed_position_percent": 35.08771929824561
         }
       ]
     },
@@ -13280,8 +13280,8 @@
           "placing_points_raw": "1",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 48,
-          "elapsed_position_percent": 84.21052631578947
+          "elapsed_position": 47,
+          "elapsed_position_percent": 82.45614035087719
         }
       ]
     },
@@ -13337,7 +13337,7 @@
           "elapsed_time_raw": "22:48",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 70,
           "elapsed_position": 15,
           "elapsed_position_percent": 21.428571428571427
@@ -13391,7 +13391,7 @@
           "elapsed_time_raw": "22:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 53,
           "elapsed_position": 14,
           "elapsed_position_percent": 26.41509433962264
@@ -13427,7 +13427,7 @@
           "elapsed_time_raw": "27:12",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 58,
           "elapsed_position": 39,
           "elapsed_position_percent": 67.24137931034483
@@ -13463,7 +13463,7 @@
           "elapsed_time_raw": "23:00",
           "placing_points": 10,
           "placing_points_raw": "10",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 60,
           "elapsed_position": 17,
           "elapsed_position_percent": 28.333333333333332
@@ -13481,7 +13481,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 43,
           "elapsed_position": 11,
           "elapsed_position_percent": 25.581395348837212
@@ -13517,7 +13517,7 @@
           "elapsed_time_raw": "22:33",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 54,
           "elapsed_position": 17,
           "elapsed_position_percent": 31.48148148148148
@@ -13553,7 +13553,7 @@
           "elapsed_time_raw": "18:50",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 67,
           "elapsed_position": 14,
           "elapsed_position_percent": 20.8955223880597
@@ -13607,7 +13607,7 @@
           "elapsed_time_raw": "19:50",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 56,
           "elapsed_position": 18,
           "elapsed_position_percent": 32.142857142857146
@@ -13643,7 +13643,7 @@
           "elapsed_time_raw": "22:40",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 67,
           "elapsed_position": 24,
           "elapsed_position_percent": 35.82089552238806
@@ -13661,7 +13661,7 @@
           "elapsed_time_raw": "18:50",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 61,
           "elapsed_position": 18,
           "elapsed_position_percent": 29.508196721311474
@@ -13697,7 +13697,7 @@
           "elapsed_time_raw": "23:28",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 6,
+          "series_total_points": 10,
           "total_swimmers": 60,
           "elapsed_position": 14,
           "elapsed_position_percent": 23.333333333333332
@@ -13719,24 +13719,6 @@
           "total_swimmers": 48,
           "elapsed_position": 12,
           "elapsed_position_percent": 25
-        },
-        {
-          "date": "2026-09-13",
-          "day": "Sunday",
-          "series": "Sun",
-          "distance_m": 1100,
-          "average_pace_raw": "1:49",
-          "average_pace_seconds_per_100m": 109,
-          "pace_raw": "1:49",
-          "pace_seconds_per_100m": 109,
-          "elapsed_time_seconds": 1199,
-          "elapsed_time_raw": "19:59",
-          "placing_points": 4,
-          "placing_points_raw": "4",
-          "series_total_points": 6,
-          "total_swimmers": 57,
-          "elapsed_position": 14,
-          "elapsed_position_percent": 24.561403508771928
         }
       ]
     },
@@ -13830,8 +13812,8 @@
           "placing_points_raw": "3",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 20,
-          "elapsed_position_percent": 35.08771929824561
+          "elapsed_position": 19,
+          "elapsed_position_percent": 33.33333333333333
         }
       ]
     },
@@ -14600,6 +14582,24 @@
           "total_swimmers": 48,
           "elapsed_position": 42,
           "elapsed_position_percent": 87.5
+        },
+        {
+          "date": "2026-09-13",
+          "day": "Sunday",
+          "series": "Sun",
+          "distance_m": 1100,
+          "average_pace_raw": "2:29",
+          "average_pace_seconds_per_100m": 149,
+          "pace_raw": "2:29",
+          "pace_seconds_per_100m": 149,
+          "elapsed_time_seconds": 1639,
+          "elapsed_time_raw": "27:19",
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": null,
+          "total_swimmers": 57,
+          "elapsed_position": 51,
+          "elapsed_position_percent": 89.47368421052632
         }
       ]
     },
@@ -15325,8 +15325,8 @@
           "placing_points_raw": "4",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 46,
-          "elapsed_position_percent": 80.7017543859649
+          "elapsed_position": 45,
+          "elapsed_position_percent": 78.94736842105263
         }
       ]
     },
@@ -15649,7 +15649,7 @@
           "elapsed_time_raw": "25:20",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 65,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 60,
           "elapsed_position_percent": 89.55223880597015
@@ -15667,7 +15667,7 @@
           "elapsed_time_raw": "22:50",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 65,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 56,
           "elapsed_position_percent": 83.5820895522388
@@ -15685,7 +15685,7 @@
           "elapsed_time_raw": "25:40",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 65,
+          "series_total_points": null,
           "total_swimmers": 56,
           "elapsed_position": 50,
           "elapsed_position_percent": 89.28571428571429
@@ -15703,7 +15703,7 @@
           "elapsed_time_raw": "28:20",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 65,
+          "series_total_points": null,
           "total_swimmers": 67,
           "elapsed_position": 57,
           "elapsed_position_percent": 85.07462686567165
@@ -15721,7 +15721,7 @@
           "elapsed_time_raw": "23:40",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 65,
+          "series_total_points": null,
           "total_swimmers": 61,
           "elapsed_position": 50,
           "elapsed_position_percent": 81.9672131147541
@@ -15739,10 +15739,10 @@
           "elapsed_time_raw": "25:07",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 65,
+          "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 42,
-          "elapsed_position_percent": 73.68421052631578
+          "elapsed_position": 41,
+          "elapsed_position_percent": 71.9298245614035
         }
       ]
     },
@@ -15859,8 +15859,8 @@
           "placing_points_raw": "10",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 28,
-          "elapsed_position_percent": 49.122807017543856
+          "elapsed_position": 27,
+          "elapsed_position_percent": 47.368421052631575
         }
       ]
     },
@@ -17360,8 +17360,8 @@
           "placing_points_raw": "8",
           "series_total_points": 17,
           "total_swimmers": 57,
-          "elapsed_position": 36,
-          "elapsed_position_percent": 63.1578947368421
+          "elapsed_position": 35,
+          "elapsed_position_percent": 61.40350877192983
         }
       ]
     },
@@ -18118,8 +18118,8 @@
           "placing_points_raw": "6",
           "series_total_points": 73,
           "total_swimmers": 57,
-          "elapsed_position": 41,
-          "elapsed_position_percent": 71.9298245614035
+          "elapsed_position": 40,
+          "elapsed_position_percent": 70.17543859649122
         }
       ]
     },
@@ -19282,8 +19282,8 @@
           "placing_points_raw": "3",
           "series_total_points": 33,
           "total_swimmers": 57,
-          "elapsed_position": 18,
-          "elapsed_position_percent": 31.57894736842105
+          "elapsed_position": 17,
+          "elapsed_position_percent": 29.82456140350877
         }
       ]
     },
@@ -19303,7 +19303,7 @@
           "elapsed_time_raw": "24:24",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 114,
+          "series_total_points": 115,
           "total_swimmers": 70,
           "elapsed_position": 23,
           "elapsed_position_percent": 32.857142857142854
@@ -19362,7 +19362,7 @@
           "elapsed_time_raw": "25:24",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 70,
           "elapsed_position": 34,
           "elapsed_position_percent": 48.57142857142857
@@ -19380,7 +19380,7 @@
           "elapsed_time_raw": "25:12",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 53,
           "elapsed_position": 27,
           "elapsed_position_percent": 50.943396226415096
@@ -19398,7 +19398,7 @@
           "elapsed_time_raw": "22:12",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 58,
           "elapsed_position": 11,
           "elapsed_position_percent": 18.96551724137931
@@ -19416,7 +19416,7 @@
           "elapsed_time_raw": "22:00",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 60,
           "elapsed_position": 12,
           "elapsed_position_percent": 20
@@ -19434,7 +19434,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 43,
           "elapsed_position": 12,
           "elapsed_position_percent": 27.906976744186046
@@ -19452,7 +19452,7 @@
           "elapsed_time_raw": "22:36",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 51,
           "elapsed_position": 16,
           "elapsed_position_percent": 31.372549019607842
@@ -19470,7 +19470,7 @@
           "elapsed_time_raw": "21:27",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 54,
           "elapsed_position": 14,
           "elapsed_position_percent": 25.925925925925924
@@ -19488,7 +19488,7 @@
           "elapsed_time_raw": "18:30",
           "placing_points": 6,
           "placing_points_raw": "6",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 59,
           "elapsed_position": 8,
           "elapsed_position_percent": 13.559322033898304
@@ -19506,7 +19506,7 @@
           "elapsed_time_raw": "18:50",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 67,
           "elapsed_position": 16,
           "elapsed_position_percent": 23.88059701492537
@@ -19524,7 +19524,7 @@
           "elapsed_time_raw": "17:20",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 67,
           "elapsed_position": 15,
           "elapsed_position_percent": 22.388059701492537
@@ -19542,7 +19542,7 @@
           "elapsed_time_raw": "22:40",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 67,
           "elapsed_position": 26,
           "elapsed_position_percent": 38.80597014925373
@@ -19596,7 +19596,7 @@
           "elapsed_time_raw": "23:39",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 8,
+          "series_total_points": 7,
           "total_swimmers": 60,
           "elapsed_position": 17,
           "elapsed_position_percent": 28.333333333333332
@@ -19655,7 +19655,7 @@
           "elapsed_time_raw": "25:24",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 69,
+          "series_total_points": 65,
           "total_swimmers": 70,
           "elapsed_position": 35,
           "elapsed_position_percent": 50
@@ -19709,7 +19709,7 @@
           "elapsed_time_raw": "25:00",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 69,
+          "series_total_points": 65,
           "total_swimmers": 60,
           "elapsed_position": 28,
           "elapsed_position_percent": 46.666666666666664
@@ -19727,7 +19727,7 @@
           "elapsed_time_raw": "25:00",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 69,
+          "series_total_points": 65,
           "total_swimmers": 43,
           "elapsed_position": 19,
           "elapsed_position_percent": 44.18604651162791
@@ -19835,7 +19835,7 @@
           "elapsed_time_raw": "19:40",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 69,
+          "series_total_points": 65,
           "total_swimmers": 67,
           "elapsed_position": 36,
           "elapsed_position_percent": 53.73134328358209
@@ -19889,7 +19889,7 @@
           "elapsed_time_raw": "20:30",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 69,
+          "series_total_points": 65,
           "total_swimmers": 61,
           "elapsed_position": 29,
           "elapsed_position_percent": 47.540983606557376
@@ -19907,7 +19907,7 @@
           "elapsed_time_raw": "25:40",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 69,
+          "series_total_points": 65,
           "total_swimmers": 60,
           "elapsed_position": 25,
           "elapsed_position_percent": 41.66666666666667
@@ -19941,12 +19941,12 @@
           "pace_seconds_per_100m": 122,
           "elapsed_time_seconds": 1342,
           "elapsed_time_raw": "22:22",
-          "placing_points": 2,
-          "placing_points_raw": "2",
-          "series_total_points": 69,
+          "placing_points": 3,
+          "placing_points_raw": "3",
+          "series_total_points": 65,
           "total_swimmers": 57,
-          "elapsed_position": 29,
-          "elapsed_position_percent": 50.877192982456144
+          "elapsed_position": 28,
+          "elapsed_position_percent": 49.122807017543856
         }
       ]
     },
@@ -20729,8 +20729,8 @@
           "placing_points_raw": "4",
           "series_total_points": 23,
           "total_swimmers": 57,
-          "elapsed_position": 38,
-          "elapsed_position_percent": 66.66666666666666
+          "elapsed_position": 37,
+          "elapsed_position_percent": 64.91228070175438
         }
       ]
     },
@@ -21974,8 +21974,8 @@
           "placing_points_raw": "6",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 44,
-          "elapsed_position_percent": 77.19298245614034
+          "elapsed_position": 43,
+          "elapsed_position_percent": 75.43859649122807
         }
       ]
     },
@@ -23364,8 +23364,8 @@
           "placing_points_raw": "3",
           "series_total_points": 18,
           "total_swimmers": 57,
-          "elapsed_position": 23,
-          "elapsed_position_percent": 40.35087719298245
+          "elapsed_position": 22,
+          "elapsed_position_percent": 38.59649122807017
         }
       ]
     },
@@ -23973,8 +23973,8 @@
           "placing_points_raw": "2",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 51,
-          "elapsed_position_percent": 89.47368421052632
+          "elapsed_position": 50,
+          "elapsed_position_percent": 87.71929824561403
         }
       ]
     },
@@ -25011,8 +25011,8 @@
           "placing_points_raw": "4",
           "series_total_points": 89,
           "total_swimmers": 57,
-          "elapsed_position": 30,
-          "elapsed_position_percent": 52.63157894736842
+          "elapsed_position": 29,
+          "elapsed_position_percent": 50.877192982456144
         }
       ]
     },
@@ -25491,8 +25491,8 @@
           "placing_points_raw": "1",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 24,
-          "elapsed_position_percent": 42.10526315789473
+          "elapsed_position": 23,
+          "elapsed_position_percent": 40.35087719298245
         }
       ]
     },
@@ -25865,8 +25865,8 @@
           "placing_points_raw": "5",
           "series_total_points": null,
           "total_swimmers": 57,
-          "elapsed_position": 25,
-          "elapsed_position_percent": 43.859649122807014
+          "elapsed_position": 24,
+          "elapsed_position_percent": 42.10526315789473
         }
       ]
     },
@@ -26631,8 +26631,8 @@
           "placing_points_raw": "3",
           "series_total_points": 3,
           "total_swimmers": 57,
-          "elapsed_position": 26,
-          "elapsed_position_percent": 45.614035087719294
+          "elapsed_position": 25,
+          "elapsed_position_percent": 43.859649122807014
         }
       ]
     },
@@ -27815,8 +27815,8 @@
           "placing_points_raw": "6",
           "series_total_points": 4,
           "total_swimmers": 57,
-          "elapsed_position": 43,
-          "elapsed_position_percent": 75.43859649122807
+          "elapsed_position": 42,
+          "elapsed_position_percent": 73.68421052631578
         }
       ]
     },
@@ -28362,8 +28362,8 @@
           "placing_points_raw": "1",
           "series_total_points": 105,
           "total_swimmers": 57,
-          "elapsed_position": 50,
-          "elapsed_position_percent": 87.71929824561403
+          "elapsed_position": 49,
+          "elapsed_position_percent": 85.96491228070175
         }
       ]
     },
@@ -28500,7 +28500,7 @@
           "elapsed_time_raw": "19:36",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 72,
+          "series_total_points": 70,
           "total_swimmers": 51,
           "elapsed_position": 3,
           "elapsed_position_percent": 5.88235294117647
@@ -28518,7 +28518,7 @@
           "elapsed_time_raw": "17:10",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 72,
+          "series_total_points": 70,
           "total_swimmers": 67,
           "elapsed_position": 7,
           "elapsed_position_percent": 10.44776119402985
@@ -28536,7 +28536,7 @@
           "elapsed_time_raw": "15:40",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 72,
+          "series_total_points": 70,
           "total_swimmers": 67,
           "elapsed_position": 12,
           "elapsed_position_percent": 17.91044776119403
@@ -28554,7 +28554,7 @@
           "elapsed_time_raw": "17:20",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 72,
+          "series_total_points": 70,
           "total_swimmers": 56,
           "elapsed_position": 11,
           "elapsed_position_percent": 19.642857142857142
@@ -28572,7 +28572,7 @@
           "elapsed_time_raw": "15:50",
           "placing_points": 7,
           "placing_points_raw": "7",
-          "series_total_points": 72,
+          "series_total_points": 70,
           "total_swimmers": 61,
           "elapsed_position": 6,
           "elapsed_position_percent": 9.836065573770492
@@ -28590,7 +28590,7 @@
           "elapsed_time_raw": "19:59",
           "placing_points": 9,
           "placing_points_raw": "9",
-          "series_total_points": 72,
+          "series_total_points": 70,
           "total_swimmers": 60,
           "elapsed_position": 2,
           "elapsed_position_percent": 3.3333333333333335
@@ -28606,9 +28606,9 @@
           "pace_seconds_per_100m": 92,
           "elapsed_time_seconds": 1012,
           "elapsed_time_raw": "16:52",
-          "placing_points": 3,
-          "placing_points_raw": "3",
-          "series_total_points": 72,
+          "placing_points": 4,
+          "placing_points_raw": "4",
+          "series_total_points": 70,
           "total_swimmers": 57,
           "elapsed_position": 3,
           "elapsed_position_percent": 5.263157894736842
@@ -29971,8 +29971,8 @@
           "placing_points_raw": "4",
           "series_total_points": 53,
           "total_swimmers": 57,
-          "elapsed_position": 49,
-          "elapsed_position_percent": 85.96491228070175
+          "elapsed_position": 48,
+          "elapsed_position_percent": 84.21052631578947
         }
       ]
     },
@@ -30269,8 +30269,8 @@
           "placing_points_raw": "2",
           "series_total_points": 39,
           "total_swimmers": 57,
-          "elapsed_position": 33,
-          "elapsed_position_percent": 57.89473684210527
+          "elapsed_position": 32,
+          "elapsed_position_percent": 56.14035087719298
         }
       ]
     },
@@ -30930,7 +30930,7 @@
           "elapsed_time_raw": "30:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 70,
           "elapsed_position": 56,
           "elapsed_position_percent": 80
@@ -30948,7 +30948,7 @@
           "elapsed_time_raw": "30:36",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 53,
           "elapsed_position": 48,
           "elapsed_position_percent": 90.56603773584906
@@ -30984,7 +30984,7 @@
           "elapsed_time_raw": "30:24",
           "placing_points": 5,
           "placing_points_raw": "5",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 58,
           "elapsed_position": 53,
           "elapsed_position_percent": 91.37931034482759
@@ -31020,7 +31020,7 @@
           "elapsed_time_raw": "30:24",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 60,
           "elapsed_position": 50,
           "elapsed_position_percent": 83.33333333333334
@@ -31038,7 +31038,7 @@
           "elapsed_time_raw": "30:36",
           "placing_points": 3,
           "placing_points_raw": "3",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 43,
           "elapsed_position": 38,
           "elapsed_position_percent": 88.37209302325581
@@ -31092,7 +31092,7 @@
           "elapsed_time_raw": "29:42",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 54,
           "elapsed_position": 50,
           "elapsed_position_percent": 92.5925925925926
@@ -31128,7 +31128,7 @@
           "elapsed_time_raw": "26:40",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 59,
           "elapsed_position": 55,
           "elapsed_position_percent": 93.22033898305084
@@ -31164,7 +31164,7 @@
           "elapsed_time_raw": "25:20",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 67,
           "elapsed_position": 61,
           "elapsed_position_percent": 91.04477611940298
@@ -31200,7 +31200,7 @@
           "elapsed_time_raw": "27:00",
           "placing_points": 1,
           "placing_points_raw": "1",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 56,
           "elapsed_position": 54,
           "elapsed_position_percent": 96.42857142857143
@@ -31236,7 +31236,7 @@
           "elapsed_time_raw": "29:20",
           "placing_points": 4,
           "placing_points_raw": "4",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 67,
           "elapsed_position": 65,
           "elapsed_position_percent": 97.01492537313433
@@ -31272,7 +31272,7 @@
           "elapsed_time_raw": "24:50",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 61,
           "elapsed_position": 58,
           "elapsed_position_percent": 95.08196721311475
@@ -31308,7 +31308,7 @@
           "elapsed_time_raw": "30:48",
           "placing_points": 2,
           "placing_points_raw": "2",
-          "series_total_points": 27,
+          "series_total_points": 28,
           "total_swimmers": 60,
           "elapsed_position": 57,
           "elapsed_position_percent": 95
